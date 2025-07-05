@@ -1,0 +1,21 @@
+[
+    {"QuarterId":253856,"Name":"BAYRAKTAR ATATÜRK","TypeCode":3,"TypeDescription":"CADDESİ","Id":197354,"LastUpdate":null},
+    {"QuarterId":253856,"Name":"BAĞDAT","TypeCode":4,"TypeDescription":"SOKAK","Id":197355,"LastUpdate":null},
+    {"QuarterId":253856,"Name":"LALE","TypeCode":4,"TypeDescription":"SOKAK","Id":197356,"LastUpdate":null},
+    {"QuarterId":253856,"Name":"CELAL","TypeCode":4,"TypeDescription":"SOKAK","Id":197357,"LastUpdate":null},
+    {"QuarterId":253856,"Name":"PINAR","TypeCode":4,"TypeDescription":"SOKAK","Id":281012,"LastUpdate":null},
+    {"QuarterId":253856,"Name":"CEYHAN","TypeCode":4,"TypeDescription":"SOKAK","Id":281013,"LastUpdate":null},
+    {"QuarterId":253856,"Name":"UZUN","TypeCode":4,"TypeDescription":"SOKAK","Id":419240,"LastUpdate":null},
+    {"QuarterId":253856,"Name":"ÇİMEN","TypeCode":4,"TypeDescription":"SOKAK","Id":426843,"LastUpdate":null},
+    {"QuarterId":253856,"Name":"ATMACA","TypeCode":4,"TypeDescription":"SOKAK","Id":426844,"LastUpdate":null},
+    {"QuarterId":253856,"Name":"HARA","TypeCode":4,"TypeDescription":"SOKAK","Id":426845,"LastUpdate":null},
+    {"QuarterId":25946,"Name":"KÖYÜN KENDİSİ_1","TypeCode":5,"TypeDescription":"KÜME EVLERİ","Id":478669,"LastUpdate":null},
+    {"QuarterId":25959,"Name":"YENİKÖY","TypeCode":5,"TypeDescription":"KÜME EVLERİ","Id":645783,"LastUpdate":null},
+    {"QuarterId":25960,"Name":"GÖLBAŞI","TypeCode":5,"TypeDescription":"KÜME EVLERİ","Id":645784,"LastUpdate":null},
+    {"QuarterId":253856,"Name":"ZEYTİN","TypeCode":4,"TypeDescription":"SOKAK","Id":864434,"LastUpdate":null},
+    {"QuarterId":253856,"Name":"ÜRETKEN","TypeCode":4,"TypeDescription":"SOKAK","Id":864474,"LastUpdate":null},
+    {"QuarterId":253856,"Name":"GÜN","TypeCode":4,"TypeDescription":"SOKAK","Id":878597,"LastUpdate":null},
+    {"QuarterId":253856,"Name":"KİRAZOĞLU","TypeCode":4,"TypeDescription":"SOKAK","Id":935742,"LastUpdate":null},
+    {"QuarterId":253856,"Name":"AKMEŞE YOLU","TypeCode":3,"TypeDescription":"CADDESİ","Id":73797615,"LastUpdate":null},
+    {"QuarterId":253856,"Name":"KUZEY MARMARA OTOYOLU","TypeCode":2,"TypeDescription":"BULVARI","Id":156357821,"LastUpdate":null}
+]
