@@ -1,0 +1,8759 @@
+[
+  {
+    "ilno": 1,
+    "no": 1757,
+    "il": "Adana",
+    "isim": "Aladağ",
+    "nufus": 16954,
+    "alan": 1340,
+    "postakod": "01720"
+  },
+  {
+    "ilno": 1,
+    "no": 1219,
+    "il": "Adana",
+    "isim": "Ceyhan",
+    "nufus": 156610,
+    "alan": 1426,
+    "postakod": "01920"
+  },
+  {
+    "ilno": 1,
+    "no": 2033,
+    "il": "Adana",
+    "isim": "Çukurova",
+    "nufus": 374205,
+    "alan": 250,
+    "postakod": "01360"
+  },
+  {
+    "ilno": 1,
+    "no": 1329,
+    "il": "Adana",
+    "isim": "Feke",
+    "nufus": 17304,
+    "alan": 1218,
+    "postakod": "01660"
+  },
+  {
+    "ilno": 1,
+    "no": 1806,
+    "il": "Adana",
+    "isim": "İmamoğlu",
+    "nufus": 27341,
+    "alan": 445,
+    "postakod": "01700"
+  },
+  {
+    "ilno": 1,
+    "no": 1437,
+    "il": "Adana",
+    "isim": "Karaisalı",
+    "nufus": 23105,
+    "alan": 1165,
+    "postakod": "01770"
+  },
+  {
+    "ilno": 1,
+    "no": 1443,
+    "il": "Adana",
+    "isim": "Karataş",
+    "nufus": 25245,
+    "alan": 862,
+    "postakod": "01900"
+  },
+  {
+    "ilno": 1,
+    "no": 1486,
+    "il": "Adana",
+    "isim": "Kozan",
+    "nufus": 132642,
+    "alan": 1903,
+    "postakod": "01530"
+  },
+  {
+    "ilno": 1,
+    "no": 1580,
+    "il": "Adana",
+    "isim": "Pozantı",
+    "nufus": 20733,
+    "alan": 899,
+    "postakod": "01490"
+  },
+  {
+    "ilno": 1,
+    "no": 1588,
+    "il": "Adana",
+    "isim": "Saimbeyli",
+    "nufus": 13857,
+    "alan": 989,
+    "postakod": "01740"
+  },
+  {
+    "ilno": 1,
+    "no": 2032,
+    "il": "Adana",
+    "isim": "Sarıçam",
+    "nufus": 236298,
+    "alan": 770,
+    "postakod": "01410"
+  },
+  {
+    "ilno": 1,
+    "no": 1104,
+    "il": "Adana",
+    "isim": "Seyhan",
+    "nufus": 787771,
+    "alan": 444,
+    "postakod": "01040"
+  },
+  {
+    "ilno": 1,
+    "no": 1687,
+    "il": "Adana",
+    "isim": "Tufanbeyli",
+    "nufus": 17258,
+    "alan": 851,
+    "postakod": "01640"
+  },
+  {
+    "ilno": 1,
+    "no": 1734,
+    "il": "Adana",
+    "isim": "Yumurtalık",
+    "nufus": 18630,
+    "alan": 447,
+    "postakod": "01680"
+  },
+  {
+    "ilno": 1,
+    "no": 1748,
+    "il": "Adana",
+    "isim": "Yüreğir",
+    "nufus": 402345,
+    "alan": 835,
+    "postakod": "01358"
+  },
+  {
+    "ilno": 2,
+    "no": 1182,
+    "il": "Adıyaman",
+    "isim": "Besni",
+    "nufus": 76415,
+    "alan": 1235,
+    "postakod": "02300"
+  },
+  {
+    "ilno": 2,
+    "no": 1246,
+    "il": "Adıyaman",
+    "isim": "Çelikhan",
+    "nufus": 14856,
+    "alan": 444,
+    "postakod": "02600"
+  },
+  {
+    "ilno": 2,
+    "no": 1347,
+    "il": "Adıyaman",
+    "isim": "Gerger",
+    "nufus": 15679,
+    "alan": 668,
+    "postakod": "02700"
+  },
+  {
+    "ilno": 2,
+    "no": 1354,
+    "il": "Adıyaman",
+    "isim": "Gölbaşı",
+    "nufus": 47876,
+    "alan": 1274,
+    "postakod": "02530"
+  },
+  {
+    "ilno": 2,
+    "no": 1425,
+    "il": "Adıyaman",
+    "isim": "Kahta",
+    "nufus": 132303,
+    "alan": 319,
+    "postakod": "02450"
+  },
+  {
+    "ilno": 2,
+    "no": 1105,
+    "il": "Adıyaman",
+    "isim": "Merkez",
+    "nufus": 284839,
+    "alan": 1814,
+    "postakod": "02230"
+  },
+  {
+    "ilno": 2,
+    "no": 1592,
+    "il": "Adıyaman",
+    "isim": "Samsat",
+    "nufus": 6898,
+    "alan": 319,
+    "postakod": "02800"
+  },
+  {
+    "ilno": 2,
+    "no": 1985,
+    "il": "Adıyaman",
+    "isim": "Sincik",
+    "nufus": 16477,
+    "alan": 495,
+    "postakod": "02920"
+  },
+  {
+    "ilno": 2,
+    "no": 1989,
+    "il": "Adıyaman",
+    "isim": "Tut",
+    "nufus": 9635,
+    "alan": 290,
+    "postakod": "02350"
+  },
+  {
+    "ilno": 3,
+    "no": 1771,
+    "il": "Afyonkarahisar",
+    "isim": "Başmakçı",
+    "nufus": 9378,
+    "alan": 361,
+    "postakod": "03450"
+  },
+  {
+    "ilno": 3,
+    "no": 1773,
+    "il": "Afyonkarahisar",
+    "isim": "Bayat",
+    "nufus": 7852,
+    "alan": 411,
+    "postakod": "03780"
+  },
+  {
+    "ilno": 3,
+    "no": 1200,
+    "il": "Afyonkarahisar",
+    "isim": "Bolvadin",
+    "nufus": 45073,
+    "alan": 944,
+    "postakod": "03300"
+  },
+  {
+    "ilno": 3,
+    "no": 1239,
+    "il": "Afyonkarahisar",
+    "isim": "Çay",
+    "nufus": 29935,
+    "alan": 803,
+    "postakod": "03700"
+  },
+  {
+    "ilno": 3,
+    "no": 1906,
+    "il": "Afyonkarahisar",
+    "isim": "Çobanlar",
+    "nufus": 14404,
+    "alan": 165,
+    "postakod": "03060"
+  },
+  {
+    "ilno": 3,
+    "no": 1267,
+    "il": "Afyonkarahisar",
+    "isim": "Dazkırı",
+    "nufus": 11642,
+    "alan": 408,
+    "postakod": "03950"
+  },
+  {
+    "ilno": 3,
+    "no": 1281,
+    "il": "Afyonkarahisar",
+    "isim": "Dinar",
+    "nufus": 47492,
+    "alan": 1254,
+    "postakod": "03400"
+  },
+  {
+    "ilno": 3,
+    "no": 1306,
+    "il": "Afyonkarahisar",
+    "isim": "Emirdağ",
+    "nufus": 43603,
+    "alan": 2103,
+    "postakod": "03630"
+  },
+  {
+    "ilno": 3,
+    "no": 1923,
+    "il": "Afyonkarahisar",
+    "isim": "Evciler",
+    "nufus": 7173,
+    "alan": 252,
+    "postakod": "03960"
+  },
+  {
+    "ilno": 3,
+    "no": 1944,
+    "il": "Afyonkarahisar",
+    "isim": "Hocalar",
+    "nufus": 8644,
+    "alan": 506,
+    "postakod": "03530"
+  },
+  {
+    "ilno": 3,
+    "no": 1404,
+    "il": "Afyonkarahisar",
+    "isim": "İhsaniye",
+    "nufus": 29044,
+    "alan": 849,
+    "postakod": "03380"
+  },
+  {
+    "ilno": 3,
+    "no": 1809,
+    "il": "Afyonkarahisar",
+    "isim": "İscehisar",
+    "nufus": 25033,
+    "alan": 489,
+    "postakod": "03750"
+  },
+  {
+    "ilno": 3,
+    "no": 1961,
+    "il": "Afyonkarahisar",
+    "isim": "Kızılören",
+    "nufus": 2107,
+    "alan": 111,
+    "postakod": "03560"
+  },
+  {
+    "ilno": 3,
+    "no": 1108,
+    "il": "Afyonkarahisar",
+    "isim": "Merkez",
+    "nufus": 324685,
+    "alan": 1261,
+    "postakod": "03217"
+  },
+  {
+    "ilno": 3,
+    "no": 1594,
+    "il": "Afyonkarahisar",
+    "isim": "Sandıklı",
+    "nufus": 55413,
+    "alan": 1238,
+    "postakod": "03510"
+  },
+  {
+    "ilno": 3,
+    "no": 1626,
+    "il": "Afyonkarahisar",
+    "isim": "Sinanpaşa",
+    "nufus": 39566,
+    "alan": 889,
+    "postakod": "03860"
+  },
+  {
+    "ilno": 3,
+    "no": 1639,
+    "il": "Afyonkarahisar",
+    "isim": "Sultandağı",
+    "nufus": 14229,
+    "alan": 928,
+    "postakod": "03910"
+  },
+  {
+    "ilno": 3,
+    "no": 1664,
+    "il": "Afyonkarahisar",
+    "isim": "Şuhut",
+    "nufus": 36071,
+    "alan": 1044,
+    "postakod": "03830"
+  },
+  {
+    "ilno": 4,
+    "no": 1283,
+    "il": "Ağrı",
+    "isim": "Diyadin",
+    "nufus": 37687,
+    "alan": 1351,
+    "postakod": "04900"
+  },
+  {
+    "ilno": 4,
+    "no": 1287,
+    "il": "Ağrı",
+    "isim": "Doğubayazıt",
+    "nufus": 114727,
+    "alan": 2250,
+    "postakod": "04400"
+  },
+  {
+    "ilno": 4,
+    "no": 1301,
+    "il": "Ağrı",
+    "isim": "Eleşkirt",
+    "nufus": 30103,
+    "alan": 1307,
+    "postakod": "04600"
+  },
+  {
+    "ilno": 4,
+    "no": 1379,
+    "il": "Ağrı",
+    "isim": "Hamur",
+    "nufus": 16097,
+    "alan": 873,
+    "postakod": "04850"
+  },
+  {
+    "ilno": 4,
+    "no": 1111,
+    "il": "Ağrı",
+    "isim": "Merkez",
+    "nufus": 153709,
+    "alan": 1695,
+    "postakod": "04200"
+  },
+  {
+    "ilno": 4,
+    "no": 1568,
+    "il": "Ağrı",
+    "isim": "Patnos",
+    "nufus": 112515,
+    "alan": 1394,
+    "postakod": "04500"
+  },
+  {
+    "ilno": 4,
+    "no": 1667,
+    "il": "Ağrı",
+    "isim": "Taşlıçay",
+    "nufus": 18781,
+    "alan": 822,
+    "postakod": "04800"
+  },
+  {
+    "ilno": 4,
+    "no": 1691,
+    "il": "Ağrı",
+    "isim": "Tutak",
+    "nufus": 27619,
+    "alan": 1407,
+    "postakod": "04700"
+  },
+  {
+    "ilno": 5,
+    "no": 1363,
+    "il": "Amasya",
+    "isim": "Göynücek",
+    "nufus": 10363,
+    "alan": 591,
+    "postakod": "05900"
+  },
+  {
+    "ilno": 5,
+    "no": 1368,
+    "il": "Amasya",
+    "isim": "Gümüşhacıköy",
+    "nufus": 22121,
+    "alan": 629,
+    "postakod": "05700"
+  },
+  {
+    "ilno": 5,
+    "no": 1938,
+    "il": "Amasya",
+    "isim": "Hamamözü",
+    "nufus": 4003,
+    "alan": 204,
+    "postakod": "05720"
+  },
+  {
+    "ilno": 5,
+    "no": 1134,
+    "il": "Amasya",
+    "isim": "Merkez",
+    "nufus": 148908,
+    "alan": 1889,
+    "postakod": "05200"
+  },
+  {
+    "ilno": 5,
+    "no": 1524,
+    "il": "Amasya",
+    "isim": "Merzifon",
+    "nufus": 76266,
+    "alan": 888,
+    "postakod": "05300"
+  },
+  {
+    "ilno": 5,
+    "no": 1641,
+    "il": "Amasya",
+    "isim": "Suluova",
+    "nufus": 46986,
+    "alan": 456,
+    "postakod": "05500"
+  },
+  {
+    "ilno": 5,
+    "no": 1668,
+    "il": "Amasya",
+    "isim": "Taşova",
+    "nufus": 30882,
+    "alan": 971,
+    "postakod": "05845"
+  },
+  {
+    "ilno": 6,
+    "no": 1872,
+    "il": "Ankara",
+    "isim": "Akyurt",
+    "nufus": 43918,
+    "alan": 369,
+    "postakod": "06750"
+  },
+  {
+    "ilno": 6,
+    "no": 1130,
+    "il": "Ankara",
+    "isim": "Altındağ",
+    "nufus": 412267,
+    "alan": 123,
+    "postakod": "06080"
+  },
+  {
+    "ilno": 6,
+    "no": 1157,
+    "il": "Ankara",
+    "isim": "Ayaş",
+    "nufus": 15581,
+    "alan": 1041,
+    "postakod": "06710"
+  },
+  {
+    "ilno": 6,
+    "no": 1167,
+    "il": "Ankara",
+    "isim": "Bala",
+    "nufus": 28704,
+    "alan": 1851,
+    "postakod": "06726"
+  },
+  {
+    "ilno": 6,
+    "no": 1187,
+    "il": "Ankara",
+    "isim": "Beypazarı",
+    "nufus": 48558,
+    "alan": 1697,
+    "postakod": "06730"
+  },
+  {
+    "ilno": 6,
+    "no": 1227,
+    "il": "Ankara",
+    "isim": "Çamlıdere",
+    "nufus": 13971,
+    "alan": 782,
+    "postakod": "06740"
+  },
+  {
+    "ilno": 6,
+    "no": 1231,
+    "il": "Ankara",
+    "isim": "Çankaya",
+    "nufus": 937546,
+    "alan": 483,
+    "postakod": "06530"
+  },
+  {
+    "ilno": 6,
+    "no": 1260,
+    "il": "Ankara",
+    "isim": "Çubuk",
+    "nufus": 99096,
+    "alan": 1198,
+    "postakod": "06760"
+  },
+  {
+    "ilno": 6,
+    "no": 1302,
+    "il": "Ankara",
+    "isim": "Elmadağ",
+    "nufus": 45034,
+    "alan": 647,
+    "postakod": "06780"
+  },
+  {
+    "ilno": 6,
+    "no": 1922,
+    "il": "Ankara",
+    "isim": "Etimesgut",
+    "nufus": 617229,
+    "alan": 273,
+    "postakod": "06794"
+  },
+  {
+    "ilno": 6,
+    "no": 1924,
+    "il": "Ankara",
+    "isim": "Evren",
+    "nufus": 3581,
+    "alan": 222,
+    "postakod": "06770"
+  },
+  {
+    "ilno": 6,
+    "no": 1744,
+    "il": "Ankara",
+    "isim": "Gölbaşı",
+    "nufus": 157605,
+    "alan": 1364,
+    "postakod": "06830"
+  },
+  {
+    "ilno": 6,
+    "no": 1365,
+    "il": "Ankara",
+    "isim": "Güdül",
+    "nufus": 10014,
+    "alan": 540,
+    "postakod": "06842"
+  },
+  {
+    "ilno": 6,
+    "no": 1387,
+    "il": "Ankara",
+    "isim": "Haymana",
+    "nufus": 33494,
+    "alan": 2164,
+    "postakod": "06860"
+  },
+  {
+    "ilno": 6,
+    "no": 1815,
+    "il": "Ankara",
+    "isim": "Kahramankazan",
+    "nufus": 60804,
+    "alan": 547,
+    "postakod": "06980"
+  },
+  {
+    "ilno": 6,
+    "no": 1427,
+    "il": "Ankara",
+    "isim": "Kalecik",
+    "nufus": 13296,
+    "alan": 1110,
+    "postakod": "06870"
+  },
+  {
+    "ilno": 6,
+    "no": 1745,
+    "il": "Ankara",
+    "isim": "Keçiören",
+    "nufus": 923404,
+    "alan": 159,
+    "postakod": "06300"
+  },
+  {
+    "ilno": 6,
+    "no": 1473,
+    "il": "Ankara",
+    "isim": "Kızılcahamam",
+    "nufus": 31800,
+    "alan": 1623,
+    "postakod": "06890"
+  },
+  {
+    "ilno": 6,
+    "no": 1746,
+    "il": "Ankara",
+    "isim": "Mamak",
+    "nufus": 682279,
+    "alan": 321,
+    "postakod": "06620"
+  },
+  {
+    "ilno": 6,
+    "no": 1539,
+    "il": "Ankara",
+    "isim": "Nallıhan",
+    "nufus": 26831,
+    "alan": 2079,
+    "postakod": "06922"
+  },
+  {
+    "ilno": 6,
+    "no": 1578,
+    "il": "Ankara",
+    "isim": "Polatlı",
+    "nufus": 128895,
+    "alan": 3618,
+    "postakod": "06900"
+  },
+  {
+    "ilno": 6,
+    "no": 2034,
+    "il": "Ankara",
+    "isim": "Pursaklar",
+    "nufus": 161926,
+    "alan": 169,
+    "postakod": "06145"
+  },
+  {
+    "ilno": 6,
+    "no": 1747,
+    "il": "Ankara",
+    "isim": "Sincan",
+    "nufus": 571889,
+    "alan": 880,
+    "postakod": "06935"
+  },
+  {
+    "ilno": 6,
+    "no": 1658,
+    "il": "Ankara",
+    "isim": "Şereflikoçhisar",
+    "nufus": 34122,
+    "alan": 2155,
+    "postakod": "06950"
+  },
+  {
+    "ilno": 6,
+    "no": 1723,
+    "il": "Ankara",
+    "isim": "Yenimahalle",
+    "nufus": 701638,
+    "alan": 219,
+    "postakod": "06560"
+  },
+  {
+    "ilno": 7,
+    "no": 1121,
+    "il": "Antalya",
+    "isim": "Akseki",
+    "nufus": 11896,
+    "alan": 1544,
+    "postakod": "07630"
+  },
+  {
+    "ilno": 7,
+    "no": 2035,
+    "il": "Antalya",
+    "isim": "Aksu",
+    "nufus": 80350,
+    "alan": 406,
+    "postakod": "07112"
+  },
+  {
+    "ilno": 7,
+    "no": 1126,
+    "il": "Antalya",
+    "isim": "Alanya",
+    "nufus": 359891,
+    "alan": 1577,
+    "postakod": "07400"
+  },
+  {
+    "ilno": 7,
+    "no": 1811,
+    "il": "Antalya",
+    "isim": "Demre",
+    "nufus": 27762,
+    "alan": 329,
+    "postakod": "07570"
+  },
+  {
+    "ilno": 7,
+    "no": 2036,
+    "il": "Antalya",
+    "isim": "Döşemealtı",
+    "nufus": 86109,
+    "alan": 687,
+    "postakod": "07121"
+  },
+  {
+    "ilno": 7,
+    "no": 1303,
+    "il": "Antalya",
+    "isim": "Elmalı",
+    "nufus": 41240,
+    "alan": 1433,
+    "postakod": "07770"
+  },
+  {
+    "ilno": 7,
+    "no": 1333,
+    "il": "Antalya",
+    "isim": "Finike",
+    "nufus": 50688,
+    "alan": 768,
+    "postakod": "07740"
+  },
+  {
+    "ilno": 7,
+    "no": 1337,
+    "il": "Antalya",
+    "isim": "Gazipaşa",
+    "nufus": 55185,
+    "alan": 1111,
+    "postakod": "07900"
+  },
+  {
+    "ilno": 7,
+    "no": 1370,
+    "il": "Antalya",
+    "isim": "Gündoğmuş",
+    "nufus": 8259,
+    "alan": 1175,
+    "postakod": "07860"
+  },
+  {
+    "ilno": 7,
+    "no": 1946,
+    "il": "Antalya",
+    "isim": "İbradı",
+    "nufus": 4243,
+    "alan": 778,
+    "postakod": "07680"
+  },
+  {
+    "ilno": 7,
+    "no": 1451,
+    "il": "Antalya",
+    "isim": "Kaş",
+    "nufus": 64014,
+    "alan": 1750,
+    "postakod": "07976"
+  },
+  {
+    "ilno": 7,
+    "no": 1959,
+    "il": "Antalya",
+    "isim": "Kemer",
+    "nufus": 49695,
+    "alan": 412,
+    "postakod": "07990"
+  },
+  {
+    "ilno": 7,
+    "no": 2037,
+    "il": "Antalya",
+    "isim": "Kepez",
+    "nufus": 614135,
+    "alan": 292,
+    "postakod": "07090"
+  },
+  {
+    "ilno": 7,
+    "no": 2038,
+    "il": "Antalya",
+    "isim": "Konyaaltı",
+    "nufus": 196498,
+    "alan": 546,
+    "postakod": "07070"
+  },
+  {
+    "ilno": 7,
+    "no": 1483,
+    "il": "Antalya",
+    "isim": "Korkuteli",
+    "nufus": 59295,
+    "alan": 2433,
+    "postakod": "07810"
+  },
+  {
+    "ilno": 7,
+    "no": 1492,
+    "il": "Antalya",
+    "isim": "Kumluca",
+    "nufus": 74353,
+    "alan": 1225,
+    "postakod": "07365"
+  },
+  {
+    "ilno": 7,
+    "no": 1512,
+    "il": "Antalya",
+    "isim": "Manavgat",
+    "nufus": 258367,
+    "alan": 2351,
+    "postakod": "07600"
+  },
+  {
+    "ilno": 7,
+    "no": 2039,
+    "il": "Antalya",
+    "isim": "Muratpaşa",
+    "nufus": 512700,
+    "alan": 96,
+    "postakod": "07050"
+  },
+  {
+    "ilno": 7,
+    "no": 1616,
+    "il": "Antalya",
+    "isim": "Serik",
+    "nufus": 141569,
+    "alan": 1263,
+    "postakod": "07511"
+  },
+  {
+    "ilno": 8,
+    "no": 1145,
+    "il": "Artvin",
+    "isim": "Ardanuç",
+    "nufus": 11157,
+    "alan": 958,
+    "postakod": "08300"
+  },
+  {
+    "ilno": 8,
+    "no": 1147,
+    "il": "Artvin",
+    "isim": "Arhavi",
+    "nufus": 21746,
+    "alan": 407,
+    "postakod": "08200"
+  },
+  {
+    "ilno": 8,
+    "no": 1202,
+    "il": "Artvin",
+    "isim": "Borçka",
+    "nufus": 24622,
+    "alan": 805,
+    "postakod": "08400"
+  },
+  {
+    "ilno": 8,
+    "no": 1395,
+    "il": "Artvin",
+    "isim": "Hopa",
+    "nufus": 27176,
+    "alan": 130,
+    "postakod": "08600"
+  },
+  {
+    "ilno": 8,
+    "no": 2105,
+    "il": "Artvin",
+    "isim": "Kemalpaşa",
+    "nufus": 9688,
+    "alan": 74,
+    "postakod": "08610"
+  },
+  {
+    "ilno": 8,
+    "no": 1152,
+    "il": "Artvin",
+    "isim": "Merkez",
+    "nufus": 35929,
+    "alan": 1141,
+    "postakod": "08000"
+  },
+  {
+    "ilno": 8,
+    "no": 1828,
+    "il": "Artvin",
+    "isim": "Murgul",
+    "nufus": 6319,
+    "alan": 301,
+    "postakod": "08500"
+  },
+  {
+    "ilno": 8,
+    "no": 1653,
+    "il": "Artvin",
+    "isim": "Şavşat",
+    "nufus": 16917,
+    "alan": 1316,
+    "postakod": "08790"
+  },
+  {
+    "ilno": 8,
+    "no": 1736,
+    "il": "Artvin",
+    "isim": "Yusufeli",
+    "nufus": 18802,
+    "alan": 2261,
+    "postakod": "08890"
+  },
+  {
+    "ilno": 9,
+    "no": 1206,
+    "il": "Aydın",
+    "isim": "Bozdoğan",
+    "nufus": 32528,
+    "alan": 859,
+    "postakod": "09760"
+  },
+  {
+    "ilno": 9,
+    "no": 1781,
+    "il": "Aydın",
+    "isim": "Buharkent",
+    "nufus": 13187,
+    "alan": 124,
+    "postakod": "09670"
+  },
+  {
+    "ilno": 9,
+    "no": 1256,
+    "il": "Aydın",
+    "isim": "Çine",
+    "nufus": 48585,
+    "alan": 820,
+    "postakod": "09520"
+  },
+  {
+    "ilno": 9,
+    "no": 2000,
+    "il": "Aydın",
+    "isim": "Didim",
+    "nufus": 100189,
+    "alan": 424,
+    "postakod": "09295"
+  },
+  {
+    "ilno": 9,
+    "no": 2076,
+    "il": "Aydın",
+    "isim": "Efeler",
+    "nufus": 308039,
+    "alan": 624,
+    "postakod": "09100"
+  },
+  {
+    "ilno": 9,
+    "no": 1348,
+    "il": "Aydın",
+    "isim": "Germencik",
+    "nufus": 44793,
+    "alan": 394,
+    "postakod": "09700"
+  },
+  {
+    "ilno": 9,
+    "no": 1807,
+    "il": "Aydın",
+    "isim": "İncirliova",
+    "nufus": 56934,
+    "alan": 188,
+    "postakod": "09610"
+  },
+  {
+    "ilno": 9,
+    "no": 1435,
+    "il": "Aydın",
+    "isim": "Karacasu",
+    "nufus": 17880,
+    "alan": 727,
+    "postakod": "09380"
+  },
+  {
+    "ilno": 9,
+    "no": 1957,
+    "il": "Aydın",
+    "isim": "Karpuzlu",
+    "nufus": 10616,
+    "alan": 286,
+    "postakod": "09540"
+  },
+  {
+    "ilno": 9,
+    "no": 1479,
+    "il": "Aydın",
+    "isim": "Koçarlı",
+    "nufus": 22599,
+    "alan": 455,
+    "postakod": "09970"
+  },
+  {
+    "ilno": 9,
+    "no": 1968,
+    "il": "Aydın",
+    "isim": "Köşk",
+    "nufus": 28440,
+    "alan": 187,
+    "postakod": "09570"
+  },
+  {
+    "ilno": 9,
+    "no": 1497,
+    "il": "Aydın",
+    "isim": "Kuşadası",
+    "nufus": 133177,
+    "alan": 265,
+    "postakod": "09430"
+  },
+  {
+    "ilno": 9,
+    "no": 1498,
+    "il": "Aydın",
+    "isim": "Kuyucak",
+    "nufus": 26047,
+    "alan": 544,
+    "postakod": "09935"
+  },
+  {
+    "ilno": 9,
+    "no": 1542,
+    "il": "Aydın",
+    "isim": "Nazilli",
+    "nufus": 162074,
+    "alan": 691,
+    "postakod": "09800"
+  },
+  {
+    "ilno": 9,
+    "no": 1637,
+    "il": "Aydın",
+    "isim": "Söke",
+    "nufus": 124217,
+    "alan": 1064,
+    "postakod": "09220"
+  },
+  {
+    "ilno": 9,
+    "no": 1640,
+    "il": "Aydın",
+    "isim": "Sultanhisar",
+    "nufus": 20399,
+    "alan": 220,
+    "postakod": "09650"
+  },
+  {
+    "ilno": 9,
+    "no": 1724,
+    "il": "Aydın",
+    "isim": "Yenipazar",
+    "nufus": 11998,
+    "alan": 245,
+    "postakod": "09350"
+  },
+  {
+    "ilno": 10,
+    "no": 2077,
+    "il": "Balıkesir",
+    "isim": "Altıeylül",
+    "nufus": 185458,
+    "alan": 956,
+    "postakod": "10100"
+  },
+  {
+    "ilno": 10,
+    "no": 1161,
+    "il": "Balıkesir",
+    "isim": "Ayvalık",
+    "nufus": 74643,
+    "alan": 305,
+    "postakod": "10405"
+  },
+  {
+    "ilno": 10,
+    "no": 1169,
+    "il": "Balıkesir",
+    "isim": "Balya",
+    "nufus": 13000,
+    "alan": 797,
+    "postakod": "10840"
+  },
+  {
+    "ilno": 10,
+    "no": 1171,
+    "il": "Balıkesir",
+    "isim": "Bandırma",
+    "nufus": 166836,
+    "alan": 755,
+    "postakod": "10245"
+  },
+  {
+    "ilno": 10,
+    "no": 1191,
+    "il": "Balıkesir",
+    "isim": "Bigadiç",
+    "nufus": 49177,
+    "alan": 1108,
+    "postakod": "10440"
+  },
+  {
+    "ilno": 10,
+    "no": 1216,
+    "il": "Balıkesir",
+    "isim": "Burhaniye",
+    "nufus": 65790,
+    "alan": 420,
+    "postakod": "10700"
+  },
+  {
+    "ilno": 10,
+    "no": 1291,
+    "il": "Balıkesir",
+    "isim": "Dursunbey",
+    "nufus": 33621,
+    "alan": 1719,
+    "postakod": "10800"
+  },
+  {
+    "ilno": 10,
+    "no": 1294,
+    "il": "Balıkesir",
+    "isim": "Edremit",
+    "nufus": 171700,
+    "alan": 682,
+    "postakod": "10390"
+  },
+  {
+    "ilno": 10,
+    "no": 1310,
+    "il": "Balıkesir",
+    "isim": "Erdek",
+    "nufus": 32268,
+    "alan": 307,
+    "postakod": "10500"
+  },
+  {
+    "ilno": 10,
+    "no": 1928,
+    "il": "Balıkesir",
+    "isim": "Gömeç",
+    "nufus": 17556,
+    "alan": 171,
+    "postakod": "10715"
+  },
+  {
+    "ilno": 10,
+    "no": 1360,
+    "il": "Balıkesir",
+    "isim": "Gönen",
+    "nufus": 75572,
+    "alan": 1162,
+    "postakod": "10900"
+  },
+  {
+    "ilno": 10,
+    "no": 1384,
+    "il": "Balıkesir",
+    "isim": "Havran",
+    "nufus": 28287,
+    "alan": 565,
+    "postakod": "10565"
+  },
+  {
+    "ilno": 10,
+    "no": 1418,
+    "il": "Balıkesir",
+    "isim": "İvrindi",
+    "nufus": 31626,
+    "alan": 818,
+    "postakod": "10785"
+  },
+  {
+    "ilno": 10,
+    "no": 2078,
+    "il": "Balıkesir",
+    "isim": "Karesi",
+    "nufus": 188846,
+    "alan": 695,
+    "postakod": "10085"
+  },
+  {
+    "ilno": 10,
+    "no": 1462,
+    "il": "Balıkesir",
+    "isim": "Kepsut",
+    "nufus": 21804,
+    "alan": 889,
+    "postakod": "10660"
+  },
+  {
+    "ilno": 10,
+    "no": 1514,
+    "il": "Balıkesir",
+    "isim": "Manyas",
+    "nufus": 18190,
+    "alan": 634,
+    "postakod": "10480"
+  },
+  {
+    "ilno": 10,
+    "no": 1824,
+    "il": "Balıkesir",
+    "isim": "Marmara",
+    "nufus": 11454,
+    "alan": 134,
+    "postakod": "10940"
+  },
+  {
+    "ilno": 10,
+    "no": 1608,
+    "il": "Balıkesir",
+    "isim": "Savaştepe",
+    "nufus": 16787,
+    "alan": 427,
+    "postakod": "10580"
+  },
+  {
+    "ilno": 10,
+    "no": 1619,
+    "il": "Balıkesir",
+    "isim": "Sındırgı",
+    "nufus": 32879,
+    "alan": 1387,
+    "postakod": "10330"
+  },
+  {
+    "ilno": 10,
+    "no": 1644,
+    "il": "Balıkesir",
+    "isim": "Susurluk",
+    "nufus": 38025,
+    "alan": 652,
+    "postakod": "10610"
+  },
+  {
+    "ilno": 11,
+    "no": 1210,
+    "il": "Bilecik",
+    "isim": "Bozüyük",
+    "nufus": 79853,
+    "alan": 860,
+    "postakod": "11300"
+  },
+  {
+    "ilno": 11,
+    "no": 1359,
+    "il": "Bilecik",
+    "isim": "Gölpazarı",
+    "nufus": 9831,
+    "alan": 670,
+    "postakod": "11700"
+  },
+  {
+    "ilno": 11,
+    "no": 1948,
+    "il": "Bilecik",
+    "isim": "İnhisar",
+    "nufus": 2377,
+    "alan": 244,
+    "postakod": "11640"
+  },
+  {
+    "ilno": 11,
+    "no": 1192,
+    "il": "Bilecik",
+    "isim": "Merkez",
+    "nufus": 82416,
+    "alan": 793,
+    "postakod": "11000"
+  },
+  {
+    "ilno": 11,
+    "no": 1559,
+    "il": "Bilecik",
+    "isim": "Osmaneli",
+    "nufus": 21875,
+    "alan": 490,
+    "postakod": "11500"
+  },
+  {
+    "ilno": 11,
+    "no": 1571,
+    "il": "Bilecik",
+    "isim": "Pazaryeri",
+    "nufus": 9967,
+    "alan": 324,
+    "postakod": "11800"
+  },
+  {
+    "ilno": 11,
+    "no": 1636,
+    "il": "Bilecik",
+    "isim": "Söğüt",
+    "nufus": 18844,
+    "alan": 523,
+    "postakod": "11600"
+  },
+  {
+    "ilno": 11,
+    "no": 1857,
+    "il": "Bilecik",
+    "isim": "Yenipazar",
+    "nufus": 2895,
+    "alan": 273,
+    "postakod": "11780"
+  },
+  {
+    "ilno": 12,
+    "no": 1750,
+    "il": "Bingöl",
+    "isim": "Adaklı",
+    "nufus": 8863,
+    "alan": 825,
+    "postakod": "12600"
+  },
+  {
+    "ilno": 12,
+    "no": 1344,
+    "il": "Bingöl",
+    "isim": "Genç",
+    "nufus": 34178,
+    "alan": 1443,
+    "postakod": "12500"
+  },
+  {
+    "ilno": 12,
+    "no": 1446,
+    "il": "Bingöl",
+    "isim": "Karlıova",
+    "nufus": 26819,
+    "alan": 1566,
+    "postakod": "12900"
+  },
+  {
+    "ilno": 12,
+    "no": 1475,
+    "il": "Bingöl",
+    "isim": "Kiğı",
+    "nufus": 5035,
+    "alan": 483,
+    "postakod": "12800"
+  },
+  {
+    "ilno": 12,
+    "no": 1193,
+    "il": "Bingöl",
+    "isim": "Merkez",
+    "nufus": 172007,
+    "alan": 1814,
+    "postakod": "12400"
+  },
+  {
+    "ilno": 12,
+    "no": 1633,
+    "il": "Bingöl",
+    "isim": "Solhan",
+    "nufus": 33651,
+    "alan": 1033,
+    "postakod": "12700"
+  },
+  {
+    "ilno": 12,
+    "no": 1855,
+    "il": "Bingöl",
+    "isim": "Yayladere",
+    "nufus": 2304,
+    "alan": 417,
+    "postakod": "12650"
+  },
+  {
+    "ilno": 12,
+    "no": 1996,
+    "il": "Bingöl",
+    "isim": "Yedisu",
+    "nufus": 2798,
+    "alan": 423,
+    "postakod": "12830"
+  },
+  {
+    "ilno": 13,
+    "no": 1106,
+    "il": "Bitlis",
+    "isim": "Adilcevaz",
+    "nufus": 29697,
+    "alan": 1586,
+    "postakod": "13500"
+  },
+  {
+    "ilno": 13,
+    "no": 1112,
+    "il": "Bitlis",
+    "isim": "Ahlat",
+    "nufus": 44475,
+    "alan": 1153,
+    "postakod": "13400"
+  },
+  {
+    "ilno": 13,
+    "no": 1798,
+    "il": "Bitlis",
+    "isim": "Güroymak",
+    "nufus": 49161,
+    "alan": 515,
+    "postakod": "13810"
+  },
+  {
+    "ilno": 13,
+    "no": 1394,
+    "il": "Bitlis",
+    "isim": "Hizan",
+    "nufus": 31911,
+    "alan": 1021,
+    "postakod": "13600"
+  },
+  {
+    "ilno": 13,
+    "no": 1196,
+    "il": "Bitlis",
+    "isim": "Merkez",
+    "nufus": 73264,
+    "alan": 1064,
+    "postakod": "13000"
+  },
+  {
+    "ilno": 13,
+    "no": 1537,
+    "il": "Bitlis",
+    "isim": "Mutki",
+    "nufus": 29203,
+    "alan": 1069,
+    "postakod": "13700"
+  },
+  {
+    "ilno": 13,
+    "no": 1669,
+    "il": "Bitlis",
+    "isim": "Tatvan",
+    "nufus": 102036,
+    "alan": 1885,
+    "postakod": "13200"
+  },
+  {
+    "ilno": 14,
+    "no": 1916,
+    "il": "Bolu",
+    "isim": "Dörtdivan",
+    "nufus": 6703,
+    "alan": 634,
+    "postakod": "14910"
+  },
+  {
+    "ilno": 14,
+    "no": 1346,
+    "il": "Bolu",
+    "isim": "Gerede",
+    "nufus": 36177,
+    "alan": 1060,
+    "postakod": "14900"
+  },
+  {
+    "ilno": 14,
+    "no": 1364,
+    "il": "Bolu",
+    "isim": "Göynük",
+    "nufus": 14711,
+    "alan": 1407,
+    "postakod": "14780"
+  },
+  {
+    "ilno": 14,
+    "no": 1466,
+    "il": "Bolu",
+    "isim": "Kıbrıscık",
+    "nufus": 2980,
+    "alan": 562,
+    "postakod": "14610"
+  },
+  {
+    "ilno": 14,
+    "no": 1522,
+    "il": "Bolu",
+    "isim": "Mengen",
+    "nufus": 14113,
+    "alan": 874,
+    "postakod": "14850"
+  },
+  {
+    "ilno": 14,
+    "no": 1199,
+    "il": "Bolu",
+    "isim": "Merkez",
+    "nufus": 219913,
+    "alan": 1616,
+    "postakod": "14300"
+  },
+  {
+    "ilno": 14,
+    "no": 1531,
+    "il": "Bolu",
+    "isim": "Mudurnu",
+    "nufus": 18576,
+    "alan": 1314,
+    "postakod": "14800"
+  },
+  {
+    "ilno": 14,
+    "no": 1610,
+    "il": "Bolu",
+    "isim": "Seben",
+    "nufus": 4807,
+    "alan": 683,
+    "postakod": "14750"
+  },
+  {
+    "ilno": 14,
+    "no": 1997,
+    "il": "Bolu",
+    "isim": "Yeniçağa",
+    "nufus": 6809,
+    "alan": 163,
+    "postakod": "14650"
+  },
+  {
+    "ilno": 15,
+    "no": 1109,
+    "il": "Burdur",
+    "isim": "Ağlasun",
+    "nufus": 7929,
+    "alan": 305,
+    "postakod": "15800"
+  },
+  {
+    "ilno": 15,
+    "no": 1874,
+    "il": "Burdur",
+    "isim": "Altınyayla",
+    "nufus": 5224,
+    "alan": 221,
+    "postakod": "15420"
+  },
+  {
+    "ilno": 15,
+    "no": 1211,
+    "il": "Burdur",
+    "isim": "Bucak",
+    "nufus": 68290,
+    "alan": 1511,
+    "postakod": "15300"
+  },
+  {
+    "ilno": 15,
+    "no": 1899,
+    "il": "Burdur",
+    "isim": "Çavdır",
+    "nufus": 13095,
+    "alan": 482,
+    "postakod": "15900"
+  },
+  {
+    "ilno": 15,
+    "no": 1903,
+    "il": "Burdur",
+    "isim": "Çeltikçi",
+    "nufus": 5337,
+    "alan": 161,
+    "postakod": "15070"
+  },
+  {
+    "ilno": 15,
+    "no": 1357,
+    "il": "Burdur",
+    "isim": "Gölhisar",
+    "nufus": 23920,
+    "alan": 494,
+    "postakod": "15400"
+  },
+  {
+    "ilno": 15,
+    "no": 1813,
+    "il": "Burdur",
+    "isim": "Karamanlı",
+    "nufus": 8249,
+    "alan": 372,
+    "postakod": "15700"
+  },
+  {
+    "ilno": 15,
+    "no": 1816,
+    "il": "Burdur",
+    "isim": "Kemer",
+    "nufus": 2888,
+    "alan": 373,
+    "postakod": "15090"
+  },
+  {
+    "ilno": 15,
+    "no": 1215,
+    "il": "Burdur",
+    "isim": "Merkez",
+    "nufus": 117537,
+    "alan": 1567,
+    "postakod": "15100"
+  },
+  {
+    "ilno": 15,
+    "no": 1672,
+    "il": "Burdur",
+    "isim": "Tefenni",
+    "nufus": 10546,
+    "alan": 582,
+    "postakod": "15600"
+  },
+  {
+    "ilno": 15,
+    "no": 1728,
+    "il": "Burdur",
+    "isim": "Yeşilova",
+    "nufus": 14437,
+    "alan": 1108,
+    "postakod": "15500"
+  },
+  {
+    "ilno": 16,
+    "no": 1783,
+    "il": "Bursa",
+    "isim": "Büyükorhan",
+    "nufus": 10325,
+    "alan": 505,
+    "postakod": "16990"
+  },
+  {
+    "ilno": 16,
+    "no": 1343,
+    "il": "Bursa",
+    "isim": "Gemlik",
+    "nufus": 122171,
+    "alan": 401,
+    "postakod": "16600"
+  },
+  {
+    "ilno": 16,
+    "no": 1935,
+    "il": "Bursa",
+    "isim": "Gürsu",
+    "nufus": 103770,
+    "alan": 106,
+    "postakod": "16580"
+  },
+  {
+    "ilno": 16,
+    "no": 1799,
+    "il": "Bursa",
+    "isim": "Harmancık",
+    "nufus": 6334,
+    "alan": 400,
+    "postakod": "16770"
+  },
+  {
+    "ilno": 16,
+    "no": 1411,
+    "il": "Bursa",
+    "isim": "İnegöl",
+    "nufus": 299203,
+    "alan": 1118,
+    "postakod": "16415"
+  },
+  {
+    "ilno": 16,
+    "no": 1420,
+    "il": "Bursa",
+    "isim": "İznik",
+    "nufus": 44988,
+    "alan": 753,
+    "postakod": "16870"
+  },
+  {
+    "ilno": 16,
+    "no": 1434,
+    "il": "Bursa",
+    "isim": "Karacabey",
+    "nufus": 85765,
+    "alan": 1158,
+    "postakod": "16700"
+  },
+  {
+    "ilno": 16,
+    "no": 1457,
+    "il": "Bursa",
+    "isim": "Keles",
+    "nufus": 11321,
+    "alan": 617,
+    "postakod": "16740"
+  },
+  {
+    "ilno": 16,
+    "no": 1960,
+    "il": "Bursa",
+    "isim": "Kestel",
+    "nufus": 75954,
+    "alan": 423,
+    "postakod": "16460"
+  },
+  {
+    "ilno": 16,
+    "no": 1530,
+    "il": "Bursa",
+    "isim": "Mudanya",
+    "nufus": 109964,
+    "alan": 369,
+    "postakod": "16950"
+  },
+  {
+    "ilno": 16,
+    "no": 1535,
+    "il": "Bursa",
+    "isim": "Mustafakemalpaşa",
+    "nufus": 103944,
+    "alan": 1641,
+    "postakod": "16535"
+  },
+  {
+    "ilno": 16,
+    "no": 1829,
+    "il": "Bursa",
+    "isim": "Nilüfer",
+    "nufus": 543934,
+    "alan": 552,
+    "postakod": "16110"
+  },
+  {
+    "ilno": 16,
+    "no": 1553,
+    "il": "Bursa",
+    "isim": "Orhaneli",
+    "nufus": 19527,
+    "alan": 838,
+    "postakod": "16980"
+  },
+  {
+    "ilno": 16,
+    "no": 1554,
+    "il": "Bursa",
+    "isim": "Orhangazi",
+    "nufus": 81862,
+    "alan": 506,
+    "postakod": "16810"
+  },
+  {
+    "ilno": 16,
+    "no": 1832,
+    "il": "Bursa",
+    "isim": "Osmangazi",
+    "nufus": 885273,
+    "alan": 621,
+    "postakod": "16190"
+  },
+  {
+    "ilno": 16,
+    "no": 1725,
+    "il": "Bursa",
+    "isim": "Yenişehir",
+    "nufus": 55745,
+    "alan": 720,
+    "postakod": "16900"
+  },
+  {
+    "ilno": 16,
+    "no": 1859,
+    "il": "Bursa",
+    "isim": "Yıldırım",
+    "nufus": 654491,
+    "alan": 110,
+    "postakod": "16290"
+  },
+  {
+    "ilno": 17,
+    "no": 1160,
+    "il": "Çanakkale",
+    "isim": "Ayvacık",
+    "nufus": 35141,
+    "alan": 880,
+    "postakod": "17860"
+  },
+  {
+    "ilno": 17,
+    "no": 1180,
+    "il": "Çanakkale",
+    "isim": "Bayramiç",
+    "nufus": 29160,
+    "alan": 1204,
+    "postakod": "17700"
+  },
+  {
+    "ilno": 17,
+    "no": 1190,
+    "il": "Çanakkale",
+    "isim": "Biga",
+    "nufus": 93778,
+    "alan": 1310,
+    "postakod": "17200"
+  },
+  {
+    "ilno": 17,
+    "no": 1205,
+    "il": "Çanakkale",
+    "isim": "Bozcaada",
+    "nufus": 3243,
+    "alan": 37,
+    "postakod": "17680"
+  },
+  {
+    "ilno": 17,
+    "no": 1229,
+    "il": "Çanakkale",
+    "isim": "Çan",
+    "nufus": 47624,
+    "alan": 905,
+    "postakod": "17400"
+  },
+  {
+    "ilno": 17,
+    "no": 1293,
+    "il": "Çanakkale",
+    "isim": "Eceabat",
+    "nufus": 8780,
+    "alan": 430,
+    "postakod": "17900"
+  },
+  {
+    "ilno": 17,
+    "no": 1326,
+    "il": "Çanakkale",
+    "isim": "Ezine",
+    "nufus": 33413,
+    "alan": 727,
+    "postakod": "17600"
+  },
+  {
+    "ilno": 17,
+    "no": 1340,
+    "il": "Çanakkale",
+    "isim": "Gelibolu",
+    "nufus": 44461,
+    "alan": 823,
+    "postakod": "17360"
+  },
+  {
+    "ilno": 17,
+    "no": 1408,
+    "il": "Çanakkale",
+    "isim": "Gökçeada",
+    "nufus": 10721,
+    "alan": 282,
+    "postakod": "17760"
+  },
+  {
+    "ilno": 17,
+    "no": 1503,
+    "il": "Çanakkale",
+    "isim": "Lapseki",
+    "nufus": 30259,
+    "alan": 821,
+    "postakod": "17810"
+  },
+  {
+    "ilno": 17,
+    "no": 1230,
+    "il": "Çanakkale",
+    "isim": "Merkez",
+    "nufus": 203523,
+    "alan": 1016,
+    "postakod": "17020"
+  },
+  {
+    "ilno": 17,
+    "no": 1722,
+    "il": "Çanakkale",
+    "isim": "Yenice",
+    "nufus": 30396,
+    "alan": 1381,
+    "postakod": "17560"
+  },
+  {
+    "ilno": 18,
+    "no": 1765,
+    "il": "Çankırı",
+    "isim": "Atkaracalar",
+    "nufus": 5079,
+    "alan": 234,
+    "postakod": "18310"
+  },
+  {
+    "ilno": 18,
+    "no": 1885,
+    "il": "Çankırı",
+    "isim": "Bayramören",
+    "nufus": 2740,
+    "alan": 310,
+    "postakod": "18320"
+  },
+  {
+    "ilno": 18,
+    "no": 1248,
+    "il": "Çankırı",
+    "isim": "Çerkeş",
+    "nufus": 16909,
+    "alan": 947,
+    "postakod": "18600"
+  },
+  {
+    "ilno": 18,
+    "no": 1300,
+    "il": "Çankırı",
+    "isim": "Eldivan",
+    "nufus": 7331,
+    "alan": 350,
+    "postakod": "18700"
+  },
+  {
+    "ilno": 18,
+    "no": 1399,
+    "il": "Çankırı",
+    "isim": "Ilgaz",
+    "nufus": 14271,
+    "alan": 845,
+    "postakod": "18400"
+  },
+  {
+    "ilno": 18,
+    "no": 1817,
+    "il": "Çankırı",
+    "isim": "Kızılırmak",
+    "nufus": 7703,
+    "alan": 514,
+    "postakod": "18280"
+  },
+  {
+    "ilno": 18,
+    "no": 1963,
+    "il": "Çankırı",
+    "isim": "Korgun",
+    "nufus": 4226,
+    "alan": 378,
+    "postakod": "18260"
+  },
+  {
+    "ilno": 18,
+    "no": 1494,
+    "il": "Çankırı",
+    "isim": "Kurşunlu",
+    "nufus": 9947,
+    "alan": 609,
+    "postakod": "18300"
+  },
+  {
+    "ilno": 18,
+    "no": 1232,
+    "il": "Çankırı",
+    "isim": "Merkez",
+    "nufus": 98574,
+    "alan": 1440,
+    "postakod": "18100"
+  },
+  {
+    "ilno": 18,
+    "no": 1555,
+    "il": "Çankırı",
+    "isim": "Orta",
+    "nufus": 16921,
+    "alan": 706,
+    "postakod": "18800"
+  },
+  {
+    "ilno": 18,
+    "no": 1649,
+    "il": "Çankırı",
+    "isim": "Şabanözü",
+    "nufus": 13192,
+    "alan": 467,
+    "postakod": "18650"
+  },
+  {
+    "ilno": 18,
+    "no": 1718,
+    "il": "Çankırı",
+    "isim": "Yapraklı",
+    "nufus": 8608,
+    "alan": 741,
+    "postakod": "18900"
+  },
+  {
+    "ilno": 19,
+    "no": 1124,
+    "il": "Çorum",
+    "isim": "Alaca",
+    "nufus": 29952,
+    "alan": 1296,
+    "postakod": "19600"
+  },
+  {
+    "ilno": 19,
+    "no": 1177,
+    "il": "Çorum",
+    "isim": "Bayat",
+    "nufus": 15047,
+    "alan": 717,
+    "postakod": "19800"
+  },
+  {
+    "ilno": 19,
+    "no": 1778,
+    "il": "Çorum",
+    "isim": "Boğazkale",
+    "nufus": 4068,
+    "alan": 264,
+    "postakod": "19310"
+  },
+  {
+    "ilno": 19,
+    "no": 1911,
+    "il": "Çorum",
+    "isim": "Dodurga",
+    "nufus": 5786,
+    "alan": 229,
+    "postakod": "19060"
+  },
+  {
+    "ilno": 19,
+    "no": 1414,
+    "il": "Çorum",
+    "isim": "İskilip",
+    "nufus": 29270,
+    "alan": 1170,
+    "postakod": "19400"
+  },
+  {
+    "ilno": 19,
+    "no": 1445,
+    "il": "Çorum",
+    "isim": "Kargı",
+    "nufus": 16040,
+    "alan": 1174,
+    "postakod": "19900"
+  },
+  {
+    "ilno": 19,
+    "no": 1972,
+    "il": "Çorum",
+    "isim": "Laçin",
+    "nufus": 4883,
+    "alan": 196,
+    "postakod": "19020"
+  },
+  {
+    "ilno": 19,
+    "no": 1520,
+    "il": "Çorum",
+    "isim": "Mecitözü",
+    "nufus": 14441,
+    "alan": 825,
+    "postakod": "19700"
+  },
+  {
+    "ilno": 19,
+    "no": 1259,
+    "il": "Çorum",
+    "isim": "Merkez",
+    "nufus": 294321,
+    "alan": 2436,
+    "postakod": "19000"
+  },
+  {
+    "ilno": 19,
+    "no": 1976,
+    "il": "Çorum",
+    "isim": "Oğuzlar",
+    "nufus": 5240,
+    "alan": 121,
+    "postakod": "19070"
+  },
+  {
+    "ilno": 19,
+    "no": 1556,
+    "il": "Çorum",
+    "isim": "Ortaköy",
+    "nufus": 8496,
+    "alan": 300,
+    "postakod": "19950"
+  },
+  {
+    "ilno": 19,
+    "no": 1558,
+    "il": "Çorum",
+    "isim": "Osmancık",
+    "nufus": 43388,
+    "alan": 1273,
+    "postakod": "19500"
+  },
+  {
+    "ilno": 19,
+    "no": 1642,
+    "il": "Çorum",
+    "isim": "Sungurlu",
+    "nufus": 49086,
+    "alan": 1999,
+    "postakod": "19300"
+  },
+  {
+    "ilno": 19,
+    "no": 1850,
+    "il": "Çorum",
+    "isim": "Uğurludağ",
+    "nufus": 8333,
+    "alan": 428,
+    "postakod": "19410"
+  },
+  {
+    "ilno": 20,
+    "no": 1102,
+    "il": "Denizli",
+    "isim": "Acıpayam",
+    "nufus": 55406,
+    "alan": 1772,
+    "postakod": "20800"
+  },
+  {
+    "ilno": 20,
+    "no": 1769,
+    "il": "Denizli",
+    "isim": "Babadağ",
+    "nufus": 6424,
+    "alan": 124,
+    "postakod": "20480"
+  },
+  {
+    "ilno": 20,
+    "no": 1881,
+    "il": "Denizli",
+    "isim": "Baklan",
+    "nufus": 5457,
+    "alan": 283,
+    "postakod": "20770"
+  },
+  {
+    "ilno": 20,
+    "no": 1774,
+    "il": "Denizli",
+    "isim": "Bekilli",
+    "nufus": 6565,
+    "alan": 304,
+    "postakod": "20930"
+  },
+  {
+    "ilno": 20,
+    "no": 1888,
+    "il": "Denizli",
+    "isim": "Beyağaç",
+    "nufus": 6532,
+    "alan": 333,
+    "postakod": "20590"
+  },
+  {
+    "ilno": 20,
+    "no": 1889,
+    "il": "Denizli",
+    "isim": "Bozkurt",
+    "nufus": 11000,
+    "alan": 462,
+    "postakod": "20370"
+  },
+  {
+    "ilno": 20,
+    "no": 1214,
+    "il": "Denizli",
+    "isim": "Buldan",
+    "nufus": 26542,
+    "alan": 523,
+    "postakod": "20400"
+  },
+  {
+    "ilno": 20,
+    "no": 1224,
+    "il": "Denizli",
+    "isim": "Çal",
+    "nufus": 17919,
+    "alan": 860,
+    "postakod": "20710"
+  },
+  {
+    "ilno": 20,
+    "no": 1226,
+    "il": "Denizli",
+    "isim": "Çameli",
+    "nufus": 17814,
+    "alan": 758,
+    "postakod": "20980"
+  },
+  {
+    "ilno": 20,
+    "no": 1233,
+    "il": "Denizli",
+    "isim": "Çardak",
+    "nufus": 8781,
+    "alan": 423,
+    "postakod": "20360"
+  },
+  {
+    "ilno": 20,
+    "no": 1257,
+    "il": "Denizli",
+    "isim": "Çivril",
+    "nufus": 59912,
+    "alan": 1570,
+    "postakod": "20690"
+  },
+  {
+    "ilno": 20,
+    "no": 1371,
+    "il": "Denizli",
+    "isim": "Güney",
+    "nufus": 9573,
+    "alan": 362,
+    "postakod": "20460"
+  },
+  {
+    "ilno": 20,
+    "no": 1803,
+    "il": "Denizli",
+    "isim": "Honaz",
+    "nufus": 34237,
+    "alan": 449,
+    "postakod": "20330"
+  },
+  {
+    "ilno": 20,
+    "no": 1426,
+    "il": "Denizli",
+    "isim": "Kale",
+    "nufus": 19388,
+    "alan": 684,
+    "postakod": "20570"
+  },
+  {
+    "ilno": 20,
+    "no": 2079,
+    "il": "Denizli",
+    "isim": "Merkezefendi",
+    "nufus": 340400,
+    "alan": 336,
+    "postakod": "20040"
+  },
+  {
+    "ilno": 20,
+    "no": 1871,
+    "il": "Denizli",
+    "isim": "Pamukkale",
+    "nufus": 346047,
+    "alan": 823,
+    "postakod": "20180"
+  },
+  {
+    "ilno": 20,
+    "no": 1597,
+    "il": "Denizli",
+    "isim": "Sarayköy",
+    "nufus": 31047,
+    "alan": 379,
+    "postakod": "20315"
+  },
+  {
+    "ilno": 20,
+    "no": 1840,
+    "il": "Denizli",
+    "isim": "Serinhisar",
+    "nufus": 14591,
+    "alan": 256,
+    "postakod": "20430"
+  },
+  {
+    "ilno": 20,
+    "no": 1670,
+    "il": "Denizli",
+    "isim": "Tavas",
+    "nufus": 41447,
+    "alan": 1432,
+    "postakod": "20535"
+  },
+  {
+    "ilno": 21,
+    "no": 2040,
+    "il": "Diyarbakır",
+    "isim": "Bağlar",
+    "nufus": 394338,
+    "alan": 429,
+    "postakod": "21090"
+  },
+  {
+    "ilno": 21,
+    "no": 1195,
+    "il": "Diyarbakır",
+    "isim": "Bismil",
+    "nufus": 119972,
+    "alan": 1679,
+    "postakod": "21500"
+  },
+  {
+    "ilno": 21,
+    "no": 1249,
+    "il": "Diyarbakır",
+    "isim": "Çermik",
+    "nufus": 49900,
+    "alan": 948,
+    "postakod": "21600"
+  },
+  {
+    "ilno": 21,
+    "no": 1253,
+    "il": "Diyarbakır",
+    "isim": "Çınar",
+    "nufus": 78351,
+    "alan": 1934,
+    "postakod": "21750"
+  },
+  {
+    "ilno": 21,
+    "no": 1263,
+    "il": "Diyarbakır",
+    "isim": "Çüngüş",
+    "nufus": 10771,
+    "alan": 512,
+    "postakod": "21870"
+  },
+  {
+    "ilno": 21,
+    "no": 1278,
+    "il": "Diyarbakır",
+    "isim": "Dicle",
+    "nufus": 38533,
+    "alan": 738,
+    "postakod": "21830"
+  },
+  {
+    "ilno": 21,
+    "no": 1791,
+    "il": "Diyarbakır",
+    "isim": "Eğil",
+    "nufus": 23712,
+    "alan": 449,
+    "postakod": "21470"
+  },
+  {
+    "ilno": 21,
+    "no": 1315,
+    "il": "Diyarbakır",
+    "isim": "Ergani",
+    "nufus": 137492,
+    "alan": 1510,
+    "postakod": "21950"
+  },
+  {
+    "ilno": 21,
+    "no": 1381,
+    "il": "Diyarbakır",
+    "isim": "Hani",
+    "nufus": 32777,
+    "alan": 436,
+    "postakod": "21800"
+  },
+  {
+    "ilno": 21,
+    "no": 1389,
+    "il": "Diyarbakır",
+    "isim": "Hazro",
+    "nufus": 17772,
+    "alan": 426,
+    "postakod": "21560"
+  },
+  {
+    "ilno": 21,
+    "no": 2041,
+    "il": "Diyarbakır",
+    "isim": "Kayapınar",
+    "nufus": 425143,
+    "alan": 480,
+    "postakod": "21070"
+  },
+  {
+    "ilno": 21,
+    "no": 1962,
+    "il": "Diyarbakır",
+    "isim": "Kocaköy",
+    "nufus": 15537,
+    "alan": 248,
+    "postakod": "21450"
+  },
+  {
+    "ilno": 21,
+    "no": 1490,
+    "il": "Diyarbakır",
+    "isim": "Kulp",
+    "nufus": 37576,
+    "alan": 1560,
+    "postakod": "21900"
+  },
+  {
+    "ilno": 21,
+    "no": 1504,
+    "il": "Diyarbakır",
+    "isim": "Lice",
+    "nufus": 26168,
+    "alan": 982,
+    "postakod": "21700"
+  },
+  {
+    "ilno": 21,
+    "no": 1624,
+    "il": "Diyarbakır",
+    "isim": "Silvan",
+    "nufus": 87707,
+    "alan": 1252,
+    "postakod": "21640"
+  },
+  {
+    "ilno": 21,
+    "no": 2042,
+    "il": "Diyarbakır",
+    "isim": "Sur",
+    "nufus": 98938,
+    "alan": 1227,
+    "postakod": "21200"
+  },
+  {
+    "ilno": 21,
+    "no": 2043,
+    "il": "Diyarbakır",
+    "isim": "Yenişehir",
+    "nufus": 223446,
+    "alan": 358,
+    "postakod": "21120"
+  },
+  {
+    "ilno": 22,
+    "no": 1307,
+    "il": "Edirne",
+    "isim": "Enez",
+    "nufus": 10625,
+    "alan": 455,
+    "postakod": "22700"
+  },
+  {
+    "ilno": 22,
+    "no": 1385,
+    "il": "Edirne",
+    "isim": "Havsa",
+    "nufus": 18077,
+    "alan": 545,
+    "postakod": "22500"
+  },
+  {
+    "ilno": 22,
+    "no": 1412,
+    "il": "Edirne",
+    "isim": "İpsala",
+    "nufus": 26155,
+    "alan": 741,
+    "postakod": "22490"
+  },
+  {
+    "ilno": 22,
+    "no": 1464,
+    "il": "Edirne",
+    "isim": "Keşan",
+    "nufus": 84846,
+    "alan": 1098,
+    "postakod": "22880"
+  },
+  {
+    "ilno": 22,
+    "no": 1502,
+    "il": "Edirne",
+    "isim": "Lalapaşa",
+    "nufus": 6198,
+    "alan": 497,
+    "postakod": "22950"
+  },
+  {
+    "ilno": 22,
+    "no": 1523,
+    "il": "Edirne",
+    "isim": "Meriç",
+    "nufus": 12897,
+    "alan": 438,
+    "postakod": "22610"
+  },
+  {
+    "ilno": 22,
+    "no": 1295,
+    "il": "Edirne",
+    "isim": "Merkez",
+    "nufus": 194991,
+    "alan": 844,
+    "postakod": "22100"
+  },
+  {
+    "ilno": 22,
+    "no": 1988,
+    "il": "Edirne",
+    "isim": "Süloğlu",
+    "nufus": 6405,
+    "alan": 342,
+    "postakod": "22580"
+  },
+  {
+    "ilno": 22,
+    "no": 1705,
+    "il": "Edirne",
+    "isim": "Uzunköprü",
+    "nufus": 59719,
+    "alan": 1185,
+    "postakod": "22300"
+  },
+  {
+    "ilno": 23,
+    "no": 1110,
+    "il": "Elazığ",
+    "isim": "Ağın",
+    "nufus": 2834,
+    "alan": 242,
+    "postakod": "23960"
+  },
+  {
+    "ilno": 23,
+    "no": 1873,
+    "il": "Elazığ",
+    "isim": "Alacakaya",
+    "nufus": 6157,
+    "alan": 318,
+    "postakod": "23410"
+  },
+  {
+    "ilno": 23,
+    "no": 1762,
+    "il": "Elazığ",
+    "isim": "Arıcak",
+    "nufus": 14970,
+    "alan": 354,
+    "postakod": "23510"
+  },
+  {
+    "ilno": 23,
+    "no": 1173,
+    "il": "Elazığ",
+    "isim": "Baskil",
+    "nufus": 16578,
+    "alan": 1318,
+    "postakod": "23800"
+  },
+  {
+    "ilno": 23,
+    "no": 1438,
+    "il": "Elazığ",
+    "isim": "Karakoçan",
+    "nufus": 29612,
+    "alan": 1049,
+    "postakod": "23600"
+  },
+  {
+    "ilno": 23,
+    "no": 1455,
+    "il": "Elazığ",
+    "isim": "Keban",
+    "nufus": 7964,
+    "alan": 641,
+    "postakod": "23700"
+  },
+  {
+    "ilno": 23,
+    "no": 1820,
+    "il": "Elazığ",
+    "isim": "Kovancılar",
+    "nufus": 38988,
+    "alan": 960,
+    "postakod": "23850"
+  },
+  {
+    "ilno": 23,
+    "no": 1506,
+    "il": "Elazığ",
+    "isim": "Maden",
+    "nufus": 13320,
+    "alan": 819,
+    "postakod": "23400"
+  },
+  {
+    "ilno": 23,
+    "no": 1298,
+    "il": "Elazığ",
+    "isim": "Merkez",
+    "nufus": 443448,
+    "alan": 2243,
+    "postakod": "23270"
+  },
+  {
+    "ilno": 23,
+    "no": 1566,
+    "il": "Elazığ",
+    "isim": "Palu",
+    "nufus": 20215,
+    "alan": 730,
+    "postakod": "23530"
+  },
+  {
+    "ilno": 23,
+    "no": 1631,
+    "il": "Elazığ",
+    "isim": "Sivrice",
+    "nufus": 10325,
+    "alan": 710,
+    "postakod": "23900"
+  },
+  {
+    "ilno": 24,
+    "no": 1243,
+    "il": "Erzincan",
+    "isim": "Çayırlı",
+    "nufus": 8415,
+    "alan": 1062,
+    "postakod": "24500"
+  },
+  {
+    "ilno": 24,
+    "no": 1406,
+    "il": "Erzincan",
+    "isim": "İliç",
+    "nufus": 10044,
+    "alan": 1382,
+    "postakod": "24700"
+  },
+  {
+    "ilno": 24,
+    "no": 1459,
+    "il": "Erzincan",
+    "isim": "Kemah",
+    "nufus": 7517,
+    "alan": 2311,
+    "postakod": "24400"
+  },
+  {
+    "ilno": 24,
+    "no": 1460,
+    "il": "Erzincan",
+    "isim": "Kemaliye",
+    "nufus": 5066,
+    "alan": 1207,
+    "postakod": "24610"
+  },
+  {
+    "ilno": 24,
+    "no": 1318,
+    "il": "Erzincan",
+    "isim": "Merkez",
+    "nufus": 165860,
+    "alan": 1521,
+    "postakod": "24100"
+  },
+  {
+    "ilno": 24,
+    "no": 1977,
+    "il": "Erzincan",
+    "isim": "Otlukbeli",
+    "nufus": 2423,
+    "alan": 320,
+    "postakod": "24515"
+  },
+  {
+    "ilno": 24,
+    "no": 1583,
+    "il": "Erzincan",
+    "isim": "Refahiye",
+    "nufus": 12984,
+    "alan": 1808,
+    "postakod": "24300"
+  },
+  {
+    "ilno": 24,
+    "no": 1675,
+    "il": "Erzincan",
+    "isim": "Tercan",
+    "nufus": 16573,
+    "alan": 1614,
+    "postakod": "24870"
+  },
+  {
+    "ilno": 24,
+    "no": 1853,
+    "il": "Erzincan",
+    "isim": "Üzümlü",
+    "nufus": 14517,
+    "alan": 591,
+    "postakod": "24160"
+  },
+  {
+    "ilno": 25,
+    "no": 1153,
+    "il": "Erzurum",
+    "isim": "Aşkale",
+    "nufus": 21410,
+    "alan": 1507,
+    "postakod": "25500"
+  },
+  {
+    "ilno": 25,
+    "no": 1945,
+    "il": "Erzurum",
+    "isim": "Aziziye",
+    "nufus": 68251,
+    "alan": 1529,
+    "postakod": "25700"
+  },
+  {
+    "ilno": 25,
+    "no": 1235,
+    "il": "Erzurum",
+    "isim": "Çat",
+    "nufus": 15457,
+    "alan": 1448,
+    "postakod": "25750"
+  },
+  {
+    "ilno": 25,
+    "no": 1392,
+    "il": "Erzurum",
+    "isim": "Hınıs",
+    "nufus": 24419,
+    "alan": 1367,
+    "postakod": "25600"
+  },
+  {
+    "ilno": 25,
+    "no": 1396,
+    "il": "Erzurum",
+    "isim": "Horasan",
+    "nufus": 36359,
+    "alan": 1740,
+    "postakod": "25800"
+  },
+  {
+    "ilno": 25,
+    "no": 1416,
+    "il": "Erzurum",
+    "isim": "İspir",
+    "nufus": 15914,
+    "alan": 2129,
+    "postakod": "25900"
+  },
+  {
+    "ilno": 25,
+    "no": 1812,
+    "il": "Erzurum",
+    "isim": "Karaçoban",
+    "nufus": 21961,
+    "alan": 571,
+    "postakod": "25610"
+  },
+  {
+    "ilno": 25,
+    "no": 1444,
+    "il": "Erzurum",
+    "isim": "Karayazı",
+    "nufus": 24559,
+    "alan": 1953,
+    "postakod": "25830"
+  },
+  {
+    "ilno": 25,
+    "no": 1967,
+    "il": "Erzurum",
+    "isim": "Köprüköy",
+    "nufus": 14184,
+    "alan": 777,
+    "postakod": "25320"
+  },
+  {
+    "ilno": 25,
+    "no": 1540,
+    "il": "Erzurum",
+    "isim": "Narman",
+    "nufus": 11959,
+    "alan": 799,
+    "postakod": "25530"
+  },
+  {
+    "ilno": 25,
+    "no": 1550,
+    "il": "Erzurum",
+    "isim": "Oltu",
+    "nufus": 30296,
+    "alan": 1441,
+    "postakod": "25400"
+  },
+  {
+    "ilno": 25,
+    "no": 1551,
+    "il": "Erzurum",
+    "isim": "Olur",
+    "nufus": 6737,
+    "alan": 893,
+    "postakod": "25650"
+  },
+  {
+    "ilno": 25,
+    "no": 2044,
+    "il": "Erzurum",
+    "isim": "Palandöken",
+    "nufus": 177109,
+    "alan": 667,
+    "postakod": "25090"
+  },
+  {
+    "ilno": 25,
+    "no": 1567,
+    "il": "Erzurum",
+    "isim": "Pasinler",
+    "nufus": 26833,
+    "alan": 1134,
+    "postakod": "25300"
+  },
+  {
+    "ilno": 25,
+    "no": 1865,
+    "il": "Erzurum",
+    "isim": "Pazaryolu",
+    "nufus": 4290,
+    "alan": 654,
+    "postakod": "25930"
+  },
+  {
+    "ilno": 25,
+    "no": 1657,
+    "il": "Erzurum",
+    "isim": "Şenkaya",
+    "nufus": 16112,
+    "alan": 1381,
+    "postakod": "25370"
+  },
+  {
+    "ilno": 25,
+    "no": 1674,
+    "il": "Erzurum",
+    "isim": "Tekman",
+    "nufus": 22686,
+    "alan": 2102,
+    "postakod": "25560"
+  },
+  {
+    "ilno": 25,
+    "no": 1683,
+    "il": "Erzurum",
+    "isim": "Tortum",
+    "nufus": 17418,
+    "alan": 1463,
+    "postakod": "25460"
+  },
+  {
+    "ilno": 25,
+    "no": 1851,
+    "il": "Erzurum",
+    "isim": "Uzundere",
+    "nufus": 7973,
+    "alan": 505,
+    "postakod": "25440"
+  },
+  {
+    "ilno": 25,
+    "no": 2045,
+    "il": "Erzurum",
+    "isim": "Yakutiye",
+    "nufus": 186066,
+    "alan": 945,
+    "postakod": "25040"
+  },
+  {
+    "ilno": 26,
+    "no": 1759,
+    "il": "Eskişehir",
+    "isim": "Alpu",
+    "nufus": 10678,
+    "alan": 1028,
+    "postakod": "26850"
+  },
+  {
+    "ilno": 26,
+    "no": 1777,
+    "il": "Eskişehir",
+    "isim": "Beylikova",
+    "nufus": 6016,
+    "alan": 715,
+    "postakod": "26750"
+  },
+  {
+    "ilno": 26,
+    "no": 1255,
+    "il": "Eskişehir",
+    "isim": "Çifteler",
+    "nufus": 14926,
+    "alan": 858,
+    "postakod": "26700"
+  },
+  {
+    "ilno": 26,
+    "no": 1934,
+    "il": "Eskişehir",
+    "isim": "Günyüzü",
+    "nufus": 5679,
+    "alan": 828,
+    "postakod": "26663"
+  },
+  {
+    "ilno": 26,
+    "no": 1939,
+    "il": "Eskişehir",
+    "isim": "Han",
+    "nufus": 2352,
+    "alan": 378,
+    "postakod": "26710"
+  },
+  {
+    "ilno": 26,
+    "no": 1808,
+    "il": "Eskişehir",
+    "isim": "İnönü",
+    "nufus": 6244,
+    "alan": 345,
+    "postakod": "26670"
+  },
+  {
+    "ilno": 26,
+    "no": 1508,
+    "il": "Eskişehir",
+    "isim": "Mahmudiye",
+    "nufus": 7715,
+    "alan": 659,
+    "postakod": "26800"
+  },
+  {
+    "ilno": 26,
+    "no": 1973,
+    "il": "Eskişehir",
+    "isim": "Mihalgazi",
+    "nufus": 3037,
+    "alan": 109,
+    "postakod": "26880"
+  },
+  {
+    "ilno": 26,
+    "no": 1527,
+    "il": "Eskişehir",
+    "isim": "Mihalıççık",
+    "nufus": 8576,
+    "alan": 1809,
+    "postakod": "26940"
+  },
+  {
+    "ilno": 26,
+    "no": 2046,
+    "il": "Eskişehir",
+    "isim": "Odunpazarı",
+    "nufus": 421469,
+    "alan": 1120,
+    "postakod": "26250"
+  },
+  {
+    "ilno": 26,
+    "no": 1599,
+    "il": "Eskişehir",
+    "isim": "Sarıcakaya",
+    "nufus": 4651,
+    "alan": 382,
+    "postakod": "26870"
+  },
+  {
+    "ilno": 26,
+    "no": 1618,
+    "il": "Eskişehir",
+    "isim": "Seyitgazi",
+    "nufus": 13481,
+    "alan": 1578,
+    "postakod": "26960"
+  },
+  {
+    "ilno": 26,
+    "no": 1632,
+    "il": "Eskişehir",
+    "isim": "Sivrihisar",
+    "nufus": 20478,
+    "alan": 2748,
+    "postakod": "26625"
+  },
+  {
+    "ilno": 26,
+    "no": 2047,
+    "il": "Eskişehir",
+    "isim": "Tepebaşı",
+    "nufus": 390116,
+    "alan": 1403,
+    "postakod": "26170"
+  },
+  {
+    "ilno": 27,
+    "no": 1139,
+    "il": "Gaziantep",
+    "isim": "Araban",
+    "nufus": 33196,
+    "alan": 592,
+    "postakod": "27650"
+  },
+  {
+    "ilno": 27,
+    "no": 1415,
+    "il": "Gaziantep",
+    "isim": "İslahiye",
+    "nufus": 64013,
+    "alan": 865,
+    "postakod": "27805"
+  },
+  {
+    "ilno": 27,
+    "no": 1956,
+    "il": "Gaziantep",
+    "isim": "Karkamış",
+    "nufus": 10265,
+    "alan": 298,
+    "postakod": "27880"
+  },
+  {
+    "ilno": 27,
+    "no": 1546,
+    "il": "Gaziantep",
+    "isim": "Nizip",
+    "nufus": 150037,
+    "alan": 944,
+    "postakod": "27700"
+  },
+  {
+    "ilno": 27,
+    "no": 1974,
+    "il": "Gaziantep",
+    "isim": "Nurdağı",
+    "nufus": 39465,
+    "alan": 697,
+    "postakod": "27840"
+  },
+  {
+    "ilno": 27,
+    "no": 1549,
+    "il": "Gaziantep",
+    "isim": "Oğuzeli",
+    "nufus": 37170,
+    "alan": 689,
+    "postakod": "27910"
+  },
+  {
+    "ilno": 27,
+    "no": 1841,
+    "il": "Gaziantep",
+    "isim": "Şahinbey",
+    "nufus": 939497,
+    "alan": 960,
+    "postakod": "27270"
+  },
+  {
+    "ilno": 27,
+    "no": 1844,
+    "il": "Gaziantep",
+    "isim": "Şehitkamil",
+    "nufus": 867193,
+    "alan": 1290,
+    "postakod": "27620"
+  },
+  {
+    "ilno": 27,
+    "no": 1720,
+    "il": "Gaziantep",
+    "isim": "Yavuzeli",
+    "nufus": 23298,
+    "alan": 468,
+    "postakod": "27970"
+  },
+  {
+    "ilno": 28,
+    "no": 1133,
+    "il": "Giresun",
+    "isim": "Alucra",
+    "nufus": 10514,
+    "alan": 1138,
+    "postakod": "28700"
+  },
+  {
+    "ilno": 28,
+    "no": 1212,
+    "il": "Giresun",
+    "isim": "Bulancak",
+    "nufus": 70092,
+    "alan": 774,
+    "postakod": "28310"
+  },
+  {
+    "ilno": 28,
+    "no": 1893,
+    "il": "Giresun",
+    "isim": "Çamoluk",
+    "nufus": 7254,
+    "alan": 444,
+    "postakod": "28710"
+  },
+  {
+    "ilno": 28,
+    "no": 1894,
+    "il": "Giresun",
+    "isim": "Çanakçı",
+    "nufus": 6917,
+    "alan": 142,
+    "postakod": "28810"
+  },
+  {
+    "ilno": 28,
+    "no": 1272,
+    "il": "Giresun",
+    "isim": "Dereli",
+    "nufus": 19308,
+    "alan": 849,
+    "postakod": "28950"
+  },
+  {
+    "ilno": 28,
+    "no": 1912,
+    "il": "Giresun",
+    "isim": "Doğankent",
+    "nufus": 6539,
+    "alan": 110,
+    "postakod": "28510"
+  },
+  {
+    "ilno": 28,
+    "no": 1320,
+    "il": "Giresun",
+    "isim": "Espiye",
+    "nufus": 38130,
+    "alan": 248,
+    "postakod": "28600"
+  },
+  {
+    "ilno": 28,
+    "no": 1324,
+    "il": "Giresun",
+    "isim": "Eynesil",
+    "nufus": 13237,
+    "alan": 51,
+    "postakod": "28850"
+  },
+  {
+    "ilno": 28,
+    "no": 1361,
+    "il": "Giresun",
+    "isim": "Görele",
+    "nufus": 32192,
+    "alan": 237,
+    "postakod": "28820"
+  },
+  {
+    "ilno": 28,
+    "no": 1930,
+    "il": "Giresun",
+    "isim": "Güce",
+    "nufus": 8574,
+    "alan": 351,
+    "postakod": "28520"
+  },
+  {
+    "ilno": 28,
+    "no": 1465,
+    "il": "Giresun",
+    "isim": "Keşap",
+    "nufus": 20763,
+    "alan": 197,
+    "postakod": "28900"
+  },
+  {
+    "ilno": 28,
+    "no": 1352,
+    "il": "Giresun",
+    "isim": "Merkez",
+    "nufus": 143890,
+    "alan": 376,
+    "postakod": "28100"
+  },
+  {
+    "ilno": 28,
+    "no": 1837,
+    "il": "Giresun",
+    "isim": "Piraziz",
+    "nufus": 15151,
+    "alan": 127,
+    "postakod": "28340"
+  },
+  {
+    "ilno": 28,
+    "no": 1654,
+    "il": "Giresun",
+    "isim": "Şebinkarahisar",
+    "nufus": 19948,
+    "alan": 1396,
+    "postakod": "28400"
+  },
+  {
+    "ilno": 28,
+    "no": 1678,
+    "il": "Giresun",
+    "isim": "Tirebolu",
+    "nufus": 33459,
+    "alan": 259,
+    "postakod": "28500"
+  },
+  {
+    "ilno": 28,
+    "no": 1854,
+    "il": "Giresun",
+    "isim": "Yağlıdere",
+    "nufus": 15744,
+    "alan": 327,
+    "postakod": "28610"
+  },
+  {
+    "ilno": 29,
+    "no": 1458,
+    "il": "Gümüşhane",
+    "isim": "Kelkit",
+    "nufus": 40875,
+    "alan": 1571,
+    "postakod": "29600"
+  },
+  {
+    "ilno": 29,
+    "no": 1822,
+    "il": "Gümüşhane",
+    "isim": "Köse",
+    "nufus": 7261,
+    "alan": 353,
+    "postakod": "29650"
+  },
+  {
+    "ilno": 29,
+    "no": 1971,
+    "il": "Gümüşhane",
+    "isim": "Kürtün",
+    "nufus": 13406,
+    "alan": 917,
+    "postakod": "29830"
+  },
+  {
+    "ilno": 29,
+    "no": 1369,
+    "il": "Gümüşhane",
+    "isim": "Merkez",
+    "nufus": 54503,
+    "alan": 1889,
+    "postakod": "29200"
+  },
+  {
+    "ilno": 29,
+    "no": 1660,
+    "il": "Gümüşhane",
+    "isim": "Şiran",
+    "nufus": 20202,
+    "alan": 965,
+    "postakod": "29700"
+  },
+  {
+    "ilno": 29,
+    "no": 1684,
+    "il": "Gümüşhane",
+    "isim": "Torul",
+    "nufus": 12292,
+    "alan": 973,
+    "postakod": "29800"
+  },
+  {
+    "ilno": 30,
+    "no": 1261,
+    "il": "Hakkari",
+    "isim": "Çukurca",
+    "nufus": 17734,
+    "alan": 725,
+    "postakod": "30700"
+  },
+  {
+    "ilno": 30,
+    "no": 2107,
+    "il": "Hakkari",
+    "isim": "Derecik",
+    "nufus": 25907,
+    "alan": 437,
+    "postakod": "30802"
+  },
+  {
+    "ilno": 30,
+    "no": 1377,
+    "il": "Hakkari",
+    "isim": "Merkez",
+    "nufus": 77273,
+    "alan": 2179,
+    "postakod": "30110"
+  },
+  {
+    "ilno": 30,
+    "no": 1656,
+    "il": "Hakkari",
+    "isim": "Şemdinli",
+    "nufus": 44742,
+    "alan": 1207,
+    "postakod": "30800"
+  },
+  {
+    "ilno": 30,
+    "no": 1737,
+    "il": "Hakkari",
+    "isim": "Yüksekova",
+    "nufus": 121969,
+    "alan": 2547,
+    "postakod": "30330"
+  },
+  {
+    "ilno": 31,
+    "no": 1131,
+    "il": "Hatay",
+    "isim": "Altınözü",
+    "nufus": 66533,
+    "alan": 392,
+    "postakod": "31753"
+  },
+  {
+    "ilno": 31,
+    "no": 2080,
+    "il": "Hatay",
+    "isim": "Antakya",
+    "nufus": 298620,
+    "alan": 703,
+    "postakod": "31135"
+  },
+  {
+    "ilno": 31,
+    "no": 2081,
+    "il": "Hatay",
+    "isim": "Arsuz",
+    "nufus": 106118,
+    "alan": 462,
+    "postakod": "31225"
+  },
+  {
+    "ilno": 31,
+    "no": 1887,
+    "il": "Hatay",
+    "isim": "Belen",
+    "nufus": 34430,
+    "alan": 184,
+    "postakod": "31350"
+  },
+  {
+    "ilno": 31,
+    "no": 2082,
+    "il": "Hatay",
+    "isim": "Defne",
+    "nufus": 142146,
+    "alan": 155,
+    "postakod": "31141"
+  },
+  {
+    "ilno": 31,
+    "no": 1289,
+    "il": "Hatay",
+    "isim": "Dörtyol",
+    "nufus": 129276,
+    "alan": 342,
+    "postakod": "31670"
+  },
+  {
+    "ilno": 31,
+    "no": 1792,
+    "il": "Hatay",
+    "isim": "Erzin",
+    "nufus": 42425,
+    "alan": 258,
+    "postakod": "31960"
+  },
+  {
+    "ilno": 31,
+    "no": 1382,
+    "il": "Hatay",
+    "isim": "Hassa",
+    "nufus": 55604,
+    "alan": 520,
+    "postakod": "31720"
+  },
+  {
+    "ilno": 31,
+    "no": 1413,
+    "il": "Hatay",
+    "isim": "İskenderun",
+    "nufus": 227498,
+    "alan": 247,
+    "postakod": "31280"
+  },
+  {
+    "ilno": 31,
+    "no": 1468,
+    "il": "Hatay",
+    "isim": "Kırıkhan",
+    "nufus": 106975,
+    "alan": 715,
+    "postakod": "31440"
+  },
+  {
+    "ilno": 31,
+    "no": 1970,
+    "il": "Hatay",
+    "isim": "Kumlu",
+    "nufus": 14971,
+    "alan": 193,
+    "postakod": "31520"
+  },
+  {
+    "ilno": 31,
+    "no": 2083,
+    "il": "Hatay",
+    "isim": "Payas",
+    "nufus": 44131,
+    "alan": 157,
+    "postakod": "31900"
+  },
+  {
+    "ilno": 31,
+    "no": 1585,
+    "il": "Hatay",
+    "isim": "Reyhanlı",
+    "nufus": 113615,
+    "alan": 367,
+    "postakod": "31500"
+  },
+  {
+    "ilno": 31,
+    "no": 1591,
+    "il": "Hatay",
+    "isim": "Samandağ",
+    "nufus": 120600,
+    "alan": 384,
+    "postakod": "31785"
+  },
+  {
+    "ilno": 31,
+    "no": 1721,
+    "il": "Hatay",
+    "isim": "Yayladağı",
+    "nufus": 41698,
+    "alan": 445,
+    "postakod": "31553"
+  },
+  {
+    "ilno": 32,
+    "no": 1755,
+    "il": "Isparta",
+    "isim": "Aksu",
+    "nufus": 4135,
+    "alan": 544,
+    "postakod": "32510"
+  },
+  {
+    "ilno": 32,
+    "no": 1154,
+    "il": "Isparta",
+    "isim": "Atabey",
+    "nufus": 6103,
+    "alan": 223,
+    "postakod": "32670"
+  },
+  {
+    "ilno": 32,
+    "no": 1297,
+    "il": "Isparta",
+    "isim": "Eğirdir",
+    "nufus": 30988,
+    "alan": 1315,
+    "postakod": "32500"
+  },
+  {
+    "ilno": 32,
+    "no": 1341,
+    "il": "Isparta",
+    "isim": "Gelendost",
+    "nufus": 14471,
+    "alan": 610,
+    "postakod": "32900"
+  },
+  {
+    "ilno": 32,
+    "no": 1929,
+    "il": "Isparta",
+    "isim": "Gönen",
+    "nufus": 7094,
+    "alan": 285,
+    "postakod": "32090"
+  },
+  {
+    "ilno": 32,
+    "no": 1456,
+    "il": "Isparta",
+    "isim": "Keçiborlu",
+    "nufus": 14646,
+    "alan": 494,
+    "postakod": "32700"
+  },
+  {
+    "ilno": 32,
+    "no": 1401,
+    "il": "Isparta",
+    "isim": "Merkez",
+    "nufus": 271396,
+    "alan": 773,
+    "postakod": "32040"
+  },
+  {
+    "ilno": 32,
+    "no": 1615,
+    "il": "Isparta",
+    "isim": "Senirkent",
+    "nufus": 11196,
+    "alan": 521,
+    "postakod": "32610"
+  },
+  {
+    "ilno": 32,
+    "no": 1648,
+    "il": "Isparta",
+    "isim": "Sütçüler",
+    "nufus": 10143,
+    "alan": 1235,
+    "postakod": "32950"
+  },
+  {
+    "ilno": 32,
+    "no": 1651,
+    "il": "Isparta",
+    "isim": "Şarkikaraağaç",
+    "nufus": 24990,
+    "alan": 1068,
+    "postakod": "32810"
+  },
+  {
+    "ilno": 32,
+    "no": 1699,
+    "il": "Isparta",
+    "isim": "Uluborlu",
+    "nufus": 6426,
+    "alan": 240,
+    "postakod": "32650"
+  },
+  {
+    "ilno": 32,
+    "no": 1717,
+    "il": "Isparta",
+    "isim": "Yalvaç",
+    "nufus": 45694,
+    "alan": 1402,
+    "postakod": "32430"
+  },
+  {
+    "ilno": 32,
+    "no": 2001,
+    "il": "Isparta",
+    "isim": "Yenişarbademli",
+    "nufus": 2495,
+    "alan": 237,
+    "postakod": "32850"
+  },
+  {
+    "ilno": 33,
+    "no": 2064,
+    "il": "Mersin",
+    "isim": "Akdeniz",
+    "nufus": 260879,
+    "alan": 265,
+    "postakod": "33010"
+  },
+  {
+    "ilno": 33,
+    "no": 1135,
+    "il": "Mersin",
+    "isim": "Anamur",
+    "nufus": 66940,
+    "alan": 1430,
+    "postakod": "33630"
+  },
+  {
+    "ilno": 33,
+    "no": 1766,
+    "il": "Mersin",
+    "isim": "Aydıncık",
+    "nufus": 11662,
+    "alan": 352,
+    "postakod": "33840"
+  },
+  {
+    "ilno": 33,
+    "no": 1779,
+    "il": "Mersin",
+    "isim": "Bozyazı",
+    "nufus": 26985,
+    "alan": 642,
+    "postakod": "33830"
+  },
+  {
+    "ilno": 33,
+    "no": 1892,
+    "il": "Mersin",
+    "isim": "Çamlıyayla",
+    "nufus": 8692,
+    "alan": 602,
+    "postakod": "33580"
+  },
+  {
+    "ilno": 33,
+    "no": 1311,
+    "il": "Mersin",
+    "isim": "Erdemli",
+    "nufus": 153967,
+    "alan": 2279,
+    "postakod": "33730"
+  },
+  {
+    "ilno": 33,
+    "no": 1366,
+    "il": "Mersin",
+    "isim": "Gülnar",
+    "nufus": 33986,
+    "alan": 1416,
+    "postakod": "33715"
+  },
+  {
+    "ilno": 33,
+    "no": 2065,
+    "il": "Mersin",
+    "isim": "Mezitli",
+    "nufus": 223424,
+    "alan": 371,
+    "postakod": "33340"
+  },
+  {
+    "ilno": 33,
+    "no": 1536,
+    "il": "Mersin",
+    "isim": "Mut",
+    "nufus": 63516,
+    "alan": 2718,
+    "postakod": "33600"
+  },
+  {
+    "ilno": 33,
+    "no": 1621,
+    "il": "Mersin",
+    "isim": "Silifke",
+    "nufus": 137047,
+    "alan": 2692,
+    "postakod": "33940"
+  },
+  {
+    "ilno": 33,
+    "no": 1665,
+    "il": "Mersin",
+    "isim": "Tarsus",
+    "nufus": 353469,
+    "alan": 2029,
+    "postakod": "33460"
+  },
+  {
+    "ilno": 33,
+    "no": 2066,
+    "il": "Mersin",
+    "isim": "Toroslar",
+    "nufus": 320377,
+    "alan": 1075,
+    "postakod": "33220"
+  },
+  {
+    "ilno": 33,
+    "no": 2067,
+    "il": "Mersin",
+    "isim": "Yenişehir",
+    "nufus": 277445,
+    "alan": 139,
+    "postakod": "33140"
+  },
+  {
+    "ilno": 34,
+    "no": 1103,
+    "il": "İstanbul",
+    "isim": "Adalar",
+    "nufus": 16325,
+    "alan": 11,
+    "postakod": "34975"
+  },
+  {
+    "ilno": 34,
+    "no": 2048,
+    "il": "İstanbul",
+    "isim": "Arnavutköy",
+    "nufus": 336062,
+    "alan": 453,
+    "postakod": "34275"
+  },
+  {
+    "ilno": 34,
+    "no": 2049,
+    "il": "İstanbul",
+    "isim": "Ataşehir",
+    "nufus": 416529,
+    "alan": 25,
+    "postakod": "34758"
+  },
+  {
+    "ilno": 34,
+    "no": 2003,
+    "il": "İstanbul",
+    "isim": "Avcılar",
+    "nufus": 437221,
+    "alan": 50,
+    "postakod": "34315"
+  },
+  {
+    "ilno": 34,
+    "no": 2004,
+    "il": "İstanbul",
+    "isim": "Bağcılar",
+    "nufus": 719071,
+    "alan": 23,
+    "postakod": "34200"
+  },
+  {
+    "ilno": 34,
+    "no": 2005,
+    "il": "İstanbul",
+    "isim": "Bahçelievler",
+    "nufus": 567848,
+    "alan": 17,
+    "postakod": "34180"
+  },
+  {
+    "ilno": 34,
+    "no": 1166,
+    "il": "İstanbul",
+    "isim": "Bakırköy",
+    "nufus": 220476,
+    "alan": 29,
+    "postakod": "34158"
+  },
+  {
+    "ilno": 34,
+    "no": 2050,
+    "il": "İstanbul",
+    "isim": "Başakşehir",
+    "nufus": 509915,
+    "alan": 107,
+    "postakod": "34494"
+  },
+  {
+    "ilno": 34,
+    "no": 1886,
+    "il": "İstanbul",
+    "isim": "Bayrampaşa",
+    "nufus": 268850,
+    "alan": 9,
+    "postakod": "34035"
+  },
+  {
+    "ilno": 34,
+    "no": 1183,
+    "il": "İstanbul",
+    "isim": "Beşiktaş",
+    "nufus": 169022,
+    "alan": 18,
+    "postakod": "34353"
+  },
+  {
+    "ilno": 34,
+    "no": 1185,
+    "il": "İstanbul",
+    "isim": "Beykoz",
+    "nufus": 245647,
+    "alan": 310,
+    "postakod": "34810"
+  },
+  {
+    "ilno": 34,
+    "no": 2051,
+    "il": "İstanbul",
+    "isim": "Beylikdüzü",
+    "nufus": 409347,
+    "alan": 39,
+    "postakod": "34520"
+  },
+  {
+    "ilno": 34,
+    "no": 1186,
+    "il": "İstanbul",
+    "isim": "Beyoğlu",
+    "nufus": 218589,
+    "alan": 9,
+    "postakod": "34421"
+  },
+  {
+    "ilno": 34,
+    "no": 1782,
+    "il": "İstanbul",
+    "isim": "Büyükçekmece",
+    "nufus": 276572,
+    "alan": 173,
+    "postakod": "34500"
+  },
+  {
+    "ilno": 34,
+    "no": 1237,
+    "il": "İstanbul",
+    "isim": "Çatalca",
+    "nufus": 80007,
+    "alan": 1142,
+    "postakod": "34550"
+  },
+  {
+    "ilno": 34,
+    "no": 2052,
+    "il": "İstanbul",
+    "isim": "Çekmeköy",
+    "nufus": 299806,
+    "alan": 152,
+    "postakod": "34794"
+  },
+  {
+    "ilno": 34,
+    "no": 2016,
+    "il": "İstanbul",
+    "isim": "Esenler",
+    "nufus": 427901,
+    "alan": 19,
+    "postakod": "34230"
+  },
+  {
+    "ilno": 34,
+    "no": 2053,
+    "il": "İstanbul",
+    "isim": "Esenyurt",
+    "nufus": 978007,
+    "alan": 43,
+    "postakod": "34517"
+  },
+  {
+    "ilno": 34,
+    "no": 1325,
+    "il": "İstanbul",
+    "isim": "Eyüpsultan",
+    "nufus": 420194,
+    "alan": 228,
+    "postakod": "34060"
+  },
+  {
+    "ilno": 34,
+    "no": 1327,
+    "il": "İstanbul",
+    "isim": "Fatih",
+    "nufus": 356025,
+    "alan": 15,
+    "postakod": "34096"
+  },
+  {
+    "ilno": 34,
+    "no": 1336,
+    "il": "İstanbul",
+    "isim": "Gaziosmanpaşa",
+    "nufus": 483830,
+    "alan": 12,
+    "postakod": "34245"
+  },
+  {
+    "ilno": 34,
+    "no": 2010,
+    "il": "İstanbul",
+    "isim": "Güngören",
+    "nufus": 269944,
+    "alan": 7,
+    "postakod": "34160"
+  },
+  {
+    "ilno": 34,
+    "no": 1421,
+    "il": "İstanbul",
+    "isim": "Kadıköy",
+    "nufus": 467919,
+    "alan": 25,
+    "postakod": "34744"
+  },
+  {
+    "ilno": 34,
+    "no": 1810,
+    "il": "İstanbul",
+    "isim": "Kağıthane",
+    "nufus": 445672,
+    "alan": 15,
+    "postakod": "34403"
+  },
+  {
+    "ilno": 34,
+    "no": 1449,
+    "il": "İstanbul",
+    "isim": "Kartal",
+    "nufus": 475042,
+    "alan": 38,
+    "postakod": "34862"
+  },
+  {
+    "ilno": 34,
+    "no": 1823,
+    "il": "İstanbul",
+    "isim": "Küçükçekmece",
+    "nufus": 792030,
+    "alan": 44,
+    "postakod": "34307"
+  },
+  {
+    "ilno": 34,
+    "no": 2012,
+    "il": "İstanbul",
+    "isim": "Maltepe",
+    "nufus": 523137,
+    "alan": 53,
+    "postakod": "34854"
+  },
+  {
+    "ilno": 34,
+    "no": 1835,
+    "il": "İstanbul",
+    "isim": "Pendik",
+    "nufus": 743774,
+    "alan": 190,
+    "postakod": "34893"
+  },
+  {
+    "ilno": 34,
+    "no": 2054,
+    "il": "İstanbul",
+    "isim": "Sancaktepe",
+    "nufus": 492804,
+    "alan": 63,
+    "postakod": "34885"
+  },
+  {
+    "ilno": 34,
+    "no": 1604,
+    "il": "İstanbul",
+    "isim": "Sarıyer",
+    "nufus": 344250,
+    "alan": 177,
+    "postakod": "34396"
+  },
+  {
+    "ilno": 34,
+    "no": 1622,
+    "il": "İstanbul",
+    "isim": "Silivri",
+    "nufus": 221723,
+    "alan": 858,
+    "postakod": "34582"
+  },
+  {
+    "ilno": 34,
+    "no": 2014,
+    "il": "İstanbul",
+    "isim": "Sultanbeyli",
+    "nufus": 360702,
+    "alan": 29,
+    "postakod": "34920"
+  },
+  {
+    "ilno": 34,
+    "no": 2055,
+    "il": "İstanbul",
+    "isim": "Sultangazi",
+    "nufus": 532802,
+    "alan": 37,
+    "postakod": "34265"
+  },
+  {
+    "ilno": 34,
+    "no": 1659,
+    "il": "İstanbul",
+    "isim": "Şile",
+    "nufus": 48537,
+    "alan": 800,
+    "postakod": "34990"
+  },
+  {
+    "ilno": 34,
+    "no": 1663,
+    "il": "İstanbul",
+    "isim": "Şişli",
+    "nufus": 264736,
+    "alan": 10,
+    "postakod": "34360"
+  },
+  {
+    "ilno": 34,
+    "no": 2015,
+    "il": "İstanbul",
+    "isim": "Tuzla",
+    "nufus": 293604,
+    "alan": 138,
+    "postakod": "34959"
+  },
+  {
+    "ilno": 34,
+    "no": 1852,
+    "il": "İstanbul",
+    "isim": "Ümraniye",
+    "nufus": 723760,
+    "alan": 46,
+    "postakod": "34773"
+  },
+  {
+    "ilno": 34,
+    "no": 1708,
+    "il": "İstanbul",
+    "isim": "Üsküdar",
+    "nufus": 517348,
+    "alan": 35,
+    "postakod": "34660"
+  },
+  {
+    "ilno": 34,
+    "no": 1739,
+    "il": "İstanbul",
+    "isim": "Zeytinburnu",
+    "nufus": 280896,
+    "alan": 12,
+    "postakod": "34025"
+  },
+  {
+    "ilno": 35,
+    "no": 1128,
+    "il": "İzmir",
+    "isim": "Aliağa",
+    "nufus": 106168,
+    "alan": 379,
+    "postakod": "35800"
+  },
+  {
+    "ilno": 35,
+    "no": 2006,
+    "il": "İzmir",
+    "isim": "Balçova",
+    "nufus": 77831,
+    "alan": 16,
+    "postakod": "35330"
+  },
+  {
+    "ilno": 35,
+    "no": 1178,
+    "il": "İzmir",
+    "isim": "Bayındır",
+    "nufus": 40618,
+    "alan": 548,
+    "postakod": "35840"
+  },
+  {
+    "ilno": 35,
+    "no": 2056,
+    "il": "İzmir",
+    "isim": "Bayraklı",
+    "nufus": 300949,
+    "alan": 30,
+    "postakod": "35540"
+  },
+  {
+    "ilno": 35,
+    "no": 1181,
+    "il": "İzmir",
+    "isim": "Bergama",
+    "nufus": 107133,
+    "alan": 1544,
+    "postakod": "35715"
+  },
+  {
+    "ilno": 35,
+    "no": 1776,
+    "il": "İzmir",
+    "isim": "Beydağ",
+    "nufus": 12094,
+    "alan": 172,
+    "postakod": "35790"
+  },
+  {
+    "ilno": 35,
+    "no": 1203,
+    "il": "İzmir",
+    "isim": "Bornova",
+    "nufus": 447553,
+    "alan": 220,
+    "postakod": "35080"
+  },
+  {
+    "ilno": 35,
+    "no": 1780,
+    "il": "İzmir",
+    "isim": "Buca",
+    "nufus": 523487,
+    "alan": 178,
+    "postakod": "35390"
+  },
+  {
+    "ilno": 35,
+    "no": 1251,
+    "il": "İzmir",
+    "isim": "Çeşme",
+    "nufus": 50028,
+    "alan": 285,
+    "postakod": "35937"
+  },
+  {
+    "ilno": 35,
+    "no": 2007,
+    "il": "İzmir",
+    "isim": "Çiğli",
+    "nufus": 215172,
+    "alan": 139,
+    "postakod": "35640"
+  },
+  {
+    "ilno": 35,
+    "no": 1280,
+    "il": "İzmir",
+    "isim": "Dikili",
+    "nufus": 48379,
+    "alan": 534,
+    "postakod": "35985"
+  },
+  {
+    "ilno": 35,
+    "no": 1334,
+    "il": "İzmir",
+    "isim": "Foça",
+    "nufus": 36000,
+    "alan": 251,
+    "postakod": "35683"
+  },
+  {
+    "ilno": 35,
+    "no": 2009,
+    "il": "İzmir",
+    "isim": "Gaziemir",
+    "nufus": 137768,
+    "alan": 70,
+    "postakod": "35410"
+  },
+  {
+    "ilno": 35,
+    "no": 2018,
+    "il": "İzmir",
+    "isim": "Güzelbahçe",
+    "nufus": 38044,
+    "alan": 77,
+    "postakod": "35310"
+  },
+  {
+    "ilno": 35,
+    "no": 2057,
+    "il": "İzmir",
+    "isim": "Karabağlar",
+    "nufus": 476500,
+    "alan": 89,
+    "postakod": "35140"
+  },
+  {
+    "ilno": 35,
+    "no": 1432,
+    "il": "İzmir",
+    "isim": "Karaburun",
+    "nufus": 13379,
+    "alan": 421,
+    "postakod": "35960"
+  },
+  {
+    "ilno": 35,
+    "no": 1448,
+    "il": "İzmir",
+    "isim": "Karşıyaka",
+    "nufus": 341857,
+    "alan": 51,
+    "postakod": "35600"
+  },
+  {
+    "ilno": 35,
+    "no": 1461,
+    "il": "İzmir",
+    "isim": "Kemalpaşa",
+    "nufus": 117956,
+    "alan": 681,
+    "postakod": "35737"
+  },
+  {
+    "ilno": 35,
+    "no": 1467,
+    "il": "İzmir",
+    "isim": "Kınık",
+    "nufus": 29205,
+    "alan": 479,
+    "postakod": "35990"
+  },
+  {
+    "ilno": 35,
+    "no": 1477,
+    "il": "İzmir",
+    "isim": "Kiraz",
+    "nufus": 43572,
+    "alan": 573,
+    "postakod": "35890"
+  },
+  {
+    "ilno": 35,
+    "no": 1819,
+    "il": "İzmir",
+    "isim": "Konak",
+    "nufus": 327300,
+    "alan": 24,
+    "postakod": "35220"
+  },
+  {
+    "ilno": 35,
+    "no": 1826,
+    "il": "İzmir",
+    "isim": "Menderes",
+    "nufus": 109356,
+    "alan": 777,
+    "postakod": "35479"
+  },
+  {
+    "ilno": 35,
+    "no": 1521,
+    "il": "İzmir",
+    "isim": "Menemen",
+    "nufus": 207748,
+    "alan": 573,
+    "postakod": "35667"
+  },
+  {
+    "ilno": 35,
+    "no": 2013,
+    "il": "İzmir",
+    "isim": "Narlıdere",
+    "nufus": 62148,
+    "alan": 50,
+    "postakod": "35320"
+  },
+  {
+    "ilno": 35,
+    "no": 1563,
+    "il": "İzmir",
+    "isim": "Ödemiş",
+    "nufus": 132650,
+    "alan": 1019,
+    "postakod": "35753"
+  },
+  {
+    "ilno": 35,
+    "no": 1611,
+    "il": "İzmir",
+    "isim": "Seferihisar",
+    "nufus": 58570,
+    "alan": 375,
+    "postakod": "35465"
+  },
+  {
+    "ilno": 35,
+    "no": 1612,
+    "il": "İzmir",
+    "isim": "Selçuk",
+    "nufus": 38467,
+    "alan": 317,
+    "postakod": "35925"
+  },
+  {
+    "ilno": 35,
+    "no": 1677,
+    "il": "İzmir",
+    "isim": "Tire",
+    "nufus": 87935,
+    "alan": 716,
+    "postakod": "35910"
+  },
+  {
+    "ilno": 35,
+    "no": 1682,
+    "il": "İzmir",
+    "isim": "Torbalı",
+    "nufus": 214059,
+    "alan": 577,
+    "postakod": "35870"
+  },
+  {
+    "ilno": 35,
+    "no": 1703,
+    "il": "İzmir",
+    "isim": "Urla",
+    "nufus": 77599,
+    "alan": 727,
+    "postakod": "35430"
+  },
+  {
+    "ilno": 36,
+    "no": 1756,
+    "il": "Kars",
+    "isim": "Akyaka",
+    "nufus": 9998,
+    "alan": 417,
+    "postakod": "36780"
+  },
+  {
+    "ilno": 36,
+    "no": 1149,
+    "il": "Kars",
+    "isim": "Arpaçay",
+    "nufus": 14670,
+    "alan": 1165,
+    "postakod": "36730"
+  },
+  {
+    "ilno": 36,
+    "no": 1279,
+    "il": "Kars",
+    "isim": "Digor",
+    "nufus": 19403,
+    "alan": 1092,
+    "postakod": "36680"
+  },
+  {
+    "ilno": 36,
+    "no": 1424,
+    "il": "Kars",
+    "isim": "Kağızman",
+    "nufus": 44162,
+    "alan": 1871,
+    "postakod": "36700"
+  },
+  {
+    "ilno": 36,
+    "no": 1447,
+    "il": "Kars",
+    "isim": "Merkez",
+    "nufus": 122524,
+    "alan": 2048,
+    "postakod": "36000"
+  },
+  {
+    "ilno": 36,
+    "no": 1601,
+    "il": "Kars",
+    "isim": "Sarıkamış",
+    "nufus": 37348,
+    "alan": 2038,
+    "postakod": "36500"
+  },
+  {
+    "ilno": 36,
+    "no": 1614,
+    "il": "Kars",
+    "isim": "Selim",
+    "nufus": 21178,
+    "alan": 982,
+    "postakod": "36900"
+  },
+  {
+    "ilno": 36,
+    "no": 1645,
+    "il": "Kars",
+    "isim": "Susuz",
+    "nufus": 9052,
+    "alan": 578,
+    "postakod": "36760"
+  },
+  {
+    "ilno": 37,
+    "no": 1101,
+    "il": "Kastamonu",
+    "isim": "Abana",
+    "nufus": 4461,
+    "alan": 28,
+    "postakod": "37970"
+  },
+  {
+    "ilno": 37,
+    "no": 1867,
+    "il": "Kastamonu",
+    "isim": "Ağlı",
+    "nufus": 3521,
+    "alan": 225,
+    "postakod": "37920"
+  },
+  {
+    "ilno": 37,
+    "no": 1140,
+    "il": "Kastamonu",
+    "isim": "Araç",
+    "nufus": 18676,
+    "alan": 1446,
+    "postakod": "37800"
+  },
+  {
+    "ilno": 37,
+    "no": 1162,
+    "il": "Kastamonu",
+    "isim": "Azdavay",
+    "nufus": 8031,
+    "alan": 759,
+    "postakod": "37750"
+  },
+  {
+    "ilno": 37,
+    "no": 1208,
+    "il": "Kastamonu",
+    "isim": "Bozkurt",
+    "nufus": 9738,
+    "alan": 308,
+    "postakod": "37680"
+  },
+  {
+    "ilno": 37,
+    "no": 1221,
+    "il": "Kastamonu",
+    "isim": "Cide",
+    "nufus": 22965,
+    "alan": 652,
+    "postakod": "37600"
+  },
+  {
+    "ilno": 37,
+    "no": 1238,
+    "il": "Kastamonu",
+    "isim": "Çatalzeytin",
+    "nufus": 8127,
+    "alan": 272,
+    "postakod": "37940"
+  },
+  {
+    "ilno": 37,
+    "no": 1264,
+    "il": "Kastamonu",
+    "isim": "Daday",
+    "nufus": 8456,
+    "alan": 843,
+    "postakod": "37870"
+  },
+  {
+    "ilno": 37,
+    "no": 1277,
+    "il": "Kastamonu",
+    "isim": "Devrekani",
+    "nufus": 13886,
+    "alan": 715,
+    "postakod": "37700"
+  },
+  {
+    "ilno": 37,
+    "no": 1915,
+    "il": "Kastamonu",
+    "isim": "Doğanyurt",
+    "nufus": 5433,
+    "alan": 193,
+    "postakod": "37550"
+  },
+  {
+    "ilno": 37,
+    "no": 1940,
+    "il": "Kastamonu",
+    "isim": "Hanönü",
+    "nufus": 4395,
+    "alan": 417,
+    "postakod": "37450"
+  },
+  {
+    "ilno": 37,
+    "no": 1805,
+    "il": "Kastamonu",
+    "isim": "İhsangazi",
+    "nufus": 5235,
+    "alan": 445,
+    "postakod": "37250"
+  },
+  {
+    "ilno": 37,
+    "no": 1410,
+    "il": "Kastamonu",
+    "isim": "İnebolu",
+    "nufus": 20480,
+    "alan": 417,
+    "postakod": "37500"
+  },
+  {
+    "ilno": 37,
+    "no": 1499,
+    "il": "Kastamonu",
+    "isim": "Küre",
+    "nufus": 5644,
+    "alan": 406,
+    "postakod": "37900"
+  },
+  {
+    "ilno": 37,
+    "no": 1450,
+    "il": "Kastamonu",
+    "isim": "Merkez",
+    "nufus": 155011,
+    "alan": 1847,
+    "postakod": "37100"
+  },
+  {
+    "ilno": 37,
+    "no": 1836,
+    "il": "Kastamonu",
+    "isim": "Pınarbaşı",
+    "nufus": 6970,
+    "alan": 546,
+    "postakod": "37770"
+  },
+  {
+    "ilno": 37,
+    "no": 1984,
+    "il": "Kastamonu",
+    "isim": "Seydiler",
+    "nufus": 4796,
+    "alan": 233,
+    "postakod": "37270"
+  },
+  {
+    "ilno": 37,
+    "no": 1845,
+    "il": "Kastamonu",
+    "isim": "Şenpazar",
+    "nufus": 4844,
+    "alan": 252,
+    "postakod": "37650"
+  },
+  {
+    "ilno": 37,
+    "no": 1666,
+    "il": "Kastamonu",
+    "isim": "Taşköprü",
+    "nufus": 38372,
+    "alan": 1758,
+    "postakod": "37400"
+  },
+  {
+    "ilno": 37,
+    "no": 1685,
+    "il": "Kastamonu",
+    "isim": "Tosya",
+    "nufus": 39949,
+    "alan": 1302,
+    "postakod": "37300"
+  },
+  {
+    "ilno": 38,
+    "no": 1752,
+    "il": "Kayseri",
+    "isim": "Akkışla",
+    "nufus": 6246,
+    "alan": 371,
+    "postakod": "38830"
+  },
+  {
+    "ilno": 38,
+    "no": 1218,
+    "il": "Kayseri",
+    "isim": "Bünyan",
+    "nufus": 30834,
+    "alan": 1210,
+    "postakod": "38600"
+  },
+  {
+    "ilno": 38,
+    "no": 1275,
+    "il": "Kayseri",
+    "isim": "Develi",
+    "nufus": 67918,
+    "alan": 1892,
+    "postakod": "38400"
+  },
+  {
+    "ilno": 38,
+    "no": 1330,
+    "il": "Kayseri",
+    "isim": "Felahiye",
+    "nufus": 6550,
+    "alan": 444,
+    "postakod": "38750"
+  },
+  {
+    "ilno": 38,
+    "no": 1936,
+    "il": "Kayseri",
+    "isim": "Hacılar",
+    "nufus": 12979,
+    "alan": 187,
+    "postakod": "38210"
+  },
+  {
+    "ilno": 38,
+    "no": 1409,
+    "il": "Kayseri",
+    "isim": "İncesu",
+    "nufus": 30477,
+    "alan": 874,
+    "postakod": "38560"
+  },
+  {
+    "ilno": 38,
+    "no": 1863,
+    "il": "Kayseri",
+    "isim": "Kocasinan",
+    "nufus": 407600,
+    "alan": 1471,
+    "postakod": "38100"
+  },
+  {
+    "ilno": 38,
+    "no": 1864,
+    "il": "Kayseri",
+    "isim": "Melikgazi",
+    "nufus": 585483,
+    "alan": 668,
+    "postakod": "38220"
+  },
+  {
+    "ilno": 38,
+    "no": 1978,
+    "il": "Kayseri",
+    "isim": "Özvatan",
+    "nufus": 4523,
+    "alan": 270,
+    "postakod": "38770"
+  },
+  {
+    "ilno": 38,
+    "no": 1576,
+    "il": "Kayseri",
+    "isim": "Pınarbaşı",
+    "nufus": 24172,
+    "alan": 3418,
+    "postakod": "38700"
+  },
+  {
+    "ilno": 38,
+    "no": 1603,
+    "il": "Kayseri",
+    "isim": "Sarıoğlan",
+    "nufus": 15394,
+    "alan": 642,
+    "postakod": "38850"
+  },
+  {
+    "ilno": 38,
+    "no": 1605,
+    "il": "Kayseri",
+    "isim": "Sarız",
+    "nufus": 11278,
+    "alan": 1173,
+    "postakod": "38660"
+  },
+  {
+    "ilno": 38,
+    "no": 1846,
+    "il": "Kayseri",
+    "isim": "Talas",
+    "nufus": 168172,
+    "alan": 444,
+    "postakod": "38280"
+  },
+  {
+    "ilno": 38,
+    "no": 1680,
+    "il": "Kayseri",
+    "isim": "Tomarza",
+    "nufus": 22041,
+    "alan": 1405,
+    "postakod": "38900"
+  },
+  {
+    "ilno": 38,
+    "no": 1715,
+    "il": "Kayseri",
+    "isim": "Yahyalı",
+    "nufus": 36078,
+    "alan": 1587,
+    "postakod": "38500"
+  },
+  {
+    "ilno": 38,
+    "no": 1727,
+    "il": "Kayseri",
+    "isim": "Yeşilhisar",
+    "nufus": 15938,
+    "alan": 913,
+    "postakod": "38800"
+  },
+  {
+    "ilno": 39,
+    "no": 1163,
+    "il": "Kırklareli",
+    "isim": "Babaeski",
+    "nufus": 46595,
+    "alan": 670,
+    "postakod": "39570"
+  },
+  {
+    "ilno": 39,
+    "no": 1270,
+    "il": "Kırklareli",
+    "isim": "Demirköy",
+    "nufus": 9656,
+    "alan": 893,
+    "postakod": "39500"
+  },
+  {
+    "ilno": 39,
+    "no": 1480,
+    "il": "Kırklareli",
+    "isim": "Kofçaz",
+    "nufus": 2308,
+    "alan": 545,
+    "postakod": "39700"
+  },
+  {
+    "ilno": 39,
+    "no": 1505,
+    "il": "Kırklareli",
+    "isim": "Lüleburgaz",
+    "nufus": 155670,
+    "alan": 1016,
+    "postakod": "39770"
+  },
+  {
+    "ilno": 39,
+    "no": 1471,
+    "il": "Kırklareli",
+    "isim": "Merkez",
+    "nufus": 112323,
+    "alan": 1623,
+    "postakod": "39060"
+  },
+  {
+    "ilno": 39,
+    "no": 1572,
+    "il": "Kırklareli",
+    "isim": "Pehlivanköy",
+    "nufus": 3400,
+    "alan": 104,
+    "postakod": "39640"
+  },
+  {
+    "ilno": 39,
+    "no": 1577,
+    "il": "Kırklareli",
+    "isim": "Pınarhisar",
+    "nufus": 17738,
+    "alan": 518,
+    "postakod": "39300"
+  },
+  {
+    "ilno": 39,
+    "no": 1714,
+    "il": "Kırklareli",
+    "isim": "Vize",
+    "nufus": 29466,
+    "alan": 1090,
+    "postakod": "39400"
+  },
+  {
+    "ilno": 40,
+    "no": 1869,
+    "il": "Kırşehir",
+    "isim": "Akçakent",
+    "nufus": 3792,
+    "alan": 370,
+    "postakod": "40720"
+  },
+  {
+    "ilno": 40,
+    "no": 1754,
+    "il": "Kırşehir",
+    "isim": "Akpınar",
+    "nufus": 7535,
+    "alan": 582,
+    "postakod": "40320"
+  },
+  {
+    "ilno": 40,
+    "no": 1890,
+    "il": "Kırşehir",
+    "isim": "Boztepe",
+    "nufus": 5539,
+    "alan": 747,
+    "postakod": "40020"
+  },
+  {
+    "ilno": 40,
+    "no": 1254,
+    "il": "Kırşehir",
+    "isim": "Çiçekdağı",
+    "nufus": 14480,
+    "alan": 891,
+    "postakod": "40700"
+  },
+  {
+    "ilno": 40,
+    "no": 1429,
+    "il": "Kırşehir",
+    "isim": "Kaman",
+    "nufus": 34285,
+    "alan": 1284,
+    "postakod": "40300"
+  },
+  {
+    "ilno": 40,
+    "no": 1472,
+    "il": "Kırşehir",
+    "isim": "Merkez",
+    "nufus": 162989,
+    "alan": 1719,
+    "postakod": "40100"
+  },
+  {
+    "ilno": 40,
+    "no": 1529,
+    "il": "Kırşehir",
+    "isim": "Mucur",
+    "nufus": 18559,
+    "alan": 992,
+    "postakod": "40500"
+  },
+  {
+    "ilno": 41,
+    "no": 2058,
+    "il": "Kocaeli",
+    "isim": "Başiskele",
+    "nufus": 121278,
+    "alan": 209,
+    "postakod": "41030"
+  },
+  {
+    "ilno": 41,
+    "no": 2059,
+    "il": "Kocaeli",
+    "isim": "Çayırova",
+    "nufus": 153301,
+    "alan": 23,
+    "postakod": "41420"
+  },
+  {
+    "ilno": 41,
+    "no": 2060,
+    "il": "Kocaeli",
+    "isim": "Darıca",
+    "nufus": 227892,
+    "alan": 23,
+    "postakod": "41700"
+  },
+  {
+    "ilno": 41,
+    "no": 2030,
+    "il": "Kocaeli",
+    "isim": "Derince",
+    "nufus": 146409,
+    "alan": 198,
+    "postakod": "41900"
+  },
+  {
+    "ilno": 41,
+    "no": 2061,
+    "il": "Kocaeli",
+    "isim": "Dilovası",
+    "nufus": 54391,
+    "alan": 125,
+    "postakod": "41455"
+  },
+  {
+    "ilno": 41,
+    "no": 1338,
+    "il": "Kocaeli",
+    "isim": "Gebze",
+    "nufus": 407436,
+    "alan": 418,
+    "postakod": "41400"
+  },
+  {
+    "ilno": 41,
+    "no": 1355,
+    "il": "Kocaeli",
+    "isim": "Gölcük",
+    "nufus": 177441,
+    "alan": 217,
+    "postakod": "41950"
+  },
+  {
+    "ilno": 41,
+    "no": 2062,
+    "il": "Kocaeli",
+    "isim": "İzmit",
+    "nufus": 378656,
+    "alan": 480,
+    "postakod": "41310"
+  },
+  {
+    "ilno": 41,
+    "no": 1430,
+    "il": "Kocaeli",
+    "isim": "Kandıra",
+    "nufus": 53845,
+    "alan": 840,
+    "postakod": "41600"
+  },
+  {
+    "ilno": 41,
+    "no": 1440,
+    "il": "Kocaeli",
+    "isim": "Karamürsel",
+    "nufus": 59952,
+    "alan": 262,
+    "postakod": "41500"
+  },
+  {
+    "ilno": 41,
+    "no": 2063,
+    "il": "Kocaeli",
+    "isim": "Kartepe",
+    "nufus": 142175,
+    "alan": 301,
+    "postakod": "41320"
+  },
+  {
+    "ilno": 41,
+    "no": 1821,
+    "il": "Kocaeli",
+    "isim": "Körfez",
+    "nufus": 180131,
+    "alan": 301,
+    "postakod": "41800"
+  },
+  {
+    "ilno": 42,
+    "no": 1868,
+    "il": "Konya",
+    "isim": "Ahırlı",
+    "nufus": 5027,
+    "alan": 325,
+    "postakod": "42390"
+  },
+  {
+    "ilno": 42,
+    "no": 1753,
+    "il": "Konya",
+    "isim": "Akören",
+    "nufus": 5902,
+    "alan": 640,
+    "postakod": "42460"
+  },
+  {
+    "ilno": 42,
+    "no": 1122,
+    "il": "Konya",
+    "isim": "Akşehir",
+    "nufus": 92946,
+    "alan": 895,
+    "postakod": "42580"
+  },
+  {
+    "ilno": 42,
+    "no": 1760,
+    "il": "Konya",
+    "isim": "Altınekin",
+    "nufus": 14851,
+    "alan": 1312,
+    "postakod": "42450"
+  },
+  {
+    "ilno": 42,
+    "no": 1188,
+    "il": "Konya",
+    "isim": "Beyşehir",
+    "nufus": 79030,
+    "alan": 2054,
+    "postakod": "42700"
+  },
+  {
+    "ilno": 42,
+    "no": 1207,
+    "il": "Konya",
+    "isim": "Bozkır",
+    "nufus": 25885,
+    "alan": 1105,
+    "postakod": "42630"
+  },
+  {
+    "ilno": 42,
+    "no": 1222,
+    "il": "Konya",
+    "isim": "Cihanbeyli",
+    "nufus": 50922,
+    "alan": 3702,
+    "postakod": "42860"
+  },
+  {
+    "ilno": 42,
+    "no": 1902,
+    "il": "Konya",
+    "isim": "Çeltik",
+    "nufus": 10324,
+    "alan": 640,
+    "postakod": "42920"
+  },
+  {
+    "ilno": 42,
+    "no": 1262,
+    "il": "Konya",
+    "isim": "Çumra",
+    "nufus": 68543,
+    "alan": 2089,
+    "postakod": "42520"
+  },
+  {
+    "ilno": 42,
+    "no": 1907,
+    "il": "Konya",
+    "isim": "Derbent",
+    "nufus": 4160,
+    "alan": 359,
+    "postakod": "42900"
+  },
+  {
+    "ilno": 42,
+    "no": 1789,
+    "il": "Konya",
+    "isim": "Derebucak",
+    "nufus": 5790,
+    "alan": 451,
+    "postakod": "42485"
+  },
+  {
+    "ilno": 42,
+    "no": 1285,
+    "il": "Konya",
+    "isim": "Doğanhisar",
+    "nufus": 14815,
+    "alan": 482,
+    "postakod": "42930"
+  },
+  {
+    "ilno": 42,
+    "no": 1920,
+    "il": "Konya",
+    "isim": "Emirgazi",
+    "nufus": 7945,
+    "alan": 798,
+    "postakod": "42910"
+  },
+  {
+    "ilno": 42,
+    "no": 1312,
+    "il": "Konya",
+    "isim": "Ereğli",
+    "nufus": 153849,
+    "alan": 2214,
+    "postakod": "42320"
+  },
+  {
+    "ilno": 42,
+    "no": 1933,
+    "il": "Konya",
+    "isim": "Güneysınır",
+    "nufus": 9415,
+    "alan": 482,
+    "postakod": "42490"
+  },
+  {
+    "ilno": 42,
+    "no": 1375,
+    "il": "Konya",
+    "isim": "Hadim",
+    "nufus": 11459,
+    "alan": 1165,
+    "postakod": "42830"
+  },
+  {
+    "ilno": 42,
+    "no": 1937,
+    "il": "Konya",
+    "isim": "Halkapınar",
+    "nufus": 4183,
+    "alan": 605,
+    "postakod": "42980"
+  },
+  {
+    "ilno": 42,
+    "no": 1804,
+    "il": "Konya",
+    "isim": "Hüyük",
+    "nufus": 15431,
+    "alan": 443,
+    "postakod": "42690"
+  },
+  {
+    "ilno": 42,
+    "no": 1400,
+    "il": "Konya",
+    "isim": "Ilgın",
+    "nufus": 53707,
+    "alan": 1636,
+    "postakod": "42610"
+  },
+  {
+    "ilno": 42,
+    "no": 1422,
+    "il": "Konya",
+    "isim": "Kadınhanı",
+    "nufus": 31852,
+    "alan": 1568,
+    "postakod": "42810"
+  },
+  {
+    "ilno": 42,
+    "no": 1441,
+    "il": "Konya",
+    "isim": "Karapınar",
+    "nufus": 51166,
+    "alan": 2623,
+    "postakod": "42415"
+  },
+  {
+    "ilno": 42,
+    "no": 1814,
+    "il": "Konya",
+    "isim": "Karatay",
+    "nufus": 375919,
+    "alan": 2832,
+    "postakod": "42050"
+  },
+  {
+    "ilno": 42,
+    "no": 1491,
+    "il": "Konya",
+    "isim": "Kulu",
+    "nufus": 52447,
+    "alan": 2234,
+    "postakod": "42773"
+  },
+  {
+    "ilno": 42,
+    "no": 1827,
+    "il": "Konya",
+    "isim": "Meram",
+    "nufus": 347341,
+    "alan": 1822,
+    "postakod": "42040"
+  },
+  {
+    "ilno": 42,
+    "no": 1598,
+    "il": "Konya",
+    "isim": "Sarayönü",
+    "nufus": 28967,
+    "alan": 1620,
+    "postakod": "42430"
+  },
+  {
+    "ilno": 42,
+    "no": 1839,
+    "il": "Konya",
+    "isim": "Selçuklu",
+    "nufus": 695771,
+    "alan": 1931,
+    "postakod": "42100"
+  },
+  {
+    "ilno": 42,
+    "no": 1617,
+    "il": "Konya",
+    "isim": "Seydişehir",
+    "nufus": 65928,
+    "alan": 1458,
+    "postakod": "42360"
+  },
+  {
+    "ilno": 42,
+    "no": 1848,
+    "il": "Konya",
+    "isim": "Taşkent",
+    "nufus": 6976,
+    "alan": 457,
+    "postakod": "42960"
+  },
+  {
+    "ilno": 42,
+    "no": 1990,
+    "il": "Konya",
+    "isim": "Tuzlukçu",
+    "nufus": 6546,
+    "alan": 704,
+    "postakod": "42970"
+  },
+  {
+    "ilno": 42,
+    "no": 1994,
+    "il": "Konya",
+    "isim": "Yalıhüyük",
+    "nufus": 1854,
+    "alan": 94,
+    "postakod": "42470"
+  },
+  {
+    "ilno": 42,
+    "no": 1735,
+    "il": "Konya",
+    "isim": "Yunak",
+    "nufus": 21290,
+    "alan": 2101,
+    "postakod": "42536"
+  },
+  {
+    "ilno": 43,
+    "no": 1132,
+    "il": "Kütahya",
+    "isim": "Altıntaş",
+    "nufus": 15446,
+    "alan": 941,
+    "postakod": "43800"
+  },
+  {
+    "ilno": 43,
+    "no": 1764,
+    "il": "Kütahya",
+    "isim": "Aslanapa",
+    "nufus": 8485,
+    "alan": 731,
+    "postakod": "43210"
+  },
+  {
+    "ilno": 43,
+    "no": 1898,
+    "il": "Kütahya",
+    "isim": "Çavdarhisar",
+    "nufus": 6073,
+    "alan": 429,
+    "postakod": "43710"
+  },
+  {
+    "ilno": 43,
+    "no": 1288,
+    "il": "Kütahya",
+    "isim": "Domaniç",
+    "nufus": 14206,
+    "alan": 539,
+    "postakod": "43860"
+  },
+  {
+    "ilno": 43,
+    "no": 1790,
+    "il": "Kütahya",
+    "isim": "Dumlupınar",
+    "nufus": 2957,
+    "alan": 250,
+    "postakod": "43820"
+  },
+  {
+    "ilno": 43,
+    "no": 1304,
+    "il": "Kütahya",
+    "isim": "Emet",
+    "nufus": 18264,
+    "alan": 951,
+    "postakod": "43700"
+  },
+  {
+    "ilno": 43,
+    "no": 1339,
+    "il": "Kütahya",
+    "isim": "Gediz",
+    "nufus": 49915,
+    "alan": 1193,
+    "postakod": "43640"
+  },
+  {
+    "ilno": 43,
+    "no": 1802,
+    "il": "Kütahya",
+    "isim": "Hisarcık",
+    "nufus": 10996,
+    "alan": 370,
+    "postakod": "43780"
+  },
+  {
+    "ilno": 43,
+    "no": 1500,
+    "il": "Kütahya",
+    "isim": "Merkez",
+    "nufus": 276427,
+    "alan": 2470,
+    "postakod": "43020"
+  },
+  {
+    "ilno": 43,
+    "no": 1979,
+    "il": "Kütahya",
+    "isim": "Pazarlar",
+    "nufus": 5064,
+    "alan": 115,
+    "postakod": "43530"
+  },
+  {
+    "ilno": 43,
+    "no": 1625,
+    "il": "Kütahya",
+    "isim": "Simav",
+    "nufus": 61346,
+    "alan": 1515,
+    "postakod": "43590"
+  },
+  {
+    "ilno": 43,
+    "no": 1843,
+    "il": "Kütahya",
+    "isim": "Şaphane",
+    "nufus": 5844,
+    "alan": 229,
+    "postakod": "43950"
+  },
+  {
+    "ilno": 43,
+    "no": 1671,
+    "il": "Kütahya",
+    "isim": "Tavşanlı",
+    "nufus": 100651,
+    "alan": 1899,
+    "postakod": "43410"
+  },
+  {
+    "ilno": 44,
+    "no": 1114,
+    "il": "Malatya",
+    "isim": "Akçadağ",
+    "nufus": 34322,
+    "alan": 1118,
+    "postakod": "44600"
+  },
+  {
+    "ilno": 44,
+    "no": 1143,
+    "il": "Malatya",
+    "isim": "Arapgir",
+    "nufus": 10641,
+    "alan": 987,
+    "postakod": "44800"
+  },
+  {
+    "ilno": 44,
+    "no": 1148,
+    "il": "Malatya",
+    "isim": "Arguvan",
+    "nufus": 7708,
+    "alan": 1096,
+    "postakod": "44960"
+  },
+  {
+    "ilno": 44,
+    "no": 1772,
+    "il": "Malatya",
+    "isim": "Battalgazi",
+    "nufus": 269150,
+    "alan": 947,
+    "postakod": "44210"
+  },
+  {
+    "ilno": 44,
+    "no": 1265,
+    "il": "Malatya",
+    "isim": "Darende",
+    "nufus": 26318,
+    "alan": 1482,
+    "postakod": "44720"
+  },
+  {
+    "ilno": 44,
+    "no": 1286,
+    "il": "Malatya",
+    "isim": "Doğanşehir",
+    "nufus": 35936,
+    "alan": 1364,
+    "postakod": "44500"
+  },
+  {
+    "ilno": 44,
+    "no": 1914,
+    "il": "Malatya",
+    "isim": "Doğanyol",
+    "nufus": 4436,
+    "alan": 177,
+    "postakod": "44880"
+  },
+  {
+    "ilno": 44,
+    "no": 1390,
+    "il": "Malatya",
+    "isim": "Hekimhan",
+    "nufus": 20106,
+    "alan": 1514,
+    "postakod": "44410"
+  },
+  {
+    "ilno": 44,
+    "no": 1953,
+    "il": "Malatya",
+    "isim": "Kale",
+    "nufus": 6492,
+    "alan": 237,
+    "postakod": "44370"
+  },
+  {
+    "ilno": 44,
+    "no": 1969,
+    "il": "Malatya",
+    "isim": "Kuluncak",
+    "nufus": 8549,
+    "alan": 645,
+    "postakod": "44760"
+  },
+  {
+    "ilno": 44,
+    "no": 1582,
+    "il": "Malatya",
+    "isim": "Pütürge",
+    "nufus": 15779,
+    "alan": 1086,
+    "postakod": "44850"
+  },
+  {
+    "ilno": 44,
+    "no": 1995,
+    "il": "Malatya",
+    "isim": "Yazıhan",
+    "nufus": 16370,
+    "alan": 653,
+    "postakod": "44350"
+  },
+  {
+    "ilno": 44,
+    "no": 1729,
+    "il": "Malatya",
+    "isim": "Yeşilyurt",
+    "nufus": 286918,
+    "alan": 953,
+    "postakod": "44915"
+  },
+  {
+    "ilno": 45,
+    "no": 1751,
+    "il": "Manisa",
+    "isim": "Ahmetli",
+    "nufus": 17370,
+    "alan": 227,
+    "postakod": "45450"
+  },
+  {
+    "ilno": 45,
+    "no": 1118,
+    "il": "Manisa",
+    "isim": "Akhisar",
+    "nufus": 178812,
+    "alan": 1645,
+    "postakod": "45200"
+  },
+  {
+    "ilno": 45,
+    "no": 1127,
+    "il": "Manisa",
+    "isim": "Alaşehir",
+    "nufus": 105397,
+    "alan": 971,
+    "postakod": "45600"
+  },
+  {
+    "ilno": 45,
+    "no": 1269,
+    "il": "Manisa",
+    "isim": "Demirci",
+    "nufus": 35868,
+    "alan": 1321,
+    "postakod": "45900"
+  },
+  {
+    "ilno": 45,
+    "no": 1793,
+    "il": "Manisa",
+    "isim": "Gölmarmara",
+    "nufus": 15211,
+    "alan": 310,
+    "postakod": "45580"
+  },
+  {
+    "ilno": 45,
+    "no": 1362,
+    "il": "Manisa",
+    "isim": "Gördes",
+    "nufus": 26240,
+    "alan": 902,
+    "postakod": "45750"
+  },
+  {
+    "ilno": 45,
+    "no": 1470,
+    "il": "Manisa",
+    "isim": "Kırkağaç",
+    "nufus": 37823,
+    "alan": 541,
+    "postakod": "45730"
+  },
+  {
+    "ilno": 45,
+    "no": 1965,
+    "il": "Manisa",
+    "isim": "Köprübaşı",
+    "nufus": 12752,
+    "alan": 447,
+    "postakod": "45940"
+  },
+  {
+    "ilno": 45,
+    "no": 1489,
+    "il": "Manisa",
+    "isim": "Kula",
+    "nufus": 43361,
+    "alan": 981,
+    "postakod": "45180"
+  },
+  {
+    "ilno": 45,
+    "no": 1590,
+    "il": "Manisa",
+    "isim": "Salihli",
+    "nufus": 165182,
+    "alan": 1359,
+    "postakod": "45320"
+  },
+  {
+    "ilno": 45,
+    "no": 1600,
+    "il": "Manisa",
+    "isim": "Sarıgöl",
+    "nufus": 35519,
+    "alan": 432,
+    "postakod": "45470"
+  },
+  {
+    "ilno": 45,
+    "no": 1606,
+    "il": "Manisa",
+    "isim": "Saruhanlı",
+    "nufus": 57452,
+    "alan": 771,
+    "postakod": "45880"
+  },
+  {
+    "ilno": 45,
+    "no": 1613,
+    "il": "Manisa",
+    "isim": "Selendi",
+    "nufus": 19115,
+    "alan": 726,
+    "postakod": "45970"
+  },
+  {
+    "ilno": 45,
+    "no": 1634,
+    "il": "Manisa",
+    "isim": "Soma",
+    "nufus": 111276,
+    "alan": 820,
+    "postakod": "45520"
+  },
+  {
+    "ilno": 45,
+    "no": 2086,
+    "il": "Manisa",
+    "isim": "Şehzadeler",
+    "nufus": 166541,
+    "alan": 515,
+    "postakod": "45060"
+  },
+  {
+    "ilno": 45,
+    "no": 1689,
+    "il": "Manisa",
+    "isim": "Turgutlu",
+    "nufus": 177071,
+    "alan": 549,
+    "postakod": "45400"
+  },
+  {
+    "ilno": 45,
+    "no": 2087,
+    "il": "Manisa",
+    "isim": "Yunusemre",
+    "nufus": 270726,
+    "alan": 823,
+    "postakod": "45125"
+  },
+  {
+    "ilno": 46,
+    "no": 1107,
+    "il": "Kahramanmaraş",
+    "isim": "Afşin",
+    "nufus": 78152,
+    "alan": 1502,
+    "postakod": "46500"
+  },
+  {
+    "ilno": 46,
+    "no": 1136,
+    "il": "Kahramanmaraş",
+    "isim": "Andırın",
+    "nufus": 32581,
+    "alan": 1202,
+    "postakod": "46400"
+  },
+  {
+    "ilno": 46,
+    "no": 1785,
+    "il": "Kahramanmaraş",
+    "isim": "Çağlayancerit",
+    "nufus": 23159,
+    "alan": 470,
+    "postakod": "46770"
+  },
+  {
+    "ilno": 46,
+    "no": 2084,
+    "il": "Kahramanmaraş",
+    "isim": "Dulkadiroğlu",
+    "nufus": 214608,
+    "alan": 1176,
+    "postakod": "46100"
+  },
+  {
+    "ilno": 46,
+    "no": 1919,
+    "il": "Kahramanmaraş",
+    "isim": "Ekinözü",
+    "nufus": 10471,
+    "alan": 656,
+    "postakod": "46360"
+  },
+  {
+    "ilno": 46,
+    "no": 1299,
+    "il": "Kahramanmaraş",
+    "isim": "Elbistan",
+    "nufus": 127755,
+    "alan": 2201,
+    "postakod": "46390"
+  },
+  {
+    "ilno": 46,
+    "no": 1353,
+    "il": "Kahramanmaraş",
+    "isim": "Göksun",
+    "nufus": 49119,
+    "alan": 1942,
+    "postakod": "46650"
+  },
+  {
+    "ilno": 46,
+    "no": 1975,
+    "il": "Kahramanmaraş",
+    "isim": "Nurhak",
+    "nufus": 11984,
+    "alan": 1028,
+    "postakod": "46371"
+  },
+  {
+    "ilno": 46,
+    "no": 2085,
+    "il": "Kahramanmaraş",
+    "isim": "Onikişubat",
+    "nufus": 427272,
+    "alan": 2429,
+    "postakod": "46050"
+  },
+  {
+    "ilno": 46,
+    "no": 1570,
+    "il": "Kahramanmaraş",
+    "isim": "Pazarcık",
+    "nufus": 67262,
+    "alan": 1253,
+    "postakod": "46760"
+  },
+  {
+    "ilno": 46,
+    "no": 1694,
+    "il": "Kahramanmaraş",
+    "isim": "Türkoğlu",
+    "nufus": 74255,
+    "alan": 660,
+    "postakod": "46810"
+  },
+  {
+    "ilno": 47,
+    "no": 2088,
+    "il": "Mardin",
+    "isim": "Artuklu",
+    "nufus": 194073,
+    "alan": 885,
+    "postakod": "47420"
+  },
+  {
+    "ilno": 47,
+    "no": 1787,
+    "il": "Mardin",
+    "isim": "Dargeçit",
+    "nufus": 28434,
+    "alan": 519,
+    "postakod": "47750"
+  },
+  {
+    "ilno": 47,
+    "no": 1273,
+    "il": "Mardin",
+    "isim": "Derik",
+    "nufus": 62475,
+    "alan": 1381,
+    "postakod": "47800"
+  },
+  {
+    "ilno": 47,
+    "no": 1474,
+    "il": "Mardin",
+    "isim": "Kızıltepe",
+    "nufus": 271307,
+    "alan": 1236,
+    "postakod": "47460"
+  },
+  {
+    "ilno": 47,
+    "no": 1519,
+    "il": "Mardin",
+    "isim": "Mazıdağı",
+    "nufus": 37399,
+    "alan": 850,
+    "postakod": "47700"
+  },
+  {
+    "ilno": 47,
+    "no": 1526,
+    "il": "Mardin",
+    "isim": "Midyat",
+    "nufus": 122308,
+    "alan": 1241,
+    "postakod": "47545"
+  },
+  {
+    "ilno": 47,
+    "no": 1547,
+    "il": "Mardin",
+    "isim": "Nusaybin",
+    "nufus": 118640,
+    "alan": 1079,
+    "postakod": "47320"
+  },
+  {
+    "ilno": 47,
+    "no": 1564,
+    "il": "Mardin",
+    "isim": "Ömerli",
+    "nufus": 14571,
+    "alan": 458,
+    "postakod": "47570"
+  },
+  {
+    "ilno": 47,
+    "no": 1609,
+    "il": "Mardin",
+    "isim": "Savur",
+    "nufus": 26173,
+    "alan": 962,
+    "postakod": "47860"
+  },
+  {
+    "ilno": 47,
+    "no": 2002,
+    "il": "Mardin",
+    "isim": "Yeşilli",
+    "nufus": 13494,
+    "alan": 168,
+    "postakod": "47650"
+  },
+  {
+    "ilno": 48,
+    "no": 1197,
+    "il": "Muğla",
+    "isim": "Bodrum",
+    "nufus": 198335,
+    "alan": 650,
+    "postakod": "48470"
+  },
+  {
+    "ilno": 48,
+    "no": 1742,
+    "il": "Muğla",
+    "isim": "Dalaman",
+    "nufus": 49044,
+    "alan": 608,
+    "postakod": "48770"
+  },
+  {
+    "ilno": 48,
+    "no": 1266,
+    "il": "Muğla",
+    "isim": "Datça",
+    "nufus": 25649,
+    "alan": 436,
+    "postakod": "48900"
+  },
+  {
+    "ilno": 48,
+    "no": 1331,
+    "il": "Muğla",
+    "isim": "Fethiye",
+    "nufus": 177569,
+    "alan": 875,
+    "postakod": "48375"
+  },
+  {
+    "ilno": 48,
+    "no": 1958,
+    "il": "Muğla",
+    "isim": "Kavaklıdere",
+    "nufus": 10975,
+    "alan": 302,
+    "postakod": "48585"
+  },
+  {
+    "ilno": 48,
+    "no": 1488,
+    "il": "Muğla",
+    "isim": "Köyceğiz",
+    "nufus": 40665,
+    "alan": 1329,
+    "postakod": "48803"
+  },
+  {
+    "ilno": 48,
+    "no": 1517,
+    "il": "Muğla",
+    "isim": "Marmaris",
+    "nufus": 96778,
+    "alan": 906,
+    "postakod": "48706"
+  },
+  {
+    "ilno": 48,
+    "no": 2089,
+    "il": "Muğla",
+    "isim": "Menteşe",
+    "nufus": 123227,
+    "alan": 1659,
+    "postakod": "48040"
+  },
+  {
+    "ilno": 48,
+    "no": 1528,
+    "il": "Muğla",
+    "isim": "Milas",
+    "nufus": 149691,
+    "alan": 2067,
+    "postakod": "48210"
+  },
+  {
+    "ilno": 48,
+    "no": 1831,
+    "il": "Muğla",
+    "isim": "Ortaca",
+    "nufus": 56056,
+    "alan": 285,
+    "postakod": "48840"
+  },
+  {
+    "ilno": 48,
+    "no": 2090,
+    "il": "Muğla",
+    "isim": "Seydikemer",
+    "nufus": 65851,
+    "alan": 2208,
+    "postakod": "48360"
+  },
+  {
+    "ilno": 48,
+    "no": 1695,
+    "il": "Muğla",
+    "isim": "Ula",
+    "nufus": 27282,
+    "alan": 479,
+    "postakod": "48650"
+  },
+  {
+    "ilno": 48,
+    "no": 1719,
+    "il": "Muğla",
+    "isim": "Yatağan",
+    "nufus": 45614,
+    "alan": 851,
+    "postakod": "48516"
+  },
+  {
+    "ilno": 49,
+    "no": 1213,
+    "il": "Muş",
+    "isim": "Bulanık",
+    "nufus": 72714,
+    "alan": 1948,
+    "postakod": "49500"
+  },
+  {
+    "ilno": 49,
+    "no": 1801,
+    "il": "Muş",
+    "isim": "Hasköy",
+    "nufus": 27630,
+    "alan": 264,
+    "postakod": "49700"
+  },
+  {
+    "ilno": 49,
+    "no": 1964,
+    "il": "Muş",
+    "isim": "Korkut",
+    "nufus": 23193,
+    "alan": 775,
+    "postakod": "49730"
+  },
+  {
+    "ilno": 49,
+    "no": 1510,
+    "il": "Muş",
+    "isim": "Malazgirt",
+    "nufus": 44442,
+    "alan": 1595,
+    "postakod": "49400"
+  },
+  {
+    "ilno": 49,
+    "no": 1534,
+    "il": "Muş",
+    "isim": "Merkez",
+    "nufus": 201717,
+    "alan": 2750,
+    "postakod": "49100"
+  },
+  {
+    "ilno": 49,
+    "no": 1711,
+    "il": "Muş",
+    "isim": "Varto",
+    "nufus": 30183,
+    "alan": 1318,
+    "postakod": "49610"
+  },
+  {
+    "ilno": 50,
+    "no": 1749,
+    "il": "Nevşehir",
+    "isim": "Acıgöl",
+    "nufus": 19565,
+    "alan": 456,
+    "postakod": "50140"
+  },
+  {
+    "ilno": 50,
+    "no": 1155,
+    "il": "Nevşehir",
+    "isim": "Avanos",
+    "nufus": 32682,
+    "alan": 995,
+    "postakod": "50500"
+  },
+  {
+    "ilno": 50,
+    "no": 1274,
+    "il": "Nevşehir",
+    "isim": "Derinkuyu",
+    "nufus": 20767,
+    "alan": 473,
+    "postakod": "50700"
+  },
+  {
+    "ilno": 50,
+    "no": 1367,
+    "il": "Nevşehir",
+    "isim": "Gülşehir",
+    "nufus": 21806,
+    "alan": 879,
+    "postakod": "50900"
+  },
+  {
+    "ilno": 50,
+    "no": 1374,
+    "il": "Nevşehir",
+    "isim": "Hacıbektaş",
+    "nufus": 11352,
+    "alan": 750,
+    "postakod": "50800"
+  },
+  {
+    "ilno": 50,
+    "no": 1485,
+    "il": "Nevşehir",
+    "isim": "Kozaklı",
+    "nufus": 13412,
+    "alan": 772,
+    "postakod": "50600"
+  },
+  {
+    "ilno": 50,
+    "no": 1543,
+    "il": "Nevşehir",
+    "isim": "Merkez",
+    "nufus": 159195,
+    "alan": 574,
+    "postakod": "50300"
+  },
+  {
+    "ilno": 50,
+    "no": 1707,
+    "il": "Nevşehir",
+    "isim": "Ürgüp",
+    "nufus": 37215,
+    "alan": 587,
+    "postakod": "50350"
+  },
+  {
+    "ilno": 51,
+    "no": 1876,
+    "il": "Niğde",
+    "isim": "Altunhisar",
+    "nufus": 14225,
+    "alan": 552,
+    "postakod": "51600"
+  },
+  {
+    "ilno": 51,
+    "no": 1201,
+    "il": "Niğde",
+    "isim": "Bor",
+    "nufus": 62553,
+    "alan": 1522,
+    "postakod": "51710"
+  },
+  {
+    "ilno": 51,
+    "no": 1225,
+    "il": "Niğde",
+    "isim": "Çamardı",
+    "nufus": 13614,
+    "alan": 1163,
+    "postakod": "51660"
+  },
+  {
+    "ilno": 51,
+    "no": 1904,
+    "il": "Niğde",
+    "isim": "Çiftlik",
+    "nufus": 28780,
+    "alan": 400,
+    "postakod": "51810"
+  },
+  {
+    "ilno": 51,
+    "no": 1544,
+    "il": "Niğde",
+    "isim": "Merkez",
+    "nufus": 236864,
+    "alan": 2223,
+    "postakod": "51200"
+  },
+  {
+    "ilno": 51,
+    "no": 1700,
+    "il": "Niğde",
+    "isim": "Ulukışla",
+    "nufus": 21044,
+    "alan": 1375,
+    "postakod": "51900"
+  },
+  {
+    "ilno": 52,
+    "no": 1119,
+    "il": "Ordu",
+    "isim": "Akkuş",
+    "nufus": 22456,
+    "alan": 697,
+    "postakod": "52950"
+  },
+  {
+    "ilno": 52,
+    "no": 2103,
+    "il": "Ordu",
+    "isim": "Altınordu",
+    "nufus": 225349,
+    "alan": 410,
+    "postakod": "52200"
+  },
+  {
+    "ilno": 52,
+    "no": 1158,
+    "il": "Ordu",
+    "isim": "Aybastı",
+    "nufus": 20966,
+    "alan": 250,
+    "postakod": "52500"
+  },
+  {
+    "ilno": 52,
+    "no": 1891,
+    "il": "Ordu",
+    "isim": "Çamaş",
+    "nufus": 10232,
+    "alan": 81,
+    "postakod": "52430"
+  },
+  {
+    "ilno": 52,
+    "no": 1897,
+    "il": "Ordu",
+    "isim": "Çatalpınar",
+    "nufus": 14014,
+    "alan": 101,
+    "postakod": "52420"
+  },
+  {
+    "ilno": 52,
+    "no": 1900,
+    "il": "Ordu",
+    "isim": "Çaybaşı",
+    "nufus": 12625,
+    "alan": 102,
+    "postakod": "52310"
+  },
+  {
+    "ilno": 52,
+    "no": 1328,
+    "il": "Ordu",
+    "isim": "Fatsa",
+    "nufus": 125399,
+    "alan": 363,
+    "postakod": "52410"
+  },
+  {
+    "ilno": 52,
+    "no": 1358,
+    "il": "Ordu",
+    "isim": "Gölköy",
+    "nufus": 26970,
+    "alan": 421,
+    "postakod": "52600"
+  },
+  {
+    "ilno": 52,
+    "no": 1795,
+    "il": "Ordu",
+    "isim": "Gülyalı",
+    "nufus": 9243,
+    "alan": 62,
+    "postakod": "52010"
+  },
+  {
+    "ilno": 52,
+    "no": 1797,
+    "il": "Ordu",
+    "isim": "Gürgentepe",
+    "nufus": 15543,
+    "alan": 185,
+    "postakod": "52610"
+  },
+  {
+    "ilno": 52,
+    "no": 1947,
+    "il": "Ordu",
+    "isim": "İkizce",
+    "nufus": 14013,
+    "alan": 148,
+    "postakod": "52320"
+  },
+  {
+    "ilno": 52,
+    "no": 1950,
+    "il": "Ordu",
+    "isim": "Kabadüz",
+    "nufus": 7548,
+    "alan": 290,
+    "postakod": "52020"
+  },
+  {
+    "ilno": 52,
+    "no": 1951,
+    "il": "Ordu",
+    "isim": "Kabataş",
+    "nufus": 11011,
+    "alan": 74,
+    "postakod": "52510"
+  },
+  {
+    "ilno": 52,
+    "no": 1482,
+    "il": "Ordu",
+    "isim": "Korgan",
+    "nufus": 28144,
+    "alan": 254,
+    "postakod": "52700"
+  },
+  {
+    "ilno": 52,
+    "no": 1493,
+    "il": "Ordu",
+    "isim": "Kumru",
+    "nufus": 29704,
+    "alan": 296,
+    "postakod": "52800"
+  },
+  {
+    "ilno": 52,
+    "no": 1525,
+    "il": "Ordu",
+    "isim": "Mesudiye",
+    "nufus": 15357,
+    "alan": 1046,
+    "postakod": "52900"
+  },
+  {
+    "ilno": 52,
+    "no": 1573,
+    "il": "Ordu",
+    "isim": "Perşembe",
+    "nufus": 31278,
+    "alan": 217,
+    "postakod": "52760"
+  },
+  {
+    "ilno": 52,
+    "no": 1696,
+    "il": "Ordu",
+    "isim": "Ulubey",
+    "nufus": 23033,
+    "alan": 295,
+    "postakod": "52850"
+  },
+  {
+    "ilno": 52,
+    "no": 1706,
+    "il": "Ordu",
+    "isim": "Ünye",
+    "nufus": 132915,
+    "alan": 569,
+    "postakod": "52300"
+  },
+  {
+    "ilno": 53,
+    "no": 1146,
+    "il": "Rize",
+    "isim": "Ardeşen",
+    "nufus": 42467,
+    "alan": 376,
+    "postakod": "53400"
+  },
+  {
+    "ilno": 53,
+    "no": 1228,
+    "il": "Rize",
+    "isim": "Çamlıhemşin",
+    "nufus": 7799,
+    "alan": 897,
+    "postakod": "53750"
+  },
+  {
+    "ilno": 53,
+    "no": 1241,
+    "il": "Rize",
+    "isim": "Çayeli",
+    "nufus": 43075,
+    "alan": 442,
+    "postakod": "53210"
+  },
+  {
+    "ilno": 53,
+    "no": 1908,
+    "il": "Rize",
+    "isim": "Derepazarı",
+    "nufus": 7732,
+    "alan": 28,
+    "postakod": "53900"
+  },
+  {
+    "ilno": 53,
+    "no": 1332,
+    "il": "Rize",
+    "isim": "Fındıklı",
+    "nufus": 17385,
+    "alan": 383,
+    "postakod": "53700"
+  },
+  {
+    "ilno": 53,
+    "no": 1796,
+    "il": "Rize",
+    "isim": "Güneysu",
+    "nufus": 15953,
+    "alan": 159,
+    "postakod": "53350"
+  },
+  {
+    "ilno": 53,
+    "no": 1943,
+    "il": "Rize",
+    "isim": "Hemşin",
+    "nufus": 2499,
+    "alan": 134,
+    "postakod": "53550"
+  },
+  {
+    "ilno": 53,
+    "no": 1405,
+    "il": "Rize",
+    "isim": "İkizdere",
+    "nufus": 8676,
+    "alan": 855,
+    "postakod": "53650"
+  },
+  {
+    "ilno": 53,
+    "no": 1949,
+    "il": "Rize",
+    "isim": "İyidere",
+    "nufus": 9366,
+    "alan": 28,
+    "postakod": "53600"
+  },
+  {
+    "ilno": 53,
+    "no": 1428,
+    "il": "Rize",
+    "isim": "Kalkandere",
+    "nufus": 15042,
+    "alan": 107,
+    "postakod": "53500"
+  },
+  {
+    "ilno": 53,
+    "no": 1586,
+    "il": "Rize",
+    "isim": "Merkez",
+    "nufus": 147996,
+    "alan": 253,
+    "postakod": "53950"
+  },
+  {
+    "ilno": 53,
+    "no": 1569,
+    "il": "Rize",
+    "isim": "Pazar",
+    "nufus": 32516,
+    "alan": 173,
+    "postakod": "53340"
+  },
+  {
+    "ilno": 54,
+    "no": 2068,
+    "il": "Sakarya",
+    "isim": "Adapazarı",
+    "nufus": 279431,
+    "alan": 324,
+    "postakod": "54100"
+  },
+  {
+    "ilno": 54,
+    "no": 1123,
+    "il": "Sakarya",
+    "isim": "Akyazı",
+    "nufus": 96605,
+    "alan": 628,
+    "postakod": "54400"
+  },
+  {
+    "ilno": 54,
+    "no": 2069,
+    "il": "Sakarya",
+    "isim": "Arifiye",
+    "nufus": 51467,
+    "alan": 75,
+    "postakod": "54580"
+  },
+  {
+    "ilno": 54,
+    "no": 2070,
+    "il": "Sakarya",
+    "isim": "Erenler",
+    "nufus": 91611,
+    "alan": 136,
+    "postakod": "54200"
+  },
+  {
+    "ilno": 54,
+    "no": 1925,
+    "il": "Sakarya",
+    "isim": "Ferizli",
+    "nufus": 32752,
+    "alan": 173,
+    "postakod": "54110"
+  },
+  {
+    "ilno": 54,
+    "no": 1351,
+    "il": "Sakarya",
+    "isim": "Geyve",
+    "nufus": 51676,
+    "alan": 662,
+    "postakod": "54950"
+  },
+  {
+    "ilno": 54,
+    "no": 1391,
+    "il": "Sakarya",
+    "isim": "Hendek",
+    "nufus": 91486,
+    "alan": 646,
+    "postakod": "54300"
+  },
+  {
+    "ilno": 54,
+    "no": 1955,
+    "il": "Sakarya",
+    "isim": "Karapürçek",
+    "nufus": 13713,
+    "alan": 142,
+    "postakod": "54430"
+  },
+  {
+    "ilno": 54,
+    "no": 1442,
+    "il": "Sakarya",
+    "isim": "Karasu",
+    "nufus": 73738,
+    "alan": 411,
+    "postakod": "54500"
+  },
+  {
+    "ilno": 54,
+    "no": 1453,
+    "il": "Sakarya",
+    "isim": "Kaynarca",
+    "nufus": 25137,
+    "alan": 343,
+    "postakod": "54650"
+  },
+  {
+    "ilno": 54,
+    "no": 1818,
+    "il": "Sakarya",
+    "isim": "Kocaali",
+    "nufus": 26523,
+    "alan": 254,
+    "postakod": "54800"
+  },
+  {
+    "ilno": 54,
+    "no": 1833,
+    "il": "Sakarya",
+    "isim": "Pamukova",
+    "nufus": 31205,
+    "alan": 289,
+    "postakod": "54900"
+  },
+  {
+    "ilno": 54,
+    "no": 1595,
+    "il": "Sakarya",
+    "isim": "Sapanca",
+    "nufus": 46080,
+    "alan": 173,
+    "postakod": "54600"
+  },
+  {
+    "ilno": 54,
+    "no": 2071,
+    "il": "Sakarya",
+    "isim": "Serdivan",
+    "nufus": 164222,
+    "alan": 130,
+    "postakod": "54055"
+  },
+  {
+    "ilno": 54,
+    "no": 1986,
+    "il": "Sakarya",
+    "isim": "Söğütlü",
+    "nufus": 15411,
+    "alan": 145,
+    "postakod": "54160"
+  },
+  {
+    "ilno": 54,
+    "no": 1847,
+    "il": "Sakarya",
+    "isim": "Taraklı",
+    "nufus": 7058,
+    "alan": 292,
+    "postakod": "54750"
+  },
+  {
+    "ilno": 55,
+    "no": 1830,
+    "il": "Samsun",
+    "isim": "19 Mayıs",
+    "nufus": 27910,
+    "alan": 234,
+    "postakod": "55421"
+  },
+  {
+    "ilno": 55,
+    "no": 1125,
+    "il": "Samsun",
+    "isim": "Alaçam",
+    "nufus": 25148,
+    "alan": 598,
+    "postakod": "55800"
+  },
+  {
+    "ilno": 55,
+    "no": 1763,
+    "il": "Samsun",
+    "isim": "Asarcık",
+    "nufus": 16906,
+    "alan": 253,
+    "postakod": "55860"
+  },
+  {
+    "ilno": 55,
+    "no": 2072,
+    "il": "Samsun",
+    "isim": "Atakum",
+    "nufus": 245328,
+    "alan": 351,
+    "postakod": "55200"
+  },
+  {
+    "ilno": 55,
+    "no": 1879,
+    "il": "Samsun",
+    "isim": "Ayvacık",
+    "nufus": 21090,
+    "alan": 382,
+    "postakod": "55550"
+  },
+  {
+    "ilno": 55,
+    "no": 1164,
+    "il": "Samsun",
+    "isim": "Bafra",
+    "nufus": 143109,
+    "alan": 1503,
+    "postakod": "55400"
+  },
+  {
+    "ilno": 55,
+    "no": 2073,
+    "il": "Samsun",
+    "isim": "Canik",
+    "nufus": 100040,
+    "alan": 264,
+    "postakod": "55080"
+  },
+  {
+    "ilno": 55,
+    "no": 1234,
+    "il": "Samsun",
+    "isim": "Çarşamba",
+    "nufus": 141199,
+    "alan": 774,
+    "postakod": "55515"
+  },
+  {
+    "ilno": 55,
+    "no": 1386,
+    "il": "Samsun",
+    "isim": "Havza",
+    "nufus": 38824,
+    "alan": 865,
+    "postakod": "55715"
+  },
+  {
+    "ilno": 55,
+    "no": 2074,
+    "il": "Samsun",
+    "isim": "İlkadım",
+    "nufus": 322228,
+    "alan": 155,
+    "postakod": "55070"
+  },
+  {
+    "ilno": 55,
+    "no": 1452,
+    "il": "Samsun",
+    "isim": "Kavak",
+    "nufus": 26346,
+    "alan": 697,
+    "postakod": "55850"
+  },
+  {
+    "ilno": 55,
+    "no": 1501,
+    "il": "Samsun",
+    "isim": "Ladik",
+    "nufus": 16907,
+    "alan": 541,
+    "postakod": "55760"
+  },
+  {
+    "ilno": 55,
+    "no": 1838,
+    "il": "Samsun",
+    "isim": "Salıpazarı",
+    "nufus": 21243,
+    "alan": 356,
+    "postakod": "55530"
+  },
+  {
+    "ilno": 55,
+    "no": 1849,
+    "il": "Samsun",
+    "isim": "Tekkeköy",
+    "nufus": 58615,
+    "alan": 326,
+    "postakod": "55320"
+  },
+  {
+    "ilno": 55,
+    "no": 1676,
+    "il": "Samsun",
+    "isim": "Terme",
+    "nufus": 73120,
+    "alan": 548,
+    "postakod": "55600"
+  },
+  {
+    "ilno": 55,
+    "no": 1712,
+    "il": "Samsun",
+    "isim": "Vezirköprü",
+    "nufus": 90388,
+    "alan": 1674,
+    "postakod": "55900"
+  },
+  {
+    "ilno": 55,
+    "no": 1993,
+    "il": "Samsun",
+    "isim": "Yakakent",
+    "nufus": 9145,
+    "alan": 204,
+    "postakod": "55810"
+  },
+  {
+    "ilno": 56,
+    "no": 1179,
+    "il": "Siirt",
+    "isim": "Baykan",
+    "nufus": 26338,
+    "alan": 488,
+    "postakod": "56460"
+  },
+  {
+    "ilno": 56,
+    "no": 1317,
+    "il": "Siirt",
+    "isim": "Eruh",
+    "nufus": 20011,
+    "alan": 1061,
+    "postakod": "56800"
+  },
+  {
+    "ilno": 56,
+    "no": 1495,
+    "il": "Siirt",
+    "isim": "Kurtalan",
+    "nufus": 62232,
+    "alan": 811,
+    "postakod": "56540"
+  },
+  {
+    "ilno": 56,
+    "no": 1620,
+    "il": "Siirt",
+    "isim": "Merkez",
+    "nufus": 184163,
+    "alan": 633,
+    "postakod": "56210"
+  },
+  {
+    "ilno": 56,
+    "no": 1575,
+    "il": "Siirt",
+    "isim": "Pervari",
+    "nufus": 29448,
+    "alan": 1651,
+    "postakod": "56700"
+  },
+  {
+    "ilno": 56,
+    "no": 1662,
+    "il": "Siirt",
+    "isim": "Şirvan",
+    "nufus": 20779,
+    "alan": 936,
+    "postakod": "56760"
+  },
+  {
+    "ilno": 56,
+    "no": 1878,
+    "il": "Siirt",
+    "isim": "Tillo",
+    "nufus": 4441,
+    "alan": 138,
+    "postakod": "56870"
+  },
+  {
+    "ilno": 57,
+    "no": 1156,
+    "il": "Sinop",
+    "isim": "Ayancık",
+    "nufus": 24473,
+    "alan": 862,
+    "postakod": "57400"
+  },
+  {
+    "ilno": 57,
+    "no": 1204,
+    "il": "Sinop",
+    "isim": "Boyabat",
+    "nufus": 45833,
+    "alan": 1512,
+    "postakod": "57200"
+  },
+  {
+    "ilno": 57,
+    "no": 1910,
+    "il": "Sinop",
+    "isim": "Dikmen",
+    "nufus": 5156,
+    "alan": 411,
+    "postakod": "57660"
+  },
+  {
+    "ilno": 57,
+    "no": 1290,
+    "il": "Sinop",
+    "isim": "Durağan",
+    "nufus": 17900,
+    "alan": 995,
+    "postakod": "57700"
+  },
+  {
+    "ilno": 57,
+    "no": 1314,
+    "il": "Sinop",
+    "isim": "Erfelek",
+    "nufus": 13123,
+    "alan": 412,
+    "postakod": "57800"
+  },
+  {
+    "ilno": 57,
+    "no": 1349,
+    "il": "Sinop",
+    "isim": "Gerze",
+    "nufus": 29534,
+    "alan": 487,
+    "postakod": "57600"
+  },
+  {
+    "ilno": 57,
+    "no": 1627,
+    "il": "Sinop",
+    "isim": "Merkez",
+    "nufus": 69844,
+    "alan": 442,
+    "postakod": "57000"
+  },
+  {
+    "ilno": 57,
+    "no": 1981,
+    "il": "Sinop",
+    "isim": "Saraydüzü",
+    "nufus": 6642,
+    "alan": 334,
+    "postakod": "57300"
+  },
+  {
+    "ilno": 57,
+    "no": 1693,
+    "il": "Sinop",
+    "isim": "Türkeli",
+    "nufus": 17211,
+    "alan": 263,
+    "postakod": "57900"
+  },
+  {
+    "ilno": 58,
+    "no": 1870,
+    "il": "Sivas",
+    "isim": "Akıncılar",
+    "nufus": 5111,
+    "alan": 432,
+    "postakod": "58550"
+  },
+  {
+    "ilno": 58,
+    "no": 1875,
+    "il": "Sivas",
+    "isim": "Altınyayla",
+    "nufus": 8866,
+    "alan": 654,
+    "postakod": "58470"
+  },
+  {
+    "ilno": 58,
+    "no": 1282,
+    "il": "Sivas",
+    "isim": "Divriği",
+    "nufus": 16893,
+    "alan": 2632,
+    "postakod": "58300"
+  },
+  {
+    "ilno": 58,
+    "no": 1913,
+    "il": "Sivas",
+    "isim": "Doğanşar",
+    "nufus": 3216,
+    "alan": 370,
+    "postakod": "58780"
+  },
+  {
+    "ilno": 58,
+    "no": 1342,
+    "il": "Sivas",
+    "isim": "Gemerek",
+    "nufus": 22717,
+    "alan": 1131,
+    "postakod": "58840"
+  },
+  {
+    "ilno": 58,
+    "no": 1927,
+    "il": "Sivas",
+    "isim": "Gölova",
+    "nufus": 3614,
+    "alan": 286,
+    "postakod": "58640"
+  },
+  {
+    "ilno": 58,
+    "no": 1373,
+    "il": "Sivas",
+    "isim": "Gürün",
+    "nufus": 18118,
+    "alan": 2632,
+    "postakod": "58800"
+  },
+  {
+    "ilno": 58,
+    "no": 1376,
+    "il": "Sivas",
+    "isim": "Hafik",
+    "nufus": 10944,
+    "alan": 1765,
+    "postakod": "58760"
+  },
+  {
+    "ilno": 58,
+    "no": 1407,
+    "il": "Sivas",
+    "isim": "İmranlı",
+    "nufus": 9091,
+    "alan": 1292,
+    "postakod": "58980"
+  },
+  {
+    "ilno": 58,
+    "no": 1431,
+    "il": "Sivas",
+    "isim": "Kangal",
+    "nufus": 21629,
+    "alan": 3342,
+    "postakod": "58900"
+  },
+  {
+    "ilno": 58,
+    "no": 1484,
+    "il": "Sivas",
+    "isim": "Koyulhisar",
+    "nufus": 12959,
+    "alan": 891,
+    "postakod": "58660"
+  },
+  {
+    "ilno": 58,
+    "no": 1628,
+    "il": "Sivas",
+    "isim": "Merkez",
+    "nufus": 389719,
+    "alan": 3488,
+    "postakod": "58030"
+  },
+  {
+    "ilno": 58,
+    "no": 1646,
+    "il": "Sivas",
+    "isim": "Suşehri",
+    "nufus": 25295,
+    "alan": 939,
+    "postakod": "58600"
+  },
+  {
+    "ilno": 58,
+    "no": 1650,
+    "il": "Sivas",
+    "isim": "Şarkışla",
+    "nufus": 37758,
+    "alan": 2073,
+    "postakod": "58400"
+  },
+  {
+    "ilno": 58,
+    "no": 1991,
+    "il": "Sivas",
+    "isim": "Ulaş",
+    "nufus": 8879,
+    "alan": 1092,
+    "postakod": "58380"
+  },
+  {
+    "ilno": 58,
+    "no": 1731,
+    "il": "Sivas",
+    "isim": "Yıldızeli",
+    "nufus": 31719,
+    "alan": 2529,
+    "postakod": "58500"
+  },
+  {
+    "ilno": 58,
+    "no": 1738,
+    "il": "Sivas",
+    "isim": "Zara",
+    "nufus": 23873,
+    "alan": 2616,
+    "postakod": "58700"
+  },
+  {
+    "ilno": 59,
+    "no": 1250,
+    "il": "Tekirdağ",
+    "isim": "Çerkezköy",
+    "nufus": 213243,
+    "alan": 86,
+    "postakod": "59500"
+  },
+  {
+    "ilno": 59,
+    "no": 1258,
+    "il": "Tekirdağ",
+    "isim": "Çorlu",
+    "nufus": 294020,
+    "alan": 531,
+    "postakod": "59850"
+  },
+  {
+    "ilno": 59,
+    "no": 2094,
+    "il": "Tekirdağ",
+    "isim": "Ergene",
+    "nufus": 68695,
+    "alan": 418,
+    "postakod": "59930"
+  },
+  {
+    "ilno": 59,
+    "no": 1388,
+    "il": "Tekirdağ",
+    "isim": "Hayrabolu",
+    "nufus": 30930,
+    "alan": 1009,
+    "postakod": "59410"
+  },
+  {
+    "ilno": 59,
+    "no": 2095,
+    "il": "Tekirdağ",
+    "isim": "Kapaklı",
+    "nufus": 142662,
+    "alan": 182,
+    "postakod": "59510"
+  },
+  {
+    "ilno": 59,
+    "no": 1511,
+    "il": "Tekirdağ",
+    "isim": "Malkara",
+    "nufus": 51406,
+    "alan": 1243,
+    "postakod": "59320"
+  },
+  {
+    "ilno": 59,
+    "no": 1825,
+    "il": "Tekirdağ",
+    "isim": "Marmaraereğlisi",
+    "nufus": 31191,
+    "alan": 175,
+    "postakod": "59740"
+  },
+  {
+    "ilno": 59,
+    "no": 1538,
+    "il": "Tekirdağ",
+    "isim": "Muratlı",
+    "nufus": 30411,
+    "alan": 388,
+    "postakod": "59700"
+  },
+  {
+    "ilno": 59,
+    "no": 1596,
+    "il": "Tekirdağ",
+    "isim": "Saray",
+    "nufus": 51224,
+    "alan": 620,
+    "postakod": "59600"
+  },
+  {
+    "ilno": 59,
+    "no": 2096,
+    "il": "Tekirdağ",
+    "isim": "Süleymanpaşa",
+    "nufus": 219230,
+    "alan": 1053,
+    "postakod": "59100"
+  },
+  {
+    "ilno": 59,
+    "no": 1652,
+    "il": "Tekirdağ",
+    "isim": "Şarköy",
+    "nufus": 34047,
+    "alan": 487,
+    "postakod": "59570"
+  },
+  {
+    "ilno": 60,
+    "no": 1129,
+    "il": "Tokat",
+    "isim": "Almus",
+    "nufus": 25116,
+    "alan": 1033,
+    "postakod": "60900"
+  },
+  {
+    "ilno": 60,
+    "no": 1151,
+    "il": "Tokat",
+    "isim": "Artova",
+    "nufus": 7469,
+    "alan": 444,
+    "postakod": "60670"
+  },
+  {
+    "ilno": 60,
+    "no": 1883,
+    "il": "Tokat",
+    "isim": "Başçiftlik",
+    "nufus": 6216,
+    "alan": 246,
+    "postakod": "60620"
+  },
+  {
+    "ilno": 60,
+    "no": 1308,
+    "il": "Tokat",
+    "isim": "Erbaa",
+    "nufus": 100323,
+    "alan": 1173,
+    "postakod": "60500"
+  },
+  {
+    "ilno": 60,
+    "no": 1679,
+    "il": "Tokat",
+    "isim": "Merkez",
+    "nufus": 207741,
+    "alan": 2003,
+    "postakod": "60230"
+  },
+  {
+    "ilno": 60,
+    "no": 1545,
+    "il": "Tokat",
+    "isim": "Niksar",
+    "nufus": 62287,
+    "alan": 889,
+    "postakod": "60630"
+  },
+  {
+    "ilno": 60,
+    "no": 1834,
+    "il": "Tokat",
+    "isim": "Pazar",
+    "nufus": 13419,
+    "alan": 188,
+    "postakod": "60800"
+  },
+  {
+    "ilno": 60,
+    "no": 1584,
+    "il": "Tokat",
+    "isim": "Reşadiye",
+    "nufus": 36727,
+    "alan": 1102,
+    "postakod": "60730"
+  },
+  {
+    "ilno": 60,
+    "no": 1987,
+    "il": "Tokat",
+    "isim": "Sulusaray",
+    "nufus": 6698,
+    "alan": 266,
+    "postakod": "60870"
+  },
+  {
+    "ilno": 60,
+    "no": 1690,
+    "il": "Tokat",
+    "isim": "Turhal",
+    "nufus": 78827,
+    "alan": 940,
+    "postakod": "60300"
+  },
+  {
+    "ilno": 60,
+    "no": 1858,
+    "il": "Tokat",
+    "isim": "Yeşilyurt",
+    "nufus": 8356,
+    "alan": 280,
+    "postakod": "60860"
+  },
+  {
+    "ilno": 60,
+    "no": 1740,
+    "il": "Tokat",
+    "isim": "Zile",
+    "nufus": 53755,
+    "alan": 1480,
+    "postakod": "60400"
+  },
+  {
+    "ilno": 61,
+    "no": 1113,
+    "il": "Trabzon",
+    "isim": "Akçaabat",
+    "nufus": 129628,
+    "alan": 375,
+    "postakod": "61300"
+  },
+  {
+    "ilno": 61,
+    "no": 1141,
+    "il": "Trabzon",
+    "isim": "Araklı",
+    "nufus": 51124,
+    "alan": 464,
+    "postakod": "61700"
+  },
+  {
+    "ilno": 61,
+    "no": 1150,
+    "il": "Trabzon",
+    "isim": "Arsin",
+    "nufus": 32717,
+    "alan": 157,
+    "postakod": "61900"
+  },
+  {
+    "ilno": 61,
+    "no": 1775,
+    "il": "Trabzon",
+    "isim": "Beşikdüzü",
+    "nufus": 23568,
+    "alan": 84,
+    "postakod": "61800"
+  },
+  {
+    "ilno": 61,
+    "no": 1896,
+    "il": "Trabzon",
+    "isim": "Çarşıbaşı",
+    "nufus": 15753,
+    "alan": 66,
+    "postakod": "61420"
+  },
+  {
+    "ilno": 61,
+    "no": 1244,
+    "il": "Trabzon",
+    "isim": "Çaykara",
+    "nufus": 15180,
+    "alan": 574,
+    "postakod": "61940"
+  },
+  {
+    "ilno": 61,
+    "no": 1909,
+    "il": "Trabzon",
+    "isim": "Dernekpazarı",
+    "nufus": 4294,
+    "alan": 89,
+    "postakod": "61950"
+  },
+  {
+    "ilno": 61,
+    "no": 1917,
+    "il": "Trabzon",
+    "isim": "Düzköy",
+    "nufus": 14142,
+    "alan": 125,
+    "postakod": "61390"
+  },
+  {
+    "ilno": 61,
+    "no": 1942,
+    "il": "Trabzon",
+    "isim": "Hayrat",
+    "nufus": 9337,
+    "alan": 244,
+    "postakod": "61470"
+  },
+  {
+    "ilno": 61,
+    "no": 1966,
+    "il": "Trabzon",
+    "isim": "Köprübaşı",
+    "nufus": 4776,
+    "alan": 189,
+    "postakod": "61630"
+  },
+  {
+    "ilno": 61,
+    "no": 1507,
+    "il": "Trabzon",
+    "isim": "Maçka",
+    "nufus": 27322,
+    "alan": 925,
+    "postakod": "61750"
+  },
+  {
+    "ilno": 61,
+    "no": 1548,
+    "il": "Trabzon",
+    "isim": "Of",
+    "nufus": 44527,
+    "alan": 258,
+    "postakod": "61830"
+  },
+  {
+    "ilno": 61,
+    "no": 2097,
+    "il": "Trabzon",
+    "isim": "Ortahisar",
+    "nufus": 322702,
+    "alan": 235,
+    "postakod": "61000"
+  },
+  {
+    "ilno": 61,
+    "no": 1647,
+    "il": "Trabzon",
+    "isim": "Sürmene",
+    "nufus": 26127,
+    "alan": 166,
+    "postakod": "61530"
+  },
+  {
+    "ilno": 61,
+    "no": 1842,
+    "il": "Trabzon",
+    "isim": "Şalpazarı",
+    "nufus": 11780,
+    "alan": 161,
+    "postakod": "61670"
+  },
+  {
+    "ilno": 61,
+    "no": 1681,
+    "il": "Trabzon",
+    "isim": "Tonya",
+    "nufus": 14315,
+    "alan": 176,
+    "postakod": "61510"
+  },
+  {
+    "ilno": 61,
+    "no": 1709,
+    "il": "Trabzon",
+    "isim": "Vakfıkebir",
+    "nufus": 27339,
+    "alan": 141,
+    "postakod": "61400"
+  },
+  {
+    "ilno": 61,
+    "no": 1732,
+    "il": "Trabzon",
+    "isim": "Yomra",
+    "nufus": 49721,
+    "alan": 200,
+    "postakod": "61290"
+  },
+  {
+    "ilno": 62,
+    "no": 1247,
+    "il": "Tunceli",
+    "isim": "Çemişgezek",
+    "nufus": 8066,
+    "alan": 851,
+    "postakod": "62600"
+  },
+  {
+    "ilno": 62,
+    "no": 1397,
+    "il": "Tunceli",
+    "isim": "Hozat",
+    "nufus": 5952,
+    "alan": 663,
+    "postakod": "62400"
+  },
+  {
+    "ilno": 62,
+    "no": 1518,
+    "il": "Tunceli",
+    "isim": "Mazgirt",
+    "nufus": 7827,
+    "alan": 702,
+    "postakod": "62800"
+  },
+  {
+    "ilno": 62,
+    "no": 1688,
+    "il": "Tunceli",
+    "isim": "Merkez",
+    "nufus": 41389,
+    "alan": 1128,
+    "postakod": "62000"
+  },
+  {
+    "ilno": 62,
+    "no": 1541,
+    "il": "Tunceli",
+    "isim": "Nazımiye",
+    "nufus": 3437,
+    "alan": 543,
+    "postakod": "62950"
+  },
+  {
+    "ilno": 62,
+    "no": 1562,
+    "il": "Tunceli",
+    "isim": "Ovacık",
+    "nufus": 7173,
+    "alan": 1401,
+    "postakod": "62900"
+  },
+  {
+    "ilno": 62,
+    "no": 1574,
+    "il": "Tunceli",
+    "isim": "Pertek",
+    "nufus": 11463,
+    "alan": 858,
+    "postakod": "62500"
+  },
+  {
+    "ilno": 62,
+    "no": 1581,
+    "il": "Tunceli",
+    "isim": "Pülümür",
+    "nufus": 4010,
+    "alan": 1437,
+    "postakod": "62710"
+  },
+  {
+    "ilno": 63,
+    "no": 1115,
+    "il": "Şanlıurfa",
+    "isim": "Akçakale",
+    "nufus": 127277,
+    "alan": 1038,
+    "postakod": "63500"
+  },
+  {
+    "ilno": 63,
+    "no": 1194,
+    "il": "Şanlıurfa",
+    "isim": "Birecik",
+    "nufus": 93866,
+    "alan": 912,
+    "postakod": "63420"
+  },
+  {
+    "ilno": 63,
+    "no": 1209,
+    "il": "Şanlıurfa",
+    "isim": "Bozova",
+    "nufus": 55553,
+    "alan": 1329,
+    "postakod": "63850"
+  },
+  {
+    "ilno": 63,
+    "no": 1220,
+    "il": "Şanlıurfa",
+    "isim": "Ceylanpınar",
+    "nufus": 92147,
+    "alan": 1589,
+    "postakod": "63570"
+  },
+  {
+    "ilno": 63,
+    "no": 2091,
+    "il": "Şanlıurfa",
+    "isim": "Eyyübiye",
+    "nufus": 400084,
+    "alan": 1626,
+    "postakod": "63250"
+  },
+  {
+    "ilno": 63,
+    "no": 1378,
+    "il": "Şanlıurfa",
+    "isim": "Halfeti",
+    "nufus": 46312,
+    "alan": 609,
+    "postakod": "63986"
+  },
+  {
+    "ilno": 63,
+    "no": 2092,
+    "il": "Şanlıurfa",
+    "isim": "Haliliye",
+    "nufus": 392600,
+    "alan": 1924,
+    "postakod": "63050"
+  },
+  {
+    "ilno": 63,
+    "no": 1800,
+    "il": "Şanlıurfa",
+    "isim": "Harran",
+    "nufus": 98999,
+    "alan": 904,
+    "postakod": "63510"
+  },
+  {
+    "ilno": 63,
+    "no": 1393,
+    "il": "Şanlıurfa",
+    "isim": "Hilvan",
+    "nufus": 43448,
+    "alan": 1111,
+    "postakod": "63900"
+  },
+  {
+    "ilno": 63,
+    "no": 2093,
+    "il": "Şanlıurfa",
+    "isim": "Karaköprü",
+    "nufus": 277160,
+    "alan": 1222,
+    "postakod": "63330"
+  },
+  {
+    "ilno": 63,
+    "no": 1630,
+    "il": "Şanlıurfa",
+    "isim": "Siverek",
+    "nufus": 271832,
+    "alan": 3936,
+    "postakod": "63614"
+  },
+  {
+    "ilno": 63,
+    "no": 1643,
+    "il": "Şanlıurfa",
+    "isim": "Suruç",
+    "nufus": 103621,
+    "alan": 744,
+    "postakod": "63800"
+  },
+  {
+    "ilno": 63,
+    "no": 1713,
+    "il": "Şanlıurfa",
+    "isim": "Viranşehir",
+    "nufus": 211065,
+    "alan": 2297,
+    "postakod": "63700"
+  },
+  {
+    "ilno": 64,
+    "no": 1170,
+    "il": "Uşak",
+    "isim": "Banaz",
+    "nufus": 35313,
+    "alan": 1114,
+    "postakod": "64500"
+  },
+  {
+    "ilno": 64,
+    "no": 1323,
+    "il": "Uşak",
+    "isim": "Eşme",
+    "nufus": 34692,
+    "alan": 1156,
+    "postakod": "64600"
+  },
+  {
+    "ilno": 64,
+    "no": 1436,
+    "il": "Uşak",
+    "isim": "Karahallı",
+    "nufus": 9884,
+    "alan": 330,
+    "postakod": "64700"
+  },
+  {
+    "ilno": 64,
+    "no": 1704,
+    "il": "Uşak",
+    "isim": "Merkez",
+    "nufus": 265148,
+    "alan": 1655,
+    "postakod": "64300"
+  },
+  {
+    "ilno": 64,
+    "no": 1629,
+    "il": "Uşak",
+    "isim": "Sivaslı",
+    "nufus": 19939,
+    "alan": 473,
+    "postakod": "64800"
+  },
+  {
+    "ilno": 64,
+    "no": 1697,
+    "il": "Uşak",
+    "isim": "Ulubey",
+    "nufus": 12025,
+    "alan": 828,
+    "postakod": "64900"
+  },
+  {
+    "ilno": 65,
+    "no": 1770,
+    "il": "Van",
+    "isim": "Bahçesaray",
+    "nufus": 12983,
+    "alan": 426,
+    "postakod": "65710"
+  },
+  {
+    "ilno": 65,
+    "no": 1175,
+    "il": "Van",
+    "isim": "Başkale",
+    "nufus": 42922,
+    "alan": 2727,
+    "postakod": "65600"
+  },
+  {
+    "ilno": 65,
+    "no": 1786,
+    "il": "Van",
+    "isim": "Çaldıran",
+    "nufus": 56901,
+    "alan": 1478,
+    "postakod": "65970"
+  },
+  {
+    "ilno": 65,
+    "no": 1236,
+    "il": "Van",
+    "isim": "Çatak",
+    "nufus": 18825,
+    "alan": 1952,
+    "postakod": "65870"
+  },
+  {
+    "ilno": 65,
+    "no": 1918,
+    "il": "Van",
+    "isim": "Edremit",
+    "nufus": 129604,
+    "alan": 515,
+    "postakod": "65170"
+  },
+  {
+    "ilno": 65,
+    "no": 1309,
+    "il": "Van",
+    "isim": "Erciş",
+    "nufus": 171035,
+    "alan": 2133,
+    "postakod": "65440"
+  },
+  {
+    "ilno": 65,
+    "no": 1350,
+    "il": "Van",
+    "isim": "Gevaş",
+    "nufus": 27437,
+    "alan": 1544,
+    "postakod": "65700"
+  },
+  {
+    "ilno": 65,
+    "no": 1372,
+    "il": "Van",
+    "isim": "Gürpınar",
+    "nufus": 31816,
+    "alan": 4028,
+    "postakod": "65900"
+  },
+  {
+    "ilno": 65,
+    "no": 2098,
+    "il": "Van",
+    "isim": "İpekyolu",
+    "nufus": 350708,
+    "alan": 956,
+    "postakod": "65130"
+  },
+  {
+    "ilno": 65,
+    "no": 1533,
+    "il": "Van",
+    "isim": "Muradiye",
+    "nufus": 44322,
+    "alan": 912,
+    "postakod": "65500"
+  },
+  {
+    "ilno": 65,
+    "no": 1565,
+    "il": "Van",
+    "isim": "Özalp",
+    "nufus": 57829,
+    "alan": 1430,
+    "postakod": "65570"
+  },
+  {
+    "ilno": 65,
+    "no": 1980,
+    "il": "Van",
+    "isim": "Saray",
+    "nufus": 18779,
+    "alan": 872,
+    "postakod": "65830"
+  },
+  {
+    "ilno": 65,
+    "no": 2099,
+    "il": "Van",
+    "isim": "Tuşba",
+    "nufus": 164451,
+    "alan": 1948,
+    "postakod": "65040"
+  },
+  {
+    "ilno": 66,
+    "no": 1117,
+    "il": "Yozgat",
+    "isim": "Akdağmadeni",
+    "nufus": 40842,
+    "alan": 1810,
+    "postakod": "66300"
+  },
+  {
+    "ilno": 66,
+    "no": 1877,
+    "il": "Yozgat",
+    "isim": "Aydıncık",
+    "nufus": 10208,
+    "alan": 338,
+    "postakod": "66510"
+  },
+  {
+    "ilno": 66,
+    "no": 1198,
+    "il": "Yozgat",
+    "isim": "Boğazlıyan",
+    "nufus": 35075,
+    "alan": 1515,
+    "postakod": "66400"
+  },
+  {
+    "ilno": 66,
+    "no": 1895,
+    "il": "Yozgat",
+    "isim": "Çandır",
+    "nufus": 4434,
+    "alan": 205,
+    "postakod": "66620"
+  },
+  {
+    "ilno": 66,
+    "no": 1242,
+    "il": "Yozgat",
+    "isim": "Çayıralan",
+    "nufus": 12461,
+    "alan": 995,
+    "postakod": "66600"
+  },
+  {
+    "ilno": 66,
+    "no": 1245,
+    "il": "Yozgat",
+    "isim": "Çekerek",
+    "nufus": 18781,
+    "alan": 790,
+    "postakod": "66500"
+  },
+  {
+    "ilno": 66,
+    "no": 1952,
+    "il": "Yozgat",
+    "isim": "Kadışehri",
+    "nufus": 10612,
+    "alan": 472,
+    "postakod": "66540"
+  },
+  {
+    "ilno": 66,
+    "no": 1733,
+    "il": "Yozgat",
+    "isim": "Merkez",
+    "nufus": 110620,
+    "alan": 2024,
+    "postakod": "66000"
+  },
+  {
+    "ilno": 66,
+    "no": 1982,
+    "il": "Yozgat",
+    "isim": "Saraykent",
+    "nufus": 11828,
+    "alan": 319,
+    "postakod": "66320"
+  },
+  {
+    "ilno": 66,
+    "no": 1602,
+    "il": "Yozgat",
+    "isim": "Sarıkaya",
+    "nufus": 31866,
+    "alan": 1018,
+    "postakod": "66650"
+  },
+  {
+    "ilno": 66,
+    "no": 1635,
+    "il": "Yozgat",
+    "isim": "Sorgun",
+    "nufus": 80618,
+    "alan": 1768,
+    "postakod": "66710"
+  },
+  {
+    "ilno": 66,
+    "no": 1655,
+    "il": "Yozgat",
+    "isim": "Şefaatli",
+    "nufus": 14594,
+    "alan": 882,
+    "postakod": "66800"
+  },
+  {
+    "ilno": 66,
+    "no": 1998,
+    "il": "Yozgat",
+    "isim": "Yenifakılı",
+    "nufus": 5383,
+    "alan": 390,
+    "postakod": "66470"
+  },
+  {
+    "ilno": 66,
+    "no": 1726,
+    "il": "Yozgat",
+    "isim": "Yerköy",
+    "nufus": 33377,
+    "alan": 1164,
+    "postakod": "66900"
+  },
+  {
+    "ilno": 67,
+    "no": 1758,
+    "il": "Zonguldak",
+    "isim": "Alaplı",
+    "nufus": 43417,
+    "alan": 383,
+    "postakod": "67850"
+  },
+  {
+    "ilno": 67,
+    "no": 1240,
+    "il": "Zonguldak",
+    "isim": "Çaycuma",
+    "nufus": 91968,
+    "alan": 492,
+    "postakod": "67900"
+  },
+  {
+    "ilno": 67,
+    "no": 1276,
+    "il": "Zonguldak",
+    "isim": "Devrek",
+    "nufus": 57562,
+    "alan": 953,
+    "postakod": "67830"
+  },
+  {
+    "ilno": 67,
+    "no": 1313,
+    "il": "Zonguldak",
+    "isim": "Ereğli",
+    "nufus": 175294,
+    "alan": 736,
+    "postakod": "67300"
+  },
+  {
+    "ilno": 67,
+    "no": 1926,
+    "il": "Zonguldak",
+    "isim": "Gökçebey",
+    "nufus": 21344,
+    "alan": 183,
+    "postakod": "67680"
+  },
+  {
+    "ilno": 67,
+    "no": 2100,
+    "il": "Zonguldak",
+    "isim": "Kilimli",
+    "nufus": 33639,
+    "alan": 145,
+    "postakod": "67500"
+  },
+  {
+    "ilno": 67,
+    "no": 2101,
+    "il": "Zonguldak",
+    "isim": "Kozlu",
+    "nufus": 50908,
+    "alan": 177,
+    "postakod": "67600"
+  },
+  {
+    "ilno": 67,
+    "no": 1741,
+    "il": "Zonguldak",
+    "isim": "Merkez",
+    "nufus": 117360,
+    "alan": 272,
+    "postakod": "67980"
+  },
+  {
+    "ilno": 68,
+    "no": 1860,
+    "il": "Aksaray",
+    "isim": "Ağaçören",
+    "nufus": 7971,
+    "alan": 407,
+    "postakod": "68600"
+  },
+  {
+    "ilno": 68,
+    "no": 1921,
+    "il": "Aksaray",
+    "isim": "Eskil",
+    "nufus": 27795,
+    "alan": 1701,
+    "postakod": "68800"
+  },
+  {
+    "ilno": 68,
+    "no": 1932,
+    "il": "Aksaray",
+    "isim": "Gülağaç",
+    "nufus": 20120,
+    "alan": 326,
+    "postakod": "68940"
+  },
+  {
+    "ilno": 68,
+    "no": 1861,
+    "il": "Aksaray",
+    "isim": "Güzelyurt",
+    "nufus": 11675,
+    "alan": 285,
+    "postakod": "68500"
+  },
+  {
+    "ilno": 68,
+    "no": 1120,
+    "il": "Aksaray",
+    "isim": "Merkez",
+    "nufus": 321160,
+    "alan": 3539,
+    "postakod": "68120"
+  },
+  {
+    "ilno": 68,
+    "no": 1557,
+    "il": "Aksaray",
+    "isim": "Ortaköy",
+    "nufus": 31613,
+    "alan": 727,
+    "postakod": "68400"
+  },
+  {
+    "ilno": 68,
+    "no": 1866,
+    "il": "Aksaray",
+    "isim": "Sarıyahşi",
+    "nufus": 5804,
+    "alan": 210,
+    "postakod": "68700"
+  },
+  {
+    "ilno": 68,
+    "no": 2106,
+    "il": "Aksaray",
+    "isim": "Sultanhanı",
+    "nufus": 12366,
+    "alan": 463,
+    "postakod": "68190"
+  },
+  {
+    "ilno": 69,
+    "no": 1767,
+    "il": "Bayburt",
+    "isim": "Aydıntepe",
+    "nufus": 7070,
+    "alan": 446,
+    "postakod": "69500"
+  },
+  {
+    "ilno": 69,
+    "no": 1788,
+    "il": "Bayburt",
+    "isim": "Demirözü",
+    "nufus": 8072,
+    "alan": 594,
+    "postakod": "69400"
+  },
+  {
+    "ilno": 69,
+    "no": 1176,
+    "il": "Bayburt",
+    "isim": "Merkez",
+    "nufus": 70905,
+    "alan": 2705,
+    "postakod": "69300"
+  },
+  {
+    "ilno": 70,
+    "no": 1768,
+    "il": "Karaman",
+    "isim": "Ayrancı",
+    "nufus": 7630,
+    "alan": 2245,
+    "postakod": "70500"
+  },
+  {
+    "ilno": 70,
+    "no": 1884,
+    "il": "Karaman",
+    "isim": "Başyayla",
+    "nufus": 3434,
+    "alan": 141,
+    "postakod": "70700"
+  },
+  {
+    "ilno": 70,
+    "no": 1316,
+    "il": "Karaman",
+    "isim": "Ermenek",
+    "nufus": 28103,
+    "alan": 1242,
+    "postakod": "70400"
+  },
+  {
+    "ilno": 70,
+    "no": 1862,
+    "il": "Karaman",
+    "isim": "Kazımkarabekir",
+    "nufus": 4710,
+    "alan": 423,
+    "postakod": "70600"
+  },
+  {
+    "ilno": 70,
+    "no": 1439,
+    "il": "Karaman",
+    "isim": "Merkez",
+    "nufus": 208199,
+    "alan": 4036,
+    "postakod": "70110"
+  },
+  {
+    "ilno": 70,
+    "no": 1983,
+    "il": "Karaman",
+    "isim": "Sarıveliler",
+    "nufus": 11884,
+    "alan": 590,
+    "postakod": "70810"
+  },
+  {
+    "ilno": 71,
+    "no": 1880,
+    "il": "Kırıkkale",
+    "isim": "Bahşılı",
+    "nufus": 8038,
+    "alan": 266,
+    "postakod": "71460"
+  },
+  {
+    "ilno": 71,
+    "no": 1882,
+    "il": "Kırıkkale",
+    "isim": "Balışeyh",
+    "nufus": 7016,
+    "alan": 623,
+    "postakod": "71520"
+  },
+  {
+    "ilno": 71,
+    "no": 1901,
+    "il": "Kırıkkale",
+    "isim": "Çelebi",
+    "nufus": 3954,
+    "alan": 223,
+    "postakod": "71810"
+  },
+  {
+    "ilno": 71,
+    "no": 1268,
+    "il": "Kırıkkale",
+    "isim": "Delice",
+    "nufus": 11227,
+    "alan": 970,
+    "postakod": "71670"
+  },
+  {
+    "ilno": 71,
+    "no": 1954,
+    "il": "Kırıkkale",
+    "isim": "Karakeçili",
+    "nufus": 3659,
+    "alan": 137,
+    "postakod": "71500"
+  },
+  {
+    "ilno": 71,
+    "no": 1463,
+    "il": "Kırıkkale",
+    "isim": "Keskin",
+    "nufus": 16938,
+    "alan": 1129,
+    "postakod": "71800"
+  },
+  {
+    "ilno": 71,
+    "no": 1469,
+    "il": "Kırıkkale",
+    "isim": "Merkez",
+    "nufus": 188419,
+    "alan": 432,
+    "postakod": "71100"
+  },
+  {
+    "ilno": 71,
+    "no": 1638,
+    "il": "Kırıkkale",
+    "isim": "Sulakyurt",
+    "nufus": 6762,
+    "alan": 708,
+    "postakod": "71900"
+  },
+  {
+    "ilno": 71,
+    "no": 1992,
+    "il": "Kırıkkale",
+    "isim": "Yahşihan",
+    "nufus": 39731,
+    "alan": 304,
+    "postakod": "71450"
+  },
+  {
+    "ilno": 72,
+    "no": 1184,
+    "il": "Batman",
+    "isim": "Beşiri",
+    "nufus": 32378,
+    "alan": 809,
+    "postakod": "72200"
+  },
+  {
+    "ilno": 72,
+    "no": 1345,
+    "il": "Batman",
+    "isim": "Gercüş",
+    "nufus": 21958,
+    "alan": 914,
+    "postakod": "72300"
+  },
+  {
+    "ilno": 72,
+    "no": 1941,
+    "il": "Batman",
+    "isim": "Hasankeyf",
+    "nufus": 7969,
+    "alan": 293,
+    "postakod": "72350"
+  },
+  {
+    "ilno": 72,
+    "no": 1487,
+    "il": "Batman",
+    "isim": "Kozluk",
+    "nufus": 61297,
+    "alan": 1101,
+    "postakod": "72400"
+  },
+  {
+    "ilno": 72,
+    "no": 1174,
+    "il": "Batman",
+    "isim": "Merkez",
+    "nufus": 491811,
+    "alan": 653,
+    "postakod": "72000"
+  },
+  {
+    "ilno": 72,
+    "no": 1607,
+    "il": "Batman",
+    "isim": "Sason",
+    "nufus": 31792,
+    "alan": 706,
+    "postakod": "72500"
+  },
+  {
+    "ilno": 73,
+    "no": 1189,
+    "il": "Şırnak",
+    "isim": "Beytüşşebap",
+    "nufus": 16056,
+    "alan": 1647,
+    "postakod": "73800"
+  },
+  {
+    "ilno": 73,
+    "no": 1223,
+    "il": "Şırnak",
+    "isim": "Cizre",
+    "nufus": 161135,
+    "alan": 444,
+    "postakod": "73200"
+  },
+  {
+    "ilno": 73,
+    "no": 1931,
+    "il": "Şırnak",
+    "isim": "Güçlükonak",
+    "nufus": 12830,
+    "alan": 466,
+    "postakod": "73710"
+  },
+  {
+    "ilno": 73,
+    "no": 1403,
+    "il": "Şırnak",
+    "isim": "İdil",
+    "nufus": 77159,
+    "alan": 1148,
+    "postakod": "73300"
+  },
+  {
+    "ilno": 73,
+    "no": 1661,
+    "il": "Şırnak",
+    "isim": "Merkez",
+    "nufus": 108699,
+    "alan": 1701,
+    "postakod": "73000"
+  },
+  {
+    "ilno": 73,
+    "no": 1623,
+    "il": "Şırnak",
+    "isim": "Silopi",
+    "nufus": 148126,
+    "alan": 831,
+    "postakod": "73400"
+  },
+  {
+    "ilno": 73,
+    "no": 1698,
+    "il": "Şırnak",
+    "isim": "Uludere",
+    "nufus": 46740,
+    "alan": 841,
+    "postakod": "73620"
+  },
+  {
+    "ilno": 74,
+    "no": 1761,
+    "il": "Bartın",
+    "isim": "Amasra",
+    "nufus": 14552,
+    "alan": 178,
+    "postakod": "74300"
+  },
+  {
+    "ilno": 74,
+    "no": 1496,
+    "il": "Bartın",
+    "isim": "Kurucaşile",
+    "nufus": 6681,
+    "alan": 152,
+    "postakod": "74500"
+  },
+  {
+    "ilno": 74,
+    "no": 1172,
+    "il": "Bartın",
+    "isim": "Merkez",
+    "nufus": 163196,
+    "alan": 1091,
+    "postakod": "74100"
+  },
+  {
+    "ilno": 74,
+    "no": 1701,
+    "il": "Bartın",
+    "isim": "Ulus",
+    "nufus": 22809,
+    "alan": 909,
+    "postakod": "74610"
+  },
+  {
+    "ilno": 75,
+    "no": 1252,
+    "il": "Ardahan",
+    "isim": "Çıldır",
+    "nufus": 8745,
+    "alan": 988,
+    "postakod": "75400"
+  },
+  {
+    "ilno": 75,
+    "no": 2008,
+    "il": "Ardahan",
+    "isim": "Damal",
+    "nufus": 4757,
+    "alan": 165,
+    "postakod": "75600"
+  },
+  {
+    "ilno": 75,
+    "no": 1356,
+    "il": "Ardahan",
+    "isim": "Göle",
+    "nufus": 22735,
+    "alan": 1290,
+    "postakod": "75700"
+  },
+  {
+    "ilno": 75,
+    "no": 1380,
+    "il": "Ardahan",
+    "isim": "Hanak",
+    "nufus": 8033,
+    "alan": 647,
+    "postakod": "75900"
+  },
+  {
+    "ilno": 75,
+    "no": 1144,
+    "il": "Ardahan",
+    "isim": "Merkez",
+    "nufus": 42209,
+    "alan": 1261,
+    "postakod": "75000"
+  },
+  {
+    "ilno": 75,
+    "no": 1579,
+    "il": "Ardahan",
+    "isim": "Posof",
+    "nufus": 6340,
+    "alan": 583,
+    "postakod": "75800"
+  },
+  {
+    "ilno": 76,
+    "no": 1142,
+    "il": "Iğdır",
+    "isim": "Aralık",
+    "nufus": 19495,
+    "alan": 852,
+    "postakod": "76500"
+  },
+  {
+    "ilno": 76,
+    "no": 2011,
+    "il": "Iğdır",
+    "isim": "Karakoyunlu",
+    "nufus": 13116,
+    "alan": 269,
+    "postakod": "76700"
+  },
+  {
+    "ilno": 76,
+    "no": 1398,
+    "il": "Iğdır",
+    "isim": "Merkez",
+    "nufus": 153543,
+    "alan": 1273,
+    "postakod": "76410"
+  },
+  {
+    "ilno": 76,
+    "no": 1692,
+    "il": "Iğdır",
+    "isim": "Tuzluca",
+    "nufus": 23584,
+    "alan": 1270,
+    "postakod": "76900"
+  },
+  {
+    "ilno": 77,
+    "no": 2019,
+    "il": "Yalova",
+    "isim": "Altınova",
+    "nufus": 33680,
+    "alan": 113,
+    "postakod": "77730"
+  },
+  {
+    "ilno": 77,
+    "no": 2020,
+    "il": "Yalova",
+    "isim": "Armutlu",
+    "nufus": 11729,
+    "alan": 166,
+    "postakod": "77500"
+  },
+  {
+    "ilno": 77,
+    "no": 2021,
+    "il": "Yalova",
+    "isim": "Çınarcık",
+    "nufus": 42078,
+    "alan": 178,
+    "postakod": "77300"
+  },
+  {
+    "ilno": 77,
+    "no": 2022,
+    "il": "Yalova",
+    "isim": "Çiftlikköy",
+    "nufus": 53858,
+    "alan": 136,
+    "postakod": "77600"
+  },
+  {
+    "ilno": 77,
+    "no": 1716,
+    "il": "Yalova",
+    "isim": "Merkez",
+    "nufus": 155863,
+    "alan": 139,
+    "postakod": "77200"
+  },
+  {
+    "ilno": 77,
+    "no": 2026,
+    "il": "Yalova",
+    "isim": "Termal",
+    "nufus": 7572,
+    "alan": 67,
+    "postakod": "77400"
+  },
+  {
+    "ilno": 78,
+    "no": 1296,
+    "il": "Karabük",
+    "isim": "Eflani",
+    "nufus": 10101,
+    "alan": 674,
+    "postakod": "78300"
+  },
+  {
+    "ilno": 78,
+    "no": 1321,
+    "il": "Karabük",
+    "isim": "Eskipazar",
+    "nufus": 14343,
+    "alan": 754,
+    "postakod": "78400"
+  },
+  {
+    "ilno": 78,
+    "no": 1433,
+    "il": "Karabük",
+    "isim": "Merkez",
+    "nufus": 134486,
+    "alan": 790,
+    "postakod": "78050"
+  },
+  {
+    "ilno": 78,
+    "no": 1561,
+    "il": "Karabük",
+    "isim": "Ovacık",
+    "nufus": 5677,
+    "alan": 398,
+    "postakod": "78500"
+  },
+  {
+    "ilno": 78,
+    "no": 1587,
+    "il": "Karabük",
+    "isim": "Safranbolu",
+    "nufus": 70043,
+    "alan": 750,
+    "postakod": "78610"
+  },
+  {
+    "ilno": 78,
+    "no": 1856,
+    "il": "Karabük",
+    "isim": "Yenice",
+    "nufus": 20592,
+    "alan": 777,
+    "postakod": "78700"
+  },
+  {
+    "ilno": 79,
+    "no": 2023,
+    "il": "Kilis",
+    "isim": "Elbeyli",
+    "nufus": 6252,
+    "alan": 238,
+    "postakod": "79500"
+  },
+  {
+    "ilno": 79,
+    "no": 1476,
+    "il": "Kilis",
+    "isim": "Merkez",
+    "nufus": 130665,
+    "alan": 610,
+    "postakod": "79000"
+  },
+  {
+    "ilno": 79,
+    "no": 2024,
+    "il": "Kilis",
+    "isim": "Musabeyli",
+    "nufus": 13108,
+    "alan": 346,
+    "postakod": "79600"
+  },
+  {
+    "ilno": 79,
+    "no": 2025,
+    "il": "Kilis",
+    "isim": "Polateli",
+    "nufus": 5154,
+    "alan": 218,
+    "postakod": "79700"
+  },
+  {
+    "ilno": 80,
+    "no": 1165,
+    "il": "Osmaniye",
+    "isim": "Bahçe",
+    "nufus": 23218,
+    "alan": 208,
+    "postakod": "80500"
+  },
+  {
+    "ilno": 80,
+    "no": 1743,
+    "il": "Osmaniye",
+    "isim": "Düziçi",
+    "nufus": 86616,
+    "alan": 595,
+    "postakod": "80710"
+  },
+  {
+    "ilno": 80,
+    "no": 2027,
+    "il": "Osmaniye",
+    "isim": "Hasanbeyli",
+    "nufus": 5455,
+    "alan": 168,
+    "postakod": "80850"
+  },
+  {
+    "ilno": 80,
+    "no": 1423,
+    "il": "Osmaniye",
+    "isim": "Kadirli",
+    "nufus": 127513,
+    "alan": 1021,
+    "postakod": "80760"
+  },
+  {
+    "ilno": 80,
+    "no": 1560,
+    "il": "Osmaniye",
+    "isim": "Merkez",
+    "nufus": 280068,
+    "alan": 859,
+    "postakod": "80010"
+  },
+  {
+    "ilno": 80,
+    "no": 2028,
+    "il": "Osmaniye",
+    "isim": "Sumbas",
+    "nufus": 13375,
+    "alan": 358,
+    "postakod": "80940"
+  },
+  {
+    "ilno": 80,
+    "no": 2029,
+    "il": "Osmaniye",
+    "isim": "Toprakkale",
+    "nufus": 21421,
+    "alan": 112,
+    "postakod": "80950"
+  },
+  {
+    "ilno": 81,
+    "no": 1116,
+    "il": "Düzce",
+    "isim": "Akçakoca",
+    "nufus": 41363,
+    "alan": 380,
+    "postakod": "81650"
+  },
+  {
+    "ilno": 81,
+    "no": 1784,
+    "il": "Düzce",
+    "isim": "Cumayeri",
+    "nufus": 16091,
+    "alan": 113,
+    "postakod": "81700"
+  },
+  {
+    "ilno": 81,
+    "no": 1905,
+    "il": "Düzce",
+    "isim": "Çilimli",
+    "nufus": 19097,
+    "alan": 85,
+    "postakod": "81750"
+  },
+  {
+    "ilno": 81,
+    "no": 1794,
+    "il": "Düzce",
+    "isim": "Gölyaka",
+    "nufus": 20962,
+    "alan": 228,
+    "postakod": "81800"
+  },
+  {
+    "ilno": 81,
+    "no": 2017,
+    "il": "Düzce",
+    "isim": "Gümüşova",
+    "nufus": 17198,
+    "alan": 103,
+    "postakod": "81850"
+  },
+  {
+    "ilno": 81,
+    "no": 2031,
+    "il": "Düzce",
+    "isim": "Kaynaşlı",
+    "nufus": 20679,
+    "alan": 237,
+    "postakod": "81900"
+  },
+  {
+    "ilno": 81,
+    "no": 1292,
+    "il": "Düzce",
+    "isim": "Merkez",
+    "nufus": 259527,
+    "alan": 710,
+    "postakod": "81010"
+  },
+  {
+    "ilno": 81,
+    "no": 1730,
+    "il": "Düzce",
+    "isim": "Yığılca",
+    "nufus": 14948,
+    "alan": 636,
+    "postakod": "81950"
+  }
+]

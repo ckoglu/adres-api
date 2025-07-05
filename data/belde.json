@@ -1,0 +1,3512 @@
+[
+  {
+    "ilno": 2,
+    "ilceno": 1105,
+    "no": 1002,
+    "il": "Adıyaman",
+    "ilce": "Merkez",
+    "isim": "Kömür",
+    "nufus": 3058
+  },
+  {
+    "ilno": 2,
+    "ilceno": 1105,
+    "no": 1004,
+    "il": "Adıyaman",
+    "ilce": "Merkez",
+    "isim": "Yaylakonak",
+    "nufus": 1906
+  },
+  {
+    "ilno": 2,
+    "ilceno": 1182,
+    "no": 998,
+    "il": "Adıyaman",
+    "ilce": "Besni",
+    "isim": "Çakirhüyük",
+    "nufus": 1864
+  },
+  {
+    "ilno": 2,
+    "ilceno": 1182,
+    "no": 997,
+    "il": "Adıyaman",
+    "ilce": "Besni",
+    "isim": "Kesmetepe",
+    "nufus": 1590
+  },
+  {
+    "ilno": 2,
+    "ilceno": 1182,
+    "no": 996,
+    "il": "Adıyaman",
+    "ilce": "Besni",
+    "isim": "Köseceli̇",
+    "nufus": 2047
+  },
+  {
+    "ilno": 2,
+    "ilceno": 1182,
+    "no": 987,
+    "il": "Adıyaman",
+    "ilce": "Besni",
+    "isim": "Suvarli",
+    "nufus": 2431
+  },
+  {
+    "ilno": 2,
+    "ilceno": 1182,
+    "no": 988,
+    "il": "Adıyaman",
+    "ilce": "Besni",
+    "isim": "Şambayat",
+    "nufus": 3507
+  },
+  {
+    "ilno": 2,
+    "ilceno": 1246,
+    "no": 989,
+    "il": "Adıyaman",
+    "ilce": "Çelikhan",
+    "isim": "Pinarbaşi",
+    "nufus": 3332
+  },
+  {
+    "ilno": 2,
+    "ilceno": 1354,
+    "no": 990,
+    "il": "Adıyaman",
+    "ilce": "Gölbaşı",
+    "isim": "Balkar",
+    "nufus": 2073
+  },
+  {
+    "ilno": 2,
+    "ilceno": 1354,
+    "no": 991,
+    "il": "Adıyaman",
+    "ilce": "Gölbaşı",
+    "isim": "Belören",
+    "nufus": 2082
+  },
+  {
+    "ilno": 2,
+    "ilceno": 1354,
+    "no": 992,
+    "il": "Adıyaman",
+    "ilce": "Gölbaşı",
+    "isim": "Harmanli",
+    "nufus": 1653
+  },
+  {
+    "ilno": 2,
+    "ilceno": 1425,
+    "no": 994,
+    "il": "Adıyaman",
+    "ilce": "Kahta",
+    "isim": "Akincilar",
+    "nufus": 1566
+  },
+  {
+    "ilno": 2,
+    "ilceno": 1425,
+    "no": 993,
+    "il": "Adıyaman",
+    "ilce": "Kahta",
+    "isim": "Bölükyayla",
+    "nufus": 2128
+  },
+  {
+    "ilno": 2,
+    "ilceno": 1985,
+    "no": 995,
+    "il": "Adıyaman",
+    "ilce": "Sincik",
+    "isim": "İnli̇ce",
+    "nufus": 2047
+  },
+  {
+    "ilno": 3,
+    "ilceno": 1108,
+    "no": 1062,
+    "il": "Afyonkarahisar",
+    "ilce": "Merkez",
+    "isim": "Beyyazi",
+    "nufus": 3335
+  },
+  {
+    "ilno": 3,
+    "ilceno": 1108,
+    "no": 1064,
+    "il": "Afyonkarahisar",
+    "ilce": "Merkez",
+    "isim": "Çayirbağ",
+    "nufus": 4444
+  },
+  {
+    "ilno": 3,
+    "ilceno": 1108,
+    "no": 1065,
+    "il": "Afyonkarahisar",
+    "ilce": "Merkez",
+    "isim": "Çikrik",
+    "nufus": 2535
+  },
+  {
+    "ilno": 3,
+    "ilceno": 1108,
+    "no": 1066,
+    "il": "Afyonkarahisar",
+    "ilce": "Merkez",
+    "isim": "Deği̇rmenayvali",
+    "nufus": 2937
+  },
+  {
+    "ilno": 3,
+    "ilceno": 1108,
+    "no": 1067,
+    "il": "Afyonkarahisar",
+    "ilce": "Merkez",
+    "isim": "Erkmen",
+    "nufus": 8591
+  },
+  {
+    "ilno": 3,
+    "ilceno": 1108,
+    "no": 1068,
+    "il": "Afyonkarahisar",
+    "ilce": "Merkez",
+    "isim": "Fethi̇bey",
+    "nufus": 2750
+  },
+  {
+    "ilno": 3,
+    "ilceno": 1108,
+    "no": 1069,
+    "il": "Afyonkarahisar",
+    "ilce": "Merkez",
+    "isim": "Gebeceler",
+    "nufus": 3511
+  },
+  {
+    "ilno": 3,
+    "ilceno": 1108,
+    "no": 1070,
+    "il": "Afyonkarahisar",
+    "ilce": "Merkez",
+    "isim": "Işiklar",
+    "nufus": 7409
+  },
+  {
+    "ilno": 3,
+    "ilceno": 1108,
+    "no": 1063,
+    "il": "Afyonkarahisar",
+    "ilce": "Merkez",
+    "isim": "Kocatepe",
+    "nufus": 3213
+  },
+  {
+    "ilno": 3,
+    "ilceno": 1108,
+    "no": 1071,
+    "il": "Afyonkarahisar",
+    "ilce": "Merkez",
+    "isim": "Nuri̇bey",
+    "nufus": 3137
+  },
+  {
+    "ilno": 3,
+    "ilceno": 1108,
+    "no": 1072,
+    "il": "Afyonkarahisar",
+    "ilce": "Merkez",
+    "isim": "Salar",
+    "nufus": 4628
+  },
+  {
+    "ilno": 3,
+    "ilceno": 1108,
+    "no": 1073,
+    "il": "Afyonkarahisar",
+    "ilce": "Merkez",
+    "isim": "Susuz",
+    "nufus": 4832
+  },
+  {
+    "ilno": 3,
+    "ilceno": 1108,
+    "no": 1074,
+    "il": "Afyonkarahisar",
+    "ilce": "Merkez",
+    "isim": "Sülümenli̇",
+    "nufus": 3705
+  },
+  {
+    "ilno": 3,
+    "ilceno": 1108,
+    "no": 1075,
+    "il": "Afyonkarahisar",
+    "ilce": "Merkez",
+    "isim": "Sülün",
+    "nufus": 3187
+  },
+  {
+    "ilno": 3,
+    "ilceno": 1200,
+    "no": 1078,
+    "il": "Afyonkarahisar",
+    "ilce": "Bolvadin",
+    "isim": "Di̇şli̇",
+    "nufus": 3007
+  },
+  {
+    "ilno": 3,
+    "ilceno": 1200,
+    "no": 1080,
+    "il": "Afyonkarahisar",
+    "ilce": "Bolvadin",
+    "isim": "Özburun",
+    "nufus": 2133
+  },
+  {
+    "ilno": 3,
+    "ilceno": 1239,
+    "no": 1086,
+    "il": "Afyonkarahisar",
+    "ilce": "Çay",
+    "isim": "Karamikkaracaören",
+    "nufus": 2440
+  },
+  {
+    "ilno": 3,
+    "ilceno": 1239,
+    "no": 1088,
+    "il": "Afyonkarahisar",
+    "ilce": "Çay",
+    "isim": "Pazarağaç",
+    "nufus": 2621
+  },
+  {
+    "ilno": 3,
+    "ilceno": 1906,
+    "no": 1089,
+    "il": "Afyonkarahisar",
+    "ilce": "Çobanlar",
+    "isim": "Kocaöz",
+    "nufus": 2956
+  },
+  {
+    "ilno": 3,
+    "ilceno": 1281,
+    "no": 1092,
+    "il": "Afyonkarahisar",
+    "ilce": "Dinar",
+    "isim": "Haydarli",
+    "nufus": 2162
+  },
+  {
+    "ilno": 3,
+    "ilceno": 1281,
+    "no": 1097,
+    "il": "Afyonkarahisar",
+    "ilce": "Dinar",
+    "isim": "Tatarli",
+    "nufus": 2884
+  },
+  {
+    "ilno": 3,
+    "ilceno": 1306,
+    "no": 1101,
+    "il": "Afyonkarahisar",
+    "ilce": "Emirdağ",
+    "isim": "Davulga",
+    "nufus": 2285
+  },
+  {
+    "ilno": 3,
+    "ilceno": 1306,
+    "no": 52579,
+    "il": "Afyonkarahisar",
+    "ilce": "Emirdağ",
+    "isim": "Gömü",
+    "nufus": 2322
+  },
+  {
+    "ilno": 3,
+    "ilceno": 1404,
+    "no": 1108,
+    "il": "Afyonkarahisar",
+    "ilce": "İhsaniye",
+    "isim": "Döğer",
+    "nufus": 6244
+  },
+  {
+    "ilno": 3,
+    "ilceno": 1404,
+    "no": 1109,
+    "il": "Afyonkarahisar",
+    "ilce": "İhsaniye",
+    "isim": "Gazligöl",
+    "nufus": 2682
+  },
+  {
+    "ilno": 3,
+    "ilceno": 1404,
+    "no": 1112,
+    "il": "Afyonkarahisar",
+    "ilce": "İhsaniye",
+    "isim": "Kayihan",
+    "nufus": 2515
+  },
+  {
+    "ilno": 3,
+    "ilceno": 1404,
+    "no": 1024,
+    "il": "Afyonkarahisar",
+    "ilce": "İhsaniye",
+    "isim": "Yaylabaği",
+    "nufus": 2442
+  },
+  {
+    "ilno": 3,
+    "ilceno": 1809,
+    "no": 1026,
+    "il": "Afyonkarahisar",
+    "ilce": "İscehisar",
+    "isim": "Seydi̇ler",
+    "nufus": 2079
+  },
+  {
+    "ilno": 3,
+    "ilceno": 1594,
+    "no": 1035,
+    "il": "Afyonkarahisar",
+    "ilce": "Sandıklı",
+    "isim": "Akharim",
+    "nufus": 3042
+  },
+  {
+    "ilno": 3,
+    "ilceno": 1626,
+    "no": 1037,
+    "il": "Afyonkarahisar",
+    "ilce": "Sinanpaşa",
+    "isim": "Ahmetpaşa",
+    "nufus": 3122
+  },
+  {
+    "ilno": 3,
+    "ilceno": 1626,
+    "no": 1038,
+    "il": "Afyonkarahisar",
+    "ilce": "Sinanpaşa",
+    "isim": "Akören",
+    "nufus": 3094
+  },
+  {
+    "ilno": 3,
+    "ilceno": 1626,
+    "no": 1039,
+    "il": "Afyonkarahisar",
+    "ilce": "Sinanpaşa",
+    "isim": "Düzağaç",
+    "nufus": 2185
+  },
+  {
+    "ilno": 3,
+    "ilceno": 1626,
+    "no": 1040,
+    "il": "Afyonkarahisar",
+    "ilce": "Sinanpaşa",
+    "isim": "Güney",
+    "nufus": 2073
+  },
+  {
+    "ilno": 3,
+    "ilceno": 1626,
+    "no": 1041,
+    "il": "Afyonkarahisar",
+    "ilce": "Sinanpaşa",
+    "isim": "Kiliçarslan",
+    "nufus": 2773
+  },
+  {
+    "ilno": 3,
+    "ilceno": 1626,
+    "no": 1042,
+    "il": "Afyonkarahisar",
+    "ilce": "Sinanpaşa",
+    "isim": "Kirka",
+    "nufus": 2074
+  },
+  {
+    "ilno": 3,
+    "ilceno": 1626,
+    "no": 1043,
+    "il": "Afyonkarahisar",
+    "ilce": "Sinanpaşa",
+    "isim": "Küçükhüyük",
+    "nufus": 1985
+  },
+  {
+    "ilno": 3,
+    "ilceno": 1626,
+    "no": 1045,
+    "il": "Afyonkarahisar",
+    "ilce": "Sinanpaşa",
+    "isim": "Serban",
+    "nufus": 1581
+  },
+  {
+    "ilno": 3,
+    "ilceno": 1626,
+    "no": 1046,
+    "il": "Afyonkarahisar",
+    "ilce": "Sinanpaşa",
+    "isim": "Taşoluk",
+    "nufus": 3579
+  },
+  {
+    "ilno": 3,
+    "ilceno": 1626,
+    "no": 1047,
+    "il": "Afyonkarahisar",
+    "ilce": "Sinanpaşa",
+    "isim": "Tinaztepe",
+    "nufus": 2918
+  },
+  {
+    "ilno": 3,
+    "ilceno": 1639,
+    "no": 1049,
+    "il": "Afyonkarahisar",
+    "ilce": "Sultandağı",
+    "isim": "Dereçi̇ne",
+    "nufus": 2145
+  },
+  {
+    "ilno": 3,
+    "ilceno": 1639,
+    "no": 1054,
+    "il": "Afyonkarahisar",
+    "ilce": "Sultandağı",
+    "isim": "Yeşi̇lçi̇ftli̇k",
+    "nufus": 2125
+  },
+  {
+    "ilno": 3,
+    "ilceno": 1664,
+    "no": 1058,
+    "il": "Afyonkarahisar",
+    "ilce": "Şuhut",
+    "isim": "Karaadi̇lli̇",
+    "nufus": 2243
+  },
+  {
+    "ilno": 4,
+    "ilceno": 1301,
+    "no": 1124,
+    "il": "Ağrı",
+    "ilce": "Eleşkirt",
+    "isim": "Tahi̇r",
+    "nufus": 1512
+  },
+  {
+    "ilno": 4,
+    "ilceno": 1301,
+    "no": 1122,
+    "il": "Ağrı",
+    "ilce": "Eleşkirt",
+    "isim": "Yayladüzü",
+    "nufus": 1962
+  },
+  {
+    "ilno": 4,
+    "ilceno": 1301,
+    "no": 1123,
+    "il": "Ağrı",
+    "ilce": "Eleşkirt",
+    "isim": "Yücekapi",
+    "nufus": 2150
+  },
+  {
+    "ilno": 4,
+    "ilceno": 1568,
+    "no": 1121,
+    "il": "Ağrı",
+    "ilce": "Patnos",
+    "isim": "Dedeli̇",
+    "nufus": 3465
+  },
+  {
+    "ilno": 5,
+    "ilceno": 1134,
+    "no": 1151,
+    "il": "Amasya",
+    "ilce": "Merkez",
+    "isim": "Zi̇yaret",
+    "nufus": 4178
+  },
+  {
+    "ilno": 11,
+    "ilceno": 1192,
+    "no": 1457,
+    "il": "Bilecik",
+    "ilce": "Merkez",
+    "isim": "Bayirköy",
+    "nufus": 1997
+  },
+  {
+    "ilno": 11,
+    "ilceno": 1192,
+    "no": 1456,
+    "il": "Bilecik",
+    "ilce": "Merkez",
+    "isim": "Vezi̇rhan",
+    "nufus": 3151
+  },
+  {
+    "ilno": 11,
+    "ilceno": 1210,
+    "no": 1455,
+    "il": "Bilecik",
+    "ilce": "Bozüyük",
+    "isim": "Dodurga",
+    "nufus": 2277
+  },
+  {
+    "ilno": 12,
+    "ilceno": 1193,
+    "no": 1469,
+    "il": "Bingöl",
+    "ilce": "Merkez",
+    "isim": "Ilicalar",
+    "nufus": 3262
+  },
+  {
+    "ilno": 12,
+    "ilceno": 1193,
+    "no": 1468,
+    "il": "Bingöl",
+    "ilce": "Merkez",
+    "isim": "Sancak",
+    "nufus": 2648
+  },
+  {
+    "ilno": 12,
+    "ilceno": 1633,
+    "no": 1466,
+    "il": "Bingöl",
+    "ilce": "Solhan",
+    "isim": "Arakonak",
+    "nufus": 2683
+  },
+  {
+    "ilno": 13,
+    "ilceno": 1196,
+    "no": 1485,
+    "il": "Bitlis",
+    "ilce": "Merkez",
+    "isim": "Yolalan",
+    "nufus": 2660
+  },
+  {
+    "ilno": 13,
+    "ilceno": 1106,
+    "no": 1484,
+    "il": "Bitlis",
+    "ilce": "Adilcevaz",
+    "isim": "Aydinlar",
+    "nufus": 2264
+  },
+  {
+    "ilno": 13,
+    "ilceno": 1112,
+    "no": 1483,
+    "il": "Bitlis",
+    "ilce": "Ahlat",
+    "isim": "Ovakişla",
+    "nufus": 4118
+  },
+  {
+    "ilno": 13,
+    "ilceno": 1798,
+    "no": 1482,
+    "il": "Bitlis",
+    "ilce": "Güroymak",
+    "isim": "Gölbaşi",
+    "nufus": 4768
+  },
+  {
+    "ilno": 13,
+    "ilceno": 1798,
+    "no": 1481,
+    "il": "Bitlis",
+    "ilce": "Güroymak",
+    "isim": "Günkiri",
+    "nufus": 4824
+  },
+  {
+    "ilno": 13,
+    "ilceno": 1537,
+    "no": 1479,
+    "il": "Bitlis",
+    "ilce": "Mutki",
+    "isim": "Kavakbaşi",
+    "nufus": 2192
+  },
+  {
+    "ilno": 14,
+    "ilceno": 1199,
+    "no": 1498,
+    "il": "Bolu",
+    "ilce": "Merkez",
+    "isim": "Karacasu",
+    "nufus": 2495
+  },
+  {
+    "ilno": 14,
+    "ilceno": 1522,
+    "no": 1495,
+    "il": "Bolu",
+    "ilce": "Mengen",
+    "isim": "Gökçesu",
+    "nufus": 1797
+  },
+  {
+    "ilno": 14,
+    "ilceno": 1531,
+    "no": 1496,
+    "il": "Bolu",
+    "ilce": "Mudurnu",
+    "isim": "Taşkesti̇",
+    "nufus": 2262
+  },
+  {
+    "ilno": 15,
+    "ilceno": 1211,
+    "no": 1521,
+    "il": "Burdur",
+    "ilce": "Bucak",
+    "isim": "Kizilkaya",
+    "nufus": 2874
+  },
+  {
+    "ilno": 15,
+    "ilceno": 1211,
+    "no": 1519,
+    "il": "Burdur",
+    "ilce": "Bucak",
+    "isim": "Kocaali̇ler",
+    "nufus": 1957
+  },
+  {
+    "ilno": 15,
+    "ilceno": 1899,
+    "no": 1510,
+    "il": "Burdur",
+    "ilce": "Çavdır",
+    "isim": "Söğüt",
+    "nufus": 3301
+  },
+  {
+    "ilno": 15,
+    "ilceno": 1357,
+    "no": 52991,
+    "il": "Burdur",
+    "ilce": "Gölhisar",
+    "isim": "Yusufça",
+    "nufus": 2292
+  },
+  {
+    "ilno": 17,
+    "ilceno": 1230,
+    "no": 1617,
+    "il": "Çanakkale",
+    "ilce": "Merkez",
+    "isim": "Kepez",
+    "nufus": 36264
+  },
+  {
+    "ilno": 17,
+    "ilceno": 1160,
+    "no": 1612,
+    "il": "Çanakkale",
+    "ilce": "Ayvacık",
+    "isim": "Küçükkuyu",
+    "nufus": 10792
+  },
+  {
+    "ilno": 17,
+    "ilceno": 1190,
+    "no": 1608,
+    "il": "Çanakkale",
+    "ilce": "Biga",
+    "isim": "Gümüşçay",
+    "nufus": 1974
+  },
+  {
+    "ilno": 17,
+    "ilceno": 1190,
+    "no": 1607,
+    "il": "Çanakkale",
+    "ilce": "Biga",
+    "isim": "Karabi̇ga",
+    "nufus": 3206
+  },
+  {
+    "ilno": 17,
+    "ilceno": 1229,
+    "no": 1606,
+    "il": "Çanakkale",
+    "ilce": "Çan",
+    "isim": "Terzi̇alan",
+    "nufus": 1775
+  },
+  {
+    "ilno": 17,
+    "ilceno": 1326,
+    "no": 1605,
+    "il": "Çanakkale",
+    "ilce": "Ezine",
+    "isim": "Geyi̇kli̇",
+    "nufus": 4005
+  },
+  {
+    "ilno": 17,
+    "ilceno": 1340,
+    "no": 1599,
+    "il": "Çanakkale",
+    "ilce": "Gelibolu",
+    "isim": "Evreşe",
+    "nufus": 2082
+  },
+  {
+    "ilno": 17,
+    "ilceno": 1340,
+    "no": 1598,
+    "il": "Çanakkale",
+    "ilce": "Gelibolu",
+    "isim": "Kavakköy",
+    "nufus": 1365
+  },
+  {
+    "ilno": 17,
+    "ilceno": 1503,
+    "no": 1600,
+    "il": "Çanakkale",
+    "ilce": "Lapseki",
+    "isim": "Çardak",
+    "nufus": 4060
+  },
+  {
+    "ilno": 17,
+    "ilceno": 1503,
+    "no": 1601,
+    "il": "Çanakkale",
+    "ilce": "Lapseki",
+    "isim": "Umurbey",
+    "nufus": 2345
+  },
+  {
+    "ilno": 17,
+    "ilceno": 1722,
+    "no": 1603,
+    "il": "Çanakkale",
+    "ilce": "Yenice",
+    "isim": "Kalkim",
+    "nufus": 2482
+  },
+  {
+    "ilno": 18,
+    "ilceno": 1765,
+    "no": 1646,
+    "il": "Çankırı",
+    "ilce": "Atkaracalar",
+    "isim": "Çardakli",
+    "nufus": 1274
+  },
+  {
+    "ilno": 18,
+    "ilceno": 1248,
+    "no": 1645,
+    "il": "Çankırı",
+    "ilce": "Çerkeş",
+    "isim": "Saçak",
+    "nufus": 2137
+  },
+  {
+    "ilno": 18,
+    "ilceno": 1555,
+    "no": 1638,
+    "il": "Çankırı",
+    "ilce": "Orta",
+    "isim": "Dodurga",
+    "nufus": 2003
+  },
+  {
+    "ilno": 18,
+    "ilceno": 1555,
+    "no": 1636,
+    "il": "Çankırı",
+    "ilce": "Orta",
+    "isim": "Kalfat",
+    "nufus": 2053
+  },
+  {
+    "ilno": 18,
+    "ilceno": 1555,
+    "no": 1631,
+    "il": "Çankırı",
+    "ilce": "Orta",
+    "isim": "Yaylakent",
+    "nufus": 4514
+  },
+  {
+    "ilno": 19,
+    "ilceno": 1259,
+    "no": 1686,
+    "il": "Çorum",
+    "ilce": "Merkez",
+    "isim": "Düvenci̇",
+    "nufus": 1738
+  },
+  {
+    "ilno": 19,
+    "ilceno": 1556,
+    "no": 1663,
+    "il": "Çorum",
+    "ilce": "Ortaköy",
+    "isim": "Aştavul",
+    "nufus": 2473
+  },
+  {
+    "ilno": 22,
+    "ilceno": 1412,
+    "no": 1843,
+    "il": "Edirne",
+    "ilce": "İpsala",
+    "isim": "Esetçe",
+    "nufus": 2143
+  },
+  {
+    "ilno": 22,
+    "ilceno": 1412,
+    "no": 1841,
+    "il": "Edirne",
+    "ilce": "İpsala",
+    "isim": "Yeni̇karpuzlu",
+    "nufus": 3008
+  },
+  {
+    "ilno": 22,
+    "ilceno": 1464,
+    "no": 1837,
+    "il": "Edirne",
+    "ilce": "Keşan",
+    "isim": "Beğendi̇k",
+    "nufus": 3330
+  },
+  {
+    "ilno": 22,
+    "ilceno": 1464,
+    "no": 1835,
+    "il": "Edirne",
+    "ilce": "Keşan",
+    "isim": "Yeni̇muhaci̇r",
+    "nufus": 1961
+  },
+  {
+    "ilno": 22,
+    "ilceno": 1523,
+    "no": 1830,
+    "il": "Edirne",
+    "ilce": "Meriç",
+    "isim": "Küplü",
+    "nufus": 2165
+  },
+  {
+    "ilno": 22,
+    "ilceno": 1523,
+    "no": 1831,
+    "il": "Edirne",
+    "ilce": "Meriç",
+    "isim": "Subaşi",
+    "nufus": 1906
+  },
+  {
+    "ilno": 22,
+    "ilceno": 1705,
+    "no": 1834,
+    "il": "Edirne",
+    "ilce": "Uzunköprü",
+    "isim": "Kircasali̇h",
+    "nufus": 2567
+  },
+  {
+    "ilno": 23,
+    "ilceno": 1298,
+    "no": 1870,
+    "il": "Elazığ",
+    "ilce": "Merkez",
+    "isim": "Akçaki̇raz",
+    "nufus": 8256
+  },
+  {
+    "ilno": 23,
+    "ilceno": 1298,
+    "no": 1865,
+    "il": "Elazığ",
+    "ilce": "Merkez",
+    "isim": "Mollakendi̇",
+    "nufus": 3192
+  },
+  {
+    "ilno": 23,
+    "ilceno": 1298,
+    "no": 1869,
+    "il": "Elazığ",
+    "ilce": "Merkez",
+    "isim": "Yazikonak",
+    "nufus": 10101
+  },
+  {
+    "ilno": 23,
+    "ilceno": 1298,
+    "no": 1868,
+    "il": "Elazığ",
+    "ilce": "Merkez",
+    "isim": "Yurtbaşi",
+    "nufus": 7894
+  },
+  {
+    "ilno": 23,
+    "ilceno": 1762,
+    "no": 1864,
+    "il": "Elazığ",
+    "ilce": "Arıcak",
+    "isim": "Bükardi",
+    "nufus": 2504
+  },
+  {
+    "ilno": 23,
+    "ilceno": 1762,
+    "no": 1863,
+    "il": "Elazığ",
+    "ilce": "Arıcak",
+    "isim": "Eri̇mli̇",
+    "nufus": 2705
+  },
+  {
+    "ilno": 23,
+    "ilceno": 1762,
+    "no": 1862,
+    "il": "Elazığ",
+    "ilce": "Arıcak",
+    "isim": "Üçocak",
+    "nufus": 2721
+  },
+  {
+    "ilno": 23,
+    "ilceno": 1438,
+    "no": 1861,
+    "il": "Elazığ",
+    "ilce": "Karakoçan",
+    "isim": "Sarican",
+    "nufus": 2006
+  },
+  {
+    "ilno": 23,
+    "ilceno": 1566,
+    "no": 1858,
+    "il": "Elazığ",
+    "ilce": "Palu",
+    "isim": "Beyhan",
+    "nufus": 3451
+  },
+  {
+    "ilno": 24,
+    "ilceno": 1318,
+    "no": 1882,
+    "il": "Erzincan",
+    "ilce": "Merkez",
+    "isim": "Çağlayan",
+    "nufus": 1859
+  },
+  {
+    "ilno": 24,
+    "ilceno": 1318,
+    "no": 1892,
+    "il": "Erzincan",
+    "ilce": "Merkez",
+    "isim": "Mollaköy",
+    "nufus": 1546
+  },
+  {
+    "ilno": 24,
+    "ilceno": 1675,
+    "no": 1886,
+    "il": "Erzincan",
+    "ilce": "Tercan",
+    "isim": "Çadirkaya",
+    "nufus": 1657
+  },
+  {
+    "ilno": 24,
+    "ilceno": 1675,
+    "no": 1885,
+    "il": "Erzincan",
+    "ilce": "Tercan",
+    "isim": "Kargin",
+    "nufus": 2131
+  },
+  {
+    "ilno": 24,
+    "ilceno": 1675,
+    "no": 1887,
+    "il": "Erzincan",
+    "ilce": "Tercan",
+    "isim": "Mercan",
+    "nufus": 1811
+  },
+  {
+    "ilno": 24,
+    "ilceno": 1853,
+    "no": 1888,
+    "il": "Erzincan",
+    "ilce": "Üzümlü",
+    "isim": "Altinbaşak",
+    "nufus": 1816
+  },
+  {
+    "ilno": 28,
+    "ilceno": 1352,
+    "no": 2029,
+    "il": "Giresun",
+    "ilce": "Merkez",
+    "isim": "Duroğlu",
+    "nufus": 2897
+  },
+  {
+    "ilno": 28,
+    "ilceno": 1212,
+    "no": 2027,
+    "il": "Giresun",
+    "ilce": "Bulancak",
+    "isim": "Aydindere",
+    "nufus": 2614
+  },
+  {
+    "ilno": 28,
+    "ilceno": 1212,
+    "no": 2028,
+    "il": "Giresun",
+    "ilce": "Bulancak",
+    "isim": "Kovanlik",
+    "nufus": 2745
+  },
+  {
+    "ilno": 28,
+    "ilceno": 1272,
+    "no": 2024,
+    "il": "Giresun",
+    "ilce": "Dereli",
+    "isim": "Yavuzkemal",
+    "nufus": 2326
+  },
+  {
+    "ilno": 28,
+    "ilceno": 1320,
+    "no": 2023,
+    "il": "Giresun",
+    "ilce": "Espiye",
+    "isim": "Soğukpinar",
+    "nufus": 2453
+  },
+  {
+    "ilno": 28,
+    "ilceno": 1324,
+    "no": 2022,
+    "il": "Giresun",
+    "ilce": "Eynesil",
+    "isim": "Ören",
+    "nufus": 2213
+  },
+  {
+    "ilno": 28,
+    "ilceno": 1361,
+    "no": 2020,
+    "il": "Giresun",
+    "ilce": "Görele",
+    "isim": "Çavuşlu",
+    "nufus": 2681
+  },
+  {
+    "ilno": 28,
+    "ilceno": 1854,
+    "no": 2031,
+    "il": "Giresun",
+    "ilce": "Yağlıdere",
+    "isim": "Üçtepe",
+    "nufus": 1972
+  },
+  {
+    "ilno": 29,
+    "ilceno": 1369,
+    "no": 2048,
+    "il": "Gümüşhane",
+    "ilce": "Merkez",
+    "isim": "Arzularkabaköy",
+    "nufus": 4585
+  },
+  {
+    "ilno": 29,
+    "ilceno": 1458,
+    "no": 2047,
+    "il": "Gümüşhane",
+    "ilce": "Kelkit",
+    "isim": "Deredolu",
+    "nufus": 1879
+  },
+  {
+    "ilno": 29,
+    "ilceno": 1458,
+    "no": 2046,
+    "il": "Gümüşhane",
+    "ilce": "Kelkit",
+    "isim": "Gümüşgöze",
+    "nufus": 2544
+  },
+  {
+    "ilno": 29,
+    "ilceno": 1458,
+    "no": 2044,
+    "il": "Gümüşhane",
+    "ilce": "Kelkit",
+    "isim": "Öbektaş",
+    "nufus": 2095
+  },
+  {
+    "ilno": 29,
+    "ilceno": 1458,
+    "no": 2039,
+    "il": "Gümüşhane",
+    "ilce": "Kelkit",
+    "isim": "Söğütlü",
+    "nufus": 1863
+  },
+  {
+    "ilno": 29,
+    "ilceno": 1458,
+    "no": 2040,
+    "il": "Gümüşhane",
+    "ilce": "Kelkit",
+    "isim": "Ünlüpinar",
+    "nufus": 3051
+  },
+  {
+    "ilno": 29,
+    "ilceno": 1971,
+    "no": 2042,
+    "il": "Gümüşhane",
+    "ilce": "Kürtün",
+    "isim": "Özkürtün",
+    "nufus": 2204
+  },
+  {
+    "ilno": 29,
+    "ilceno": 1660,
+    "no": 2043,
+    "il": "Gümüşhane",
+    "ilce": "Şiran",
+    "isim": "Yeşi̇lbük",
+    "nufus": 2119
+  },
+  {
+    "ilno": 30,
+    "ilceno": 1377,
+    "no": 2058,
+    "il": "Hakkari",
+    "ilce": "Merkez",
+    "isim": "Durankaya",
+    "nufus": 3786
+  },
+  {
+    "ilno": 30,
+    "ilceno": 1737,
+    "no": 2057,
+    "il": "Hakkari",
+    "ilce": "Yüksekova",
+    "isim": "Büyükçi̇ftli̇k",
+    "nufus": 3862
+  },
+  {
+    "ilno": 30,
+    "ilceno": 1737,
+    "no": 2056,
+    "il": "Hakkari",
+    "ilce": "Yüksekova",
+    "isim": "Esendere",
+    "nufus": 4497
+  },
+  {
+    "ilno": 32,
+    "ilceno": 1401,
+    "no": 2184,
+    "il": "Isparta",
+    "ilce": "Merkez",
+    "isim": "Kuleönü",
+    "nufus": 2726
+  },
+  {
+    "ilno": 32,
+    "ilceno": 1401,
+    "no": 2183,
+    "il": "Isparta",
+    "ilce": "Merkez",
+    "isim": "Sav",
+    "nufus": 3797
+  },
+  {
+    "ilno": 32,
+    "ilceno": 1297,
+    "no": 2178,
+    "il": "Isparta",
+    "ilce": "Eğirdir",
+    "isim": "Sarii̇dri̇s",
+    "nufus": 2272
+  },
+  {
+    "ilno": 32,
+    "ilceno": 1929,
+    "no": 2174,
+    "il": "Isparta",
+    "ilce": "Gönen",
+    "isim": "Güneykent",
+    "nufus": 1926
+  },
+  {
+    "ilno": 32,
+    "ilceno": 1456,
+    "no": 2148,
+    "il": "Isparta",
+    "ilce": "Keçiborlu",
+    "isim": "Seni̇r",
+    "nufus": 2622
+  },
+  {
+    "ilno": 32,
+    "ilceno": 1615,
+    "no": 2150,
+    "il": "Isparta",
+    "ilce": "Senirkent",
+    "isim": "Büyükkabaca",
+    "nufus": 3791
+  },
+  {
+    "ilno": 32,
+    "ilceno": 1651,
+    "no": 2156,
+    "il": "Isparta",
+    "ilce": "Şarkikaraağaç",
+    "isim": "Çariksaraylar",
+    "nufus": 2759
+  },
+  {
+    "ilno": 32,
+    "ilceno": 1651,
+    "no": 2157,
+    "il": "Isparta",
+    "ilce": "Şarkikaraağaç",
+    "isim": "Çi̇çekpinar",
+    "nufus": 2016
+  },
+  {
+    "ilno": 32,
+    "ilceno": 1717,
+    "no": 2159,
+    "il": "Isparta",
+    "ilce": "Yalvaç",
+    "isim": "Hüyüklü",
+    "nufus": 1928
+  },
+  {
+    "ilno": 36,
+    "ilceno": 1279,
+    "no": 2427,
+    "il": "Kars",
+    "ilce": "Digor",
+    "isim": "Dağpinar",
+    "nufus": 3184
+  },
+  {
+    "ilno": 39,
+    "ilceno": 1471,
+    "no": 2541,
+    "il": "Kırklareli",
+    "ilce": "Merkez",
+    "isim": "İnece",
+    "nufus": 1714
+  },
+  {
+    "ilno": 39,
+    "ilceno": 1471,
+    "no": 2543,
+    "il": "Kırklareli",
+    "ilce": "Merkez",
+    "isim": "Kavakli",
+    "nufus": 4415
+  },
+  {
+    "ilno": 39,
+    "ilceno": 1471,
+    "no": 2540,
+    "il": "Kırklareli",
+    "ilce": "Merkez",
+    "isim": "Üsküp",
+    "nufus": 2321
+  },
+  {
+    "ilno": 39,
+    "ilceno": 1163,
+    "no": 2539,
+    "il": "Kırklareli",
+    "ilce": "Babaeski",
+    "isim": "Alpullu",
+    "nufus": 2236
+  },
+  {
+    "ilno": 39,
+    "ilceno": 1163,
+    "no": 2538,
+    "il": "Kırklareli",
+    "ilce": "Babaeski",
+    "isim": "Büyükmandira",
+    "nufus": 3297
+  },
+  {
+    "ilno": 39,
+    "ilceno": 1163,
+    "no": 2536,
+    "il": "Kırklareli",
+    "ilce": "Babaeski",
+    "isim": "Karahali̇l",
+    "nufus": 1536
+  },
+  {
+    "ilno": 39,
+    "ilceno": 1270,
+    "no": 2535,
+    "il": "Kırklareli",
+    "ilce": "Demirköy",
+    "isim": "İğneada",
+    "nufus": 2874
+  },
+  {
+    "ilno": 39,
+    "ilceno": 1505,
+    "no": 2529,
+    "il": "Kırklareli",
+    "ilce": "Lüleburgaz",
+    "isim": "Ahmetbey",
+    "nufus": 3600
+  },
+  {
+    "ilno": 39,
+    "ilceno": 1505,
+    "no": 2528,
+    "il": "Kırklareli",
+    "ilce": "Lüleburgaz",
+    "isim": "Büyükkariştiran",
+    "nufus": 6545
+  },
+  {
+    "ilno": 39,
+    "ilceno": 1505,
+    "no": 2530,
+    "il": "Kırklareli",
+    "ilce": "Lüleburgaz",
+    "isim": "Evrenseki̇z",
+    "nufus": 3093
+  },
+  {
+    "ilno": 39,
+    "ilceno": 1577,
+    "no": 2531,
+    "il": "Kırklareli",
+    "ilce": "Pınarhisar",
+    "isim": "Kaynarca",
+    "nufus": 1963
+  },
+  {
+    "ilno": 39,
+    "ilceno": 1714,
+    "no": 2533,
+    "il": "Kırklareli",
+    "ilce": "Vize",
+    "isim": "Çakilli",
+    "nufus": 2053
+  },
+  {
+    "ilno": 39,
+    "ilceno": 1714,
+    "no": 2534,
+    "il": "Kırklareli",
+    "ilce": "Vize",
+    "isim": "Kiyiköy",
+    "nufus": 2323
+  },
+  {
+    "ilno": 40,
+    "ilceno": 1472,
+    "no": 2571,
+    "il": "Kırşehir",
+    "ilce": "Merkez",
+    "isim": "Özbağ",
+    "nufus": 3286
+  },
+  {
+    "ilno": 40,
+    "ilceno": 1254,
+    "no": 2555,
+    "il": "Kırşehir",
+    "ilce": "Çiçekdağı",
+    "isim": "Köseli̇",
+    "nufus": 2480
+  },
+  {
+    "ilno": 40,
+    "ilceno": 1429,
+    "no": 2562,
+    "il": "Kırşehir",
+    "ilce": "Kaman",
+    "isim": "Kurancili",
+    "nufus": 1898
+  },
+  {
+    "ilno": 43,
+    "ilceno": 1500,
+    "no": 2848,
+    "il": "Kütahya",
+    "ilce": "Merkez",
+    "isim": "Seyi̇tömer",
+    "nufus": 1972
+  },
+  {
+    "ilno": 43,
+    "ilceno": 1288,
+    "no": 2852,
+    "il": "Kütahya",
+    "ilce": "Domaniç",
+    "isim": "Çukurca",
+    "nufus": 1964
+  },
+  {
+    "ilno": 43,
+    "ilceno": 1339,
+    "no": 2862,
+    "il": "Kütahya",
+    "ilce": "Gediz",
+    "isim": "Eski̇gedi̇z",
+    "nufus": 2888
+  },
+  {
+    "ilno": 43,
+    "ilceno": 1339,
+    "no": 2865,
+    "il": "Kütahya",
+    "ilce": "Gediz",
+    "isim": "Gökler",
+    "nufus": 2023
+  },
+  {
+    "ilno": 43,
+    "ilceno": 1339,
+    "no": 2870,
+    "il": "Kütahya",
+    "ilce": "Gediz",
+    "isim": "Yeni̇kent",
+    "nufus": 2339
+  },
+  {
+    "ilno": 43,
+    "ilceno": 1625,
+    "no": 2879,
+    "il": "Kütahya",
+    "ilce": "Simav",
+    "isim": "Akdağ",
+    "nufus": 1998
+  },
+  {
+    "ilno": 43,
+    "ilceno": 1625,
+    "no": 2883,
+    "il": "Kütahya",
+    "ilce": "Simav",
+    "isim": "Çi̇tgöl",
+    "nufus": 3529
+  },
+  {
+    "ilno": 43,
+    "ilceno": 1625,
+    "no": 2884,
+    "il": "Kütahya",
+    "ilce": "Simav",
+    "isim": "Demi̇rci̇",
+    "nufus": 2418
+  },
+  {
+    "ilno": 43,
+    "ilceno": 1625,
+    "no": 2885,
+    "il": "Kütahya",
+    "ilce": "Simav",
+    "isim": "Güney",
+    "nufus": 1515
+  },
+  {
+    "ilno": 43,
+    "ilceno": 1625,
+    "no": 52913,
+    "il": "Kütahya",
+    "ilce": "Simav",
+    "isim": "Kuşu",
+    "nufus": 1784
+  },
+  {
+    "ilno": 43,
+    "ilceno": 1625,
+    "no": 2892,
+    "il": "Kütahya",
+    "ilce": "Simav",
+    "isim": "Naşa",
+    "nufus": 1841
+  },
+  {
+    "ilno": 43,
+    "ilceno": 1671,
+    "no": 2841,
+    "il": "Kütahya",
+    "ilce": "Tavşanlı",
+    "isim": "Baliköy",
+    "nufus": 1637
+  },
+  {
+    "ilno": 43,
+    "ilceno": 1671,
+    "no": 2844,
+    "il": "Kütahya",
+    "ilce": "Tavşanlı",
+    "isim": "Kuruçay",
+    "nufus": 1759
+  },
+  {
+    "ilno": 43,
+    "ilceno": 1671,
+    "no": 2845,
+    "il": "Kütahya",
+    "ilce": "Tavşanlı",
+    "isim": "Tepeci̇k",
+    "nufus": 2642
+  },
+  {
+    "ilno": 43,
+    "ilceno": 1671,
+    "no": 2846,
+    "il": "Kütahya",
+    "ilce": "Tavşanlı",
+    "isim": "Tunçbi̇lek",
+    "nufus": 4772
+  },
+  {
+    "ilno": 49,
+    "ilceno": 1534,
+    "no": 3221,
+    "il": "Muş",
+    "ilce": "Merkez",
+    "isim": "Karaağaçli",
+    "nufus": 2850
+  },
+  {
+    "ilno": 49,
+    "ilceno": 1534,
+    "no": 3220,
+    "il": "Muş",
+    "ilce": "Merkez",
+    "isim": "Kirköy",
+    "nufus": 1933
+  },
+  {
+    "ilno": 49,
+    "ilceno": 1534,
+    "no": 3218,
+    "il": "Muş",
+    "ilce": "Merkez",
+    "isim": "Kizilağaç",
+    "nufus": 3173
+  },
+  {
+    "ilno": 49,
+    "ilceno": 1534,
+    "no": 3200,
+    "il": "Muş",
+    "ilce": "Merkez",
+    "isim": "Konukbekler",
+    "nufus": 2807
+  },
+  {
+    "ilno": 49,
+    "ilceno": 1534,
+    "no": 3217,
+    "il": "Muş",
+    "ilce": "Merkez",
+    "isim": "Seri̇nova",
+    "nufus": 2288
+  },
+  {
+    "ilno": 49,
+    "ilceno": 1534,
+    "no": 3219,
+    "il": "Muş",
+    "ilce": "Merkez",
+    "isim": "Sungu",
+    "nufus": 6290
+  },
+  {
+    "ilno": 49,
+    "ilceno": 1534,
+    "no": 3215,
+    "il": "Muş",
+    "ilce": "Merkez",
+    "isim": "Yaygin",
+    "nufus": 3890
+  },
+  {
+    "ilno": 49,
+    "ilceno": 1534,
+    "no": 3216,
+    "il": "Muş",
+    "ilce": "Merkez",
+    "isim": "Yeşi̇lova",
+    "nufus": 1816
+  },
+  {
+    "ilno": 49,
+    "ilceno": 1213,
+    "no": 3201,
+    "il": "Muş",
+    "ilce": "Bulanık",
+    "isim": "Elmakaya",
+    "nufus": 2457
+  },
+  {
+    "ilno": 49,
+    "ilceno": 1213,
+    "no": 3204,
+    "il": "Muş",
+    "ilce": "Bulanık",
+    "isim": "Erentepe",
+    "nufus": 3778
+  },
+  {
+    "ilno": 49,
+    "ilceno": 1213,
+    "no": 3202,
+    "il": "Muş",
+    "ilce": "Bulanık",
+    "isim": "Rüstemgedi̇k",
+    "nufus": 2052
+  },
+  {
+    "ilno": 49,
+    "ilceno": 1213,
+    "no": 3209,
+    "il": "Muş",
+    "ilce": "Bulanık",
+    "isim": "Saripinar",
+    "nufus": 2207
+  },
+  {
+    "ilno": 49,
+    "ilceno": 1213,
+    "no": 3206,
+    "il": "Muş",
+    "ilce": "Bulanık",
+    "isim": "Uzgörür",
+    "nufus": 1828
+  },
+  {
+    "ilno": 49,
+    "ilceno": 1213,
+    "no": 3203,
+    "il": "Muş",
+    "ilce": "Bulanık",
+    "isim": "Yoncali",
+    "nufus": 2016
+  },
+  {
+    "ilno": 49,
+    "ilceno": 1801,
+    "no": 3210,
+    "il": "Muş",
+    "ilce": "Hasköy",
+    "isim": "Düzkişla",
+    "nufus": 3044
+  },
+  {
+    "ilno": 49,
+    "ilceno": 1964,
+    "no": 3211,
+    "il": "Muş",
+    "ilce": "Korkut",
+    "isim": "Altinova",
+    "nufus": 2629
+  },
+  {
+    "ilno": 49,
+    "ilceno": 1510,
+    "no": 3214,
+    "il": "Muş",
+    "ilce": "Malazgirt",
+    "isim": "Konakkuran",
+    "nufus": 1393
+  },
+  {
+    "ilno": 50,
+    "ilceno": 1543,
+    "no": 3266,
+    "il": "Nevşehir",
+    "ilce": "Merkez",
+    "isim": "Çat",
+    "nufus": 2078
+  },
+  {
+    "ilno": 50,
+    "ilceno": 1543,
+    "no": 3264,
+    "il": "Nevşehir",
+    "ilce": "Merkez",
+    "isim": "Göre",
+    "nufus": 2621
+  },
+  {
+    "ilno": 50,
+    "ilceno": 1543,
+    "no": 3263,
+    "il": "Nevşehir",
+    "ilce": "Merkez",
+    "isim": "Göreme",
+    "nufus": 2429
+  },
+  {
+    "ilno": 50,
+    "ilceno": 1543,
+    "no": 3262,
+    "il": "Nevşehir",
+    "ilce": "Merkez",
+    "isim": "Kavak",
+    "nufus": 2614
+  },
+  {
+    "ilno": 50,
+    "ilceno": 1543,
+    "no": 3261,
+    "il": "Nevşehir",
+    "ilce": "Merkez",
+    "isim": "Kaymakli",
+    "nufus": 4490
+  },
+  {
+    "ilno": 50,
+    "ilceno": 1543,
+    "no": 3260,
+    "il": "Nevşehir",
+    "ilce": "Merkez",
+    "isim": "Nar",
+    "nufus": 5238
+  },
+  {
+    "ilno": 50,
+    "ilceno": 1543,
+    "no": 3259,
+    "il": "Nevşehir",
+    "ilce": "Merkez",
+    "isim": "Sulusaray",
+    "nufus": 2039
+  },
+  {
+    "ilno": 50,
+    "ilceno": 1543,
+    "no": 3258,
+    "il": "Nevşehir",
+    "ilce": "Merkez",
+    "isim": "Uçhi̇sar",
+    "nufus": 3845
+  },
+  {
+    "ilno": 50,
+    "ilceno": 1749,
+    "no": 3231,
+    "il": "Nevşehir",
+    "ilce": "Acıgöl",
+    "isim": "Karapinar",
+    "nufus": 2963
+  },
+  {
+    "ilno": 50,
+    "ilceno": 1749,
+    "no": 3233,
+    "il": "Nevşehir",
+    "ilce": "Acıgöl",
+    "isim": "Tatlarin",
+    "nufus": 2174
+  },
+  {
+    "ilno": 50,
+    "ilceno": 1155,
+    "no": 3240,
+    "il": "Nevşehir",
+    "ilce": "Avanos",
+    "isim": "Çaliş",
+    "nufus": 1995
+  },
+  {
+    "ilno": 50,
+    "ilceno": 1155,
+    "no": 3241,
+    "il": "Nevşehir",
+    "ilce": "Avanos",
+    "isim": "Kalaba",
+    "nufus": 4361
+  },
+  {
+    "ilno": 50,
+    "ilceno": 1155,
+    "no": 3234,
+    "il": "Nevşehir",
+    "ilce": "Avanos",
+    "isim": "Özkonak",
+    "nufus": 3266
+  },
+  {
+    "ilno": 50,
+    "ilceno": 1274,
+    "no": 3243,
+    "il": "Nevşehir",
+    "ilce": "Derinkuyu",
+    "isim": "Yazihüyük",
+    "nufus": 3722
+  },
+  {
+    "ilno": 50,
+    "ilceno": 1707,
+    "no": 3265,
+    "il": "Nevşehir",
+    "ilce": "Ürgüp",
+    "isim": "Ortahi̇sar",
+    "nufus": 3099
+  },
+  {
+    "ilno": 51,
+    "ilceno": 1544,
+    "no": 3318,
+    "il": "Niğde",
+    "ilce": "Merkez",
+    "isim": "Aktaş",
+    "nufus": 2397
+  },
+  {
+    "ilno": 51,
+    "ilceno": 1544,
+    "no": 3286,
+    "il": "Niğde",
+    "ilce": "Merkez",
+    "isim": "Alay",
+    "nufus": 3256
+  },
+  {
+    "ilno": 51,
+    "ilceno": 1544,
+    "no": 3287,
+    "il": "Niğde",
+    "ilce": "Merkez",
+    "isim": "Bağlama",
+    "nufus": 2398
+  },
+  {
+    "ilno": 51,
+    "ilceno": 1544,
+    "no": 3313,
+    "il": "Niğde",
+    "ilce": "Merkez",
+    "isim": "Deği̇rmenli̇",
+    "nufus": 2070
+  },
+  {
+    "ilno": 51,
+    "ilceno": 1544,
+    "no": 3273,
+    "il": "Niğde",
+    "ilce": "Merkez",
+    "isim": "Dündarli",
+    "nufus": 2554
+  },
+  {
+    "ilno": 51,
+    "ilceno": 1544,
+    "no": 3274,
+    "il": "Niğde",
+    "ilce": "Merkez",
+    "isim": "Edi̇kli̇",
+    "nufus": 4749
+  },
+  {
+    "ilno": 51,
+    "ilceno": 1544,
+    "no": 3276,
+    "il": "Niğde",
+    "ilce": "Merkez",
+    "isim": "Gümüşler",
+    "nufus": 3205
+  },
+  {
+    "ilno": 51,
+    "ilceno": 1544,
+    "no": 3277,
+    "il": "Niğde",
+    "ilce": "Merkez",
+    "isim": "Haciabdullah",
+    "nufus": 3007
+  },
+  {
+    "ilno": 51,
+    "ilceno": 1544,
+    "no": 3281,
+    "il": "Niğde",
+    "ilce": "Merkez",
+    "isim": "Karaatli",
+    "nufus": 3540
+  },
+  {
+    "ilno": 51,
+    "ilceno": 1544,
+    "no": 3289,
+    "il": "Niğde",
+    "ilce": "Merkez",
+    "isim": "Ki̇ledere",
+    "nufus": 5540
+  },
+  {
+    "ilno": 51,
+    "ilceno": 1544,
+    "no": 3290,
+    "il": "Niğde",
+    "ilce": "Merkez",
+    "isim": "Konakli",
+    "nufus": 3096
+  },
+  {
+    "ilno": 51,
+    "ilceno": 1544,
+    "no": 3291,
+    "il": "Niğde",
+    "ilce": "Merkez",
+    "isim": "Orhanli",
+    "nufus": 3459
+  },
+  {
+    "ilno": 51,
+    "ilceno": 1544,
+    "no": 3284,
+    "il": "Niğde",
+    "ilce": "Merkez",
+    "isim": "Sazlica",
+    "nufus": 4206
+  },
+  {
+    "ilno": 51,
+    "ilceno": 1544,
+    "no": 3285,
+    "il": "Niğde",
+    "ilce": "Merkez",
+    "isim": "Yeşi̇lgölcük",
+    "nufus": 5483
+  },
+  {
+    "ilno": 51,
+    "ilceno": 1544,
+    "no": 3280,
+    "il": "Niğde",
+    "ilce": "Merkez",
+    "isim": "Yildiztepe",
+    "nufus": 2155
+  },
+  {
+    "ilno": 51,
+    "ilceno": 1876,
+    "no": 3293,
+    "il": "Niğde",
+    "ilce": "Altunhisar",
+    "isim": "Karakapi",
+    "nufus": 3347
+  },
+  {
+    "ilno": 51,
+    "ilceno": 1876,
+    "no": 3294,
+    "il": "Niğde",
+    "ilce": "Altunhisar",
+    "isim": "Keçi̇kalesi̇",
+    "nufus": 2970
+  },
+  {
+    "ilno": 51,
+    "ilceno": 1201,
+    "no": 3302,
+    "il": "Niğde",
+    "ilce": "Bor",
+    "isim": "Bahçeli̇",
+    "nufus": 2625
+  },
+  {
+    "ilno": 51,
+    "ilceno": 1201,
+    "no": 3298,
+    "il": "Niğde",
+    "ilce": "Bor",
+    "isim": "Çukurkuyu",
+    "nufus": 2841
+  },
+  {
+    "ilno": 51,
+    "ilceno": 1201,
+    "no": 3301,
+    "il": "Niğde",
+    "ilce": "Bor",
+    "isim": "Kemerhi̇sar",
+    "nufus": 5941
+  },
+  {
+    "ilno": 51,
+    "ilceno": 1904,
+    "no": 3305,
+    "il": "Niğde",
+    "ilce": "Çiftlik",
+    "isim": "Azatli",
+    "nufus": 4089
+  },
+  {
+    "ilno": 51,
+    "ilceno": 1904,
+    "no": 3306,
+    "il": "Niğde",
+    "ilce": "Çiftlik",
+    "isim": "Bozköy",
+    "nufus": 4901
+  },
+  {
+    "ilno": 51,
+    "ilceno": 1904,
+    "no": 3307,
+    "il": "Niğde",
+    "ilce": "Çiftlik",
+    "isim": "Di̇varli",
+    "nufus": 4524
+  },
+  {
+    "ilno": 53,
+    "ilceno": 1586,
+    "no": 3410,
+    "il": "Rize",
+    "ilce": "Merkez",
+    "isim": "Kendi̇rli̇",
+    "nufus": 2950
+  },
+  {
+    "ilno": 53,
+    "ilceno": 1586,
+    "no": 3409,
+    "il": "Rize",
+    "ilce": "Merkez",
+    "isim": "Muradi̇ye",
+    "nufus": 2950
+  },
+  {
+    "ilno": 53,
+    "ilceno": 1586,
+    "no": 3411,
+    "il": "Rize",
+    "ilce": "Merkez",
+    "isim": "Salarha",
+    "nufus": 2894
+  },
+  {
+    "ilno": 53,
+    "ilceno": 1146,
+    "no": 3407,
+    "il": "Rize",
+    "ilce": "Ardeşen",
+    "isim": "Tunca",
+    "nufus": 2264
+  },
+  {
+    "ilno": 53,
+    "ilceno": 1241,
+    "no": 3405,
+    "il": "Rize",
+    "ilce": "Çayeli",
+    "isim": "Büyükköy",
+    "nufus": 2372
+  },
+  {
+    "ilno": 53,
+    "ilceno": 1241,
+    "no": 3406,
+    "il": "Rize",
+    "ilce": "Çayeli",
+    "isim": "Madenli̇",
+    "nufus": 3361
+  },
+  {
+    "ilno": 56,
+    "ilceno": 1620,
+    "no": 3515,
+    "il": "Siirt",
+    "ilce": "Merkez",
+    "isim": "Gökçebağ",
+    "nufus": 2447
+  },
+  {
+    "ilno": 56,
+    "ilceno": 1179,
+    "no": 3512,
+    "il": "Siirt",
+    "ilce": "Baykan",
+    "isim": "Atabaği",
+    "nufus": 3711
+  },
+  {
+    "ilno": 56,
+    "ilceno": 1179,
+    "no": 3511,
+    "il": "Siirt",
+    "ilce": "Baykan",
+    "isim": "Veyselkarani̇",
+    "nufus": 7123
+  },
+  {
+    "ilno": 56,
+    "ilceno": 1495,
+    "no": 3513,
+    "il": "Siirt",
+    "ilce": "Kurtalan",
+    "isim": "Kayabağlar",
+    "nufus": 5828
+  },
+  {
+    "ilno": 56,
+    "ilceno": 1575,
+    "no": 3514,
+    "il": "Siirt",
+    "ilce": "Pervari",
+    "isim": "Beğendi̇k",
+    "nufus": 2132
+  },
+  {
+    "ilno": 58,
+    "ilceno": 1628,
+    "no": 3569,
+    "il": "Sivas",
+    "ilce": "Merkez",
+    "isim": "Yildiz",
+    "nufus": 2466
+  },
+  {
+    "ilno": 58,
+    "ilceno": 1875,
+    "no": 3566,
+    "il": "Sivas",
+    "ilce": "Altınyayla",
+    "isim": "Deli̇i̇lyas",
+    "nufus": 2289
+  },
+  {
+    "ilno": 58,
+    "ilceno": 1342,
+    "no": 3561,
+    "il": "Sivas",
+    "ilce": "Gemerek",
+    "isim": "Çepni̇",
+    "nufus": 1443
+  },
+  {
+    "ilno": 58,
+    "ilceno": 1342,
+    "no": 3558,
+    "il": "Sivas",
+    "ilce": "Gemerek",
+    "isim": "Sizir",
+    "nufus": 3712
+  },
+  {
+    "ilno": 58,
+    "ilceno": 1650,
+    "no": 3568,
+    "il": "Sivas",
+    "ilce": "Şarkışla",
+    "isim": "Cemel",
+    "nufus": 1344
+  },
+  {
+    "ilno": 58,
+    "ilceno": 1650,
+    "no": 3567,
+    "il": "Sivas",
+    "ilce": "Şarkışla",
+    "isim": "Gürçayir",
+    "nufus": 1909
+  },
+  {
+    "ilno": 58,
+    "ilceno": 1731,
+    "no": 3554,
+    "il": "Sivas",
+    "ilce": "Yıldızeli",
+    "isim": "Güneykaya",
+    "nufus": 2152
+  },
+  {
+    "ilno": 60,
+    "ilceno": 1679,
+    "no": 3634,
+    "il": "Tokat",
+    "ilce": "Merkez",
+    "isim": "Çamlibel",
+    "nufus": 3965
+  },
+  {
+    "ilno": 60,
+    "ilceno": 1679,
+    "no": 3630,
+    "il": "Tokat",
+    "ilce": "Merkez",
+    "isim": "Çat",
+    "nufus": 4234
+  },
+  {
+    "ilno": 60,
+    "ilceno": 1679,
+    "no": 3631,
+    "il": "Tokat",
+    "ilce": "Merkez",
+    "isim": "Emi̇rseyi̇t",
+    "nufus": 2421
+  },
+  {
+    "ilno": 60,
+    "ilceno": 1679,
+    "no": 3633,
+    "il": "Tokat",
+    "ilce": "Merkez",
+    "isim": "Güryildiz",
+    "nufus": 2220
+  },
+  {
+    "ilno": 60,
+    "ilceno": 1129,
+    "no": 52374,
+    "il": "Tokat",
+    "ilce": "Almus",
+    "isim": "Akarçay Görümlü",
+    "nufus": 2627
+  },
+  {
+    "ilno": 60,
+    "ilceno": 1129,
+    "no": 3639,
+    "il": "Tokat",
+    "ilce": "Almus",
+    "isim": "Ataköy",
+    "nufus": 2968
+  },
+  {
+    "ilno": 60,
+    "ilceno": 1129,
+    "no": 3642,
+    "il": "Tokat",
+    "ilce": "Almus",
+    "isim": "Çevreli̇",
+    "nufus": 2695
+  },
+  {
+    "ilno": 60,
+    "ilceno": 1129,
+    "no": 3644,
+    "il": "Tokat",
+    "ilce": "Almus",
+    "isim": "Gölgeli̇",
+    "nufus": 2066
+  },
+  {
+    "ilno": 60,
+    "ilceno": 1129,
+    "no": 3646,
+    "il": "Tokat",
+    "ilce": "Almus",
+    "isim": "Kinik",
+    "nufus": 2305
+  },
+  {
+    "ilno": 60,
+    "ilceno": 1883,
+    "no": 3650,
+    "il": "Tokat",
+    "ilce": "Başçiftlik",
+    "isim": "Hati̇pli̇",
+    "nufus": 1734
+  },
+  {
+    "ilno": 60,
+    "ilceno": 1308,
+    "no": 3656,
+    "il": "Tokat",
+    "ilce": "Erbaa",
+    "isim": "Gökal",
+    "nufus": 3305
+  },
+  {
+    "ilno": 60,
+    "ilceno": 1308,
+    "no": 3655,
+    "il": "Tokat",
+    "ilce": "Erbaa",
+    "isim": "Karayaka",
+    "nufus": 3424
+  },
+  {
+    "ilno": 60,
+    "ilceno": 1308,
+    "no": 3654,
+    "il": "Tokat",
+    "ilce": "Erbaa",
+    "isim": "Tanoba",
+    "nufus": 2123
+  },
+  {
+    "ilno": 60,
+    "ilceno": 1545,
+    "no": 3664,
+    "il": "Tokat",
+    "ilce": "Niksar",
+    "isim": "Gökçeli̇",
+    "nufus": 1951
+  },
+  {
+    "ilno": 60,
+    "ilceno": 1545,
+    "no": 3665,
+    "il": "Tokat",
+    "ilce": "Niksar",
+    "isim": "Gürçeşme",
+    "nufus": 1886
+  },
+  {
+    "ilno": 60,
+    "ilceno": 1545,
+    "no": 3660,
+    "il": "Tokat",
+    "ilce": "Niksar",
+    "isim": "Serenli̇",
+    "nufus": 3161
+  },
+  {
+    "ilno": 60,
+    "ilceno": 1545,
+    "no": 3661,
+    "il": "Tokat",
+    "ilce": "Niksar",
+    "isim": "Yazicik",
+    "nufus": 2444
+  },
+  {
+    "ilno": 60,
+    "ilceno": 1545,
+    "no": 3662,
+    "il": "Tokat",
+    "ilce": "Niksar",
+    "isim": "Yolkonak",
+    "nufus": 2681
+  },
+  {
+    "ilno": 60,
+    "ilceno": 1834,
+    "no": 3667,
+    "il": "Tokat",
+    "ilce": "Pazar",
+    "isim": "Üzümören",
+    "nufus": 3719
+  },
+  {
+    "ilno": 60,
+    "ilceno": 1584,
+    "no": 3668,
+    "il": "Tokat",
+    "ilce": "Reşadiye",
+    "isim": "Baydarli",
+    "nufus": 2175
+  },
+  {
+    "ilno": 60,
+    "ilceno": 1584,
+    "no": 3679,
+    "il": "Tokat",
+    "ilce": "Reşadiye",
+    "isim": "Bereketli̇",
+    "nufus": 3442
+  },
+  {
+    "ilno": 60,
+    "ilceno": 1584,
+    "no": 3680,
+    "il": "Tokat",
+    "ilce": "Reşadiye",
+    "isim": "Bozçali",
+    "nufus": 2717
+  },
+  {
+    "ilno": 60,
+    "ilceno": 1584,
+    "no": 3671,
+    "il": "Tokat",
+    "ilce": "Reşadiye",
+    "isim": "Ci̇mi̇tekke",
+    "nufus": 2493
+  },
+  {
+    "ilno": 60,
+    "ilceno": 1584,
+    "no": 3672,
+    "il": "Tokat",
+    "ilce": "Reşadiye",
+    "isim": "Demi̇rci̇li̇",
+    "nufus": 2249
+  },
+  {
+    "ilno": 60,
+    "ilceno": 1584,
+    "no": 3673,
+    "il": "Tokat",
+    "ilce": "Reşadiye",
+    "isim": "Hasanşeyh",
+    "nufus": 2334
+  },
+  {
+    "ilno": 60,
+    "ilceno": 1690,
+    "no": 3618,
+    "il": "Tokat",
+    "ilce": "Turhal",
+    "isim": "Şenyurt",
+    "nufus": 2228
+  },
+  {
+    "ilno": 62,
+    "ilceno": 1518,
+    "no": 3769,
+    "il": "Tunceli",
+    "ilce": "Mazgirt",
+    "isim": "Akpazar",
+    "nufus": 1982
+  },
+  {
+    "ilno": 64,
+    "ilceno": 1170,
+    "no": 3814,
+    "il": "Uşak",
+    "ilce": "Banaz",
+    "isim": "Kizilcasöğüt",
+    "nufus": 1838
+  },
+  {
+    "ilno": 64,
+    "ilceno": 1323,
+    "no": 3803,
+    "il": "Uşak",
+    "ilce": "Eşme",
+    "isim": "Yeleğen",
+    "nufus": 2113
+  },
+  {
+    "ilno": 64,
+    "ilceno": 1629,
+    "no": 3806,
+    "il": "Uşak",
+    "ilce": "Sivaslı",
+    "isim": "Pinarbaşi",
+    "nufus": 2042
+  },
+  {
+    "ilno": 64,
+    "ilceno": 1629,
+    "no": 3807,
+    "il": "Uşak",
+    "ilce": "Sivaslı",
+    "isim": "Selçi̇kler",
+    "nufus": 1776
+  },
+  {
+    "ilno": 64,
+    "ilceno": 1629,
+    "no": 3808,
+    "il": "Uşak",
+    "ilce": "Sivaslı",
+    "isim": "Tatar",
+    "nufus": 1889
+  },
+  {
+    "ilno": 66,
+    "ilceno": 1117,
+    "no": 3858,
+    "il": "Yozgat",
+    "ilce": "Akdağmadeni",
+    "isim": "Belekçahan",
+    "nufus": 1643
+  },
+  {
+    "ilno": 66,
+    "ilceno": 1117,
+    "no": 3859,
+    "il": "Yozgat",
+    "ilce": "Akdağmadeni",
+    "isim": "Oluközü",
+    "nufus": 1373
+  },
+  {
+    "ilno": 66,
+    "ilceno": 1117,
+    "no": 3860,
+    "il": "Yozgat",
+    "ilce": "Akdağmadeni",
+    "isim": "Umutlu",
+    "nufus": 2317
+  },
+  {
+    "ilno": 66,
+    "ilceno": 1877,
+    "no": 3861,
+    "il": "Yozgat",
+    "ilce": "Aydıncık",
+    "isim": "Baydi̇ği̇n",
+    "nufus": 3246
+  },
+  {
+    "ilno": 66,
+    "ilceno": 1198,
+    "no": 3868,
+    "il": "Yozgat",
+    "ilce": "Boğazlıyan",
+    "isim": "Ovakent",
+    "nufus": 2619
+  },
+  {
+    "ilno": 66,
+    "ilceno": 1198,
+    "no": 3870,
+    "il": "Yozgat",
+    "ilce": "Boğazlıyan",
+    "isim": "Sirçali",
+    "nufus": 1547
+  },
+  {
+    "ilno": 66,
+    "ilceno": 1198,
+    "no": 3871,
+    "il": "Yozgat",
+    "ilce": "Boğazlıyan",
+    "isim": "Uzunlu",
+    "nufus": 1338
+  },
+  {
+    "ilno": 66,
+    "ilceno": 1198,
+    "no": 3872,
+    "il": "Yozgat",
+    "ilce": "Boğazlıyan",
+    "isim": "Yamaçli",
+    "nufus": 2785
+  },
+  {
+    "ilno": 66,
+    "ilceno": 1198,
+    "no": 3873,
+    "il": "Yozgat",
+    "ilce": "Boğazlıyan",
+    "isim": "Yeni̇pazar",
+    "nufus": 1939
+  },
+  {
+    "ilno": 66,
+    "ilceno": 1242,
+    "no": 3878,
+    "il": "Yozgat",
+    "ilce": "Çayıralan",
+    "isim": "Konuklar",
+    "nufus": 1455
+  },
+  {
+    "ilno": 66,
+    "ilceno": 1245,
+    "no": 3882,
+    "il": "Yozgat",
+    "ilce": "Çekerek",
+    "isim": "Özükavak",
+    "nufus": 1275
+  },
+  {
+    "ilno": 66,
+    "ilceno": 1952,
+    "no": 3883,
+    "il": "Yozgat",
+    "ilce": "Kadışehri",
+    "isim": "Haliköy",
+    "nufus": 1521
+  },
+  {
+    "ilno": 66,
+    "ilceno": 1982,
+    "no": 3885,
+    "il": "Yozgat",
+    "ilce": "Saraykent",
+    "isim": "Dedefakili",
+    "nufus": 1134
+  },
+  {
+    "ilno": 66,
+    "ilceno": 1982,
+    "no": 3886,
+    "il": "Yozgat",
+    "ilce": "Saraykent",
+    "isim": "Ozan",
+    "nufus": 1443
+  },
+  {
+    "ilno": 66,
+    "ilceno": 1602,
+    "no": 3888,
+    "il": "Yozgat",
+    "ilce": "Sarıkaya",
+    "isim": "Karayakup",
+    "nufus": 1720
+  },
+  {
+    "ilno": 66,
+    "ilceno": 1635,
+    "no": 3891,
+    "il": "Yozgat",
+    "ilce": "Sorgun",
+    "isim": "Arapli",
+    "nufus": 1911
+  },
+  {
+    "ilno": 66,
+    "ilceno": 1635,
+    "no": 3892,
+    "il": "Yozgat",
+    "ilce": "Sorgun",
+    "isim": "Bahadin",
+    "nufus": 2614
+  },
+  {
+    "ilno": 66,
+    "ilceno": 1635,
+    "no": 3894,
+    "il": "Yozgat",
+    "ilce": "Sorgun",
+    "isim": "Çi̇ğdemli̇",
+    "nufus": 2158
+  },
+  {
+    "ilno": 66,
+    "ilceno": 1635,
+    "no": 3895,
+    "il": "Yozgat",
+    "ilce": "Sorgun",
+    "isim": "Doğankent",
+    "nufus": 1725
+  },
+  {
+    "ilno": 66,
+    "ilceno": 1635,
+    "no": 3899,
+    "il": "Yozgat",
+    "ilce": "Sorgun",
+    "isim": "Eymi̇r",
+    "nufus": 2203
+  },
+  {
+    "ilno": 66,
+    "ilceno": 1635,
+    "no": 3898,
+    "il": "Yozgat",
+    "ilce": "Sorgun",
+    "isim": "Gülşehri̇",
+    "nufus": 2081
+  },
+  {
+    "ilno": 66,
+    "ilceno": 1635,
+    "no": 3897,
+    "il": "Yozgat",
+    "ilce": "Sorgun",
+    "isim": "Yeni̇yer",
+    "nufus": 1908
+  },
+  {
+    "ilno": 67,
+    "ilceno": 1741,
+    "no": 3934,
+    "il": "Zonguldak",
+    "ilce": "Merkez",
+    "isim": "Beycuma",
+    "nufus": 2618
+  },
+  {
+    "ilno": 67,
+    "ilceno": 1741,
+    "no": 3936,
+    "il": "Zonguldak",
+    "ilce": "Merkez",
+    "isim": "Elvanpazarcik",
+    "nufus": 2939
+  },
+  {
+    "ilno": 67,
+    "ilceno": 1741,
+    "no": 3933,
+    "il": "Zonguldak",
+    "ilce": "Merkez",
+    "isim": "Karaman",
+    "nufus": 1968
+  },
+  {
+    "ilno": 67,
+    "ilceno": 1758,
+    "no": 3914,
+    "il": "Zonguldak",
+    "ilce": "Alaplı",
+    "isim": "Gümeli̇",
+    "nufus": 2280
+  },
+  {
+    "ilno": 67,
+    "ilceno": 1240,
+    "no": 3915,
+    "il": "Zonguldak",
+    "ilce": "Çaycuma",
+    "isim": "Fi̇lyos",
+    "nufus": 4984
+  },
+  {
+    "ilno": 67,
+    "ilceno": 1240,
+    "no": 3919,
+    "il": "Zonguldak",
+    "ilce": "Çaycuma",
+    "isim": "Karapinar",
+    "nufus": 2875
+  },
+  {
+    "ilno": 67,
+    "ilceno": 1240,
+    "no": 3917,
+    "il": "Zonguldak",
+    "ilce": "Çaycuma",
+    "isim": "Nebi̇oğlu",
+    "nufus": 2330
+  },
+  {
+    "ilno": 67,
+    "ilceno": 1240,
+    "no": 3916,
+    "il": "Zonguldak",
+    "ilce": "Çaycuma",
+    "isim": "Perşembe",
+    "nufus": 4658
+  },
+  {
+    "ilno": 67,
+    "ilceno": 1240,
+    "no": 3918,
+    "il": "Zonguldak",
+    "ilce": "Çaycuma",
+    "isim": "Saltukova",
+    "nufus": 4047
+  },
+  {
+    "ilno": 67,
+    "ilceno": 1276,
+    "no": 3920,
+    "il": "Zonguldak",
+    "ilce": "Devrek",
+    "isim": "Çaydeği̇rmeni̇",
+    "nufus": 7310
+  },
+  {
+    "ilno": 67,
+    "ilceno": 1313,
+    "no": 3925,
+    "il": "Zonguldak",
+    "ilce": "Ereğli",
+    "isim": "Gülüç",
+    "nufus": 8192
+  },
+  {
+    "ilno": 67,
+    "ilceno": 1313,
+    "no": 3923,
+    "il": "Zonguldak",
+    "ilce": "Ereğli",
+    "isim": "Kandi̇lli̇",
+    "nufus": 2889
+  },
+  {
+    "ilno": 67,
+    "ilceno": 1313,
+    "no": 3928,
+    "il": "Zonguldak",
+    "ilce": "Ereğli",
+    "isim": "Ormanli",
+    "nufus": 2211
+  },
+  {
+    "ilno": 67,
+    "ilceno": 1926,
+    "no": 3929,
+    "il": "Zonguldak",
+    "ilce": "Gökçebey",
+    "isim": "Bakacakkadi",
+    "nufus": 3429
+  },
+  {
+    "ilno": 67,
+    "ilceno": 2100,
+    "no": 3931,
+    "il": "Zonguldak",
+    "ilce": "Kilimli",
+    "isim": "Çatalağzi",
+    "nufus": 6378
+  },
+  {
+    "ilno": 67,
+    "ilceno": 2100,
+    "no": 3930,
+    "il": "Zonguldak",
+    "ilce": "Kilimli",
+    "isim": "Geli̇k",
+    "nufus": 2783
+  },
+  {
+    "ilno": 67,
+    "ilceno": 2100,
+    "no": 3911,
+    "il": "Zonguldak",
+    "ilce": "Kilimli",
+    "isim": "Muslu",
+    "nufus": 1668
+  },
+  {
+    "ilno": 68,
+    "ilceno": 1120,
+    "no": 3982,
+    "il": "Aksaray",
+    "ilce": "Merkez",
+    "isim": "Bağlikaya",
+    "nufus": 3221
+  },
+  {
+    "ilno": 68,
+    "ilceno": 1120,
+    "no": 3953,
+    "il": "Aksaray",
+    "ilce": "Merkez",
+    "isim": "Helvadere",
+    "nufus": 2815
+  },
+  {
+    "ilno": 68,
+    "ilceno": 1120,
+    "no": 3978,
+    "il": "Aksaray",
+    "ilce": "Merkez",
+    "isim": "Sağlik",
+    "nufus": 2519
+  },
+  {
+    "ilno": 68,
+    "ilceno": 1120,
+    "no": 3950,
+    "il": "Aksaray",
+    "ilce": "Merkez",
+    "isim": "Taşpinar",
+    "nufus": 3533
+  },
+  {
+    "ilno": 68,
+    "ilceno": 1120,
+    "no": 3944,
+    "il": "Aksaray",
+    "ilce": "Merkez",
+    "isim": "Topakkaya",
+    "nufus": 2996
+  },
+  {
+    "ilno": 68,
+    "ilceno": 1120,
+    "no": 3958,
+    "il": "Aksaray",
+    "ilce": "Merkez",
+    "isim": "Yeni̇kent",
+    "nufus": 5491
+  },
+  {
+    "ilno": 68,
+    "ilceno": 1120,
+    "no": 3956,
+    "il": "Aksaray",
+    "ilce": "Merkez",
+    "isim": "Yeşi̇lova",
+    "nufus": 4177
+  },
+  {
+    "ilno": 68,
+    "ilceno": 1120,
+    "no": 3959,
+    "il": "Aksaray",
+    "ilce": "Merkez",
+    "isim": "Yeşi̇ltepe",
+    "nufus": 2336
+  },
+  {
+    "ilno": 68,
+    "ilceno": 1921,
+    "no": 3961,
+    "il": "Aksaray",
+    "ilce": "Eskil",
+    "isim": "Eşmekaya",
+    "nufus": 2696
+  },
+  {
+    "ilno": 68,
+    "ilceno": 1932,
+    "no": 3963,
+    "il": "Aksaray",
+    "ilce": "Gülağaç",
+    "isim": "Demi̇rci̇",
+    "nufus": 4158
+  },
+  {
+    "ilno": 68,
+    "ilceno": 1932,
+    "no": 3964,
+    "il": "Aksaray",
+    "ilce": "Gülağaç",
+    "isim": "Gülpinar",
+    "nufus": 2928
+  },
+  {
+    "ilno": 68,
+    "ilceno": 1932,
+    "no": 3965,
+    "il": "Aksaray",
+    "ilce": "Gülağaç",
+    "isim": "Saratli",
+    "nufus": 2483
+  },
+  {
+    "ilno": 68,
+    "ilceno": 1861,
+    "no": 3967,
+    "il": "Aksaray",
+    "ilce": "Güzelyurt",
+    "isim": "Ihlara",
+    "nufus": 2463
+  },
+  {
+    "ilno": 68,
+    "ilceno": 1861,
+    "no": 3969,
+    "il": "Aksaray",
+    "ilce": "Güzelyurt",
+    "isim": "Seli̇me",
+    "nufus": 2120
+  },
+  {
+    "ilno": 69,
+    "ilceno": 1176,
+    "no": 3991,
+    "il": "Bayburt",
+    "ilce": "Merkez",
+    "isim": "Arpali",
+    "nufus": 2360
+  },
+  {
+    "ilno": 69,
+    "ilceno": 1788,
+    "no": 3988,
+    "il": "Bayburt",
+    "ilce": "Demirözü",
+    "isim": "Gökçedere",
+    "nufus": 2056
+  },
+  {
+    "ilno": 70,
+    "ilceno": 1439,
+    "no": 4009,
+    "il": "Karaman",
+    "ilce": "Merkez",
+    "isim": "Akçaşehi̇r",
+    "nufus": 2621
+  },
+  {
+    "ilno": 70,
+    "ilceno": 1439,
+    "no": 4007,
+    "il": "Karaman",
+    "ilce": "Merkez",
+    "isim": "Suduraği",
+    "nufus": 2458
+  },
+  {
+    "ilno": 70,
+    "ilceno": 1316,
+    "no": 4001,
+    "il": "Karaman",
+    "ilce": "Ermenek",
+    "isim": "Güneyyurt",
+    "nufus": 5096
+  },
+  {
+    "ilno": 70,
+    "ilceno": 1316,
+    "no": 4002,
+    "il": "Karaman",
+    "ilce": "Ermenek",
+    "isim": "Kazanci",
+    "nufus": 2410
+  },
+  {
+    "ilno": 70,
+    "ilceno": 1983,
+    "no": 4008,
+    "il": "Karaman",
+    "ilce": "Sarıveliler",
+    "isim": "Göktepe",
+    "nufus": 2312
+  },
+  {
+    "ilno": 71,
+    "ilceno": 1469,
+    "no": 4032,
+    "il": "Kırıkkale",
+    "ilce": "Merkez",
+    "isim": "Hacilar",
+    "nufus": 4196
+  },
+  {
+    "ilno": 71,
+    "ilceno": 1268,
+    "no": 4020,
+    "il": "Kırıkkale",
+    "ilce": "Delice",
+    "isim": "Çeri̇kli̇",
+    "nufus": 2941
+  },
+  {
+    "ilno": 72,
+    "ilceno": 1174,
+    "no": 4047,
+    "il": "Batman",
+    "ilce": "Merkez",
+    "isim": "Balpinar",
+    "nufus": 6431
+  },
+  {
+    "ilno": 72,
+    "ilceno": 1184,
+    "no": 4046,
+    "il": "Batman",
+    "ilce": "Beşiri",
+    "isim": "İki̇köprü",
+    "nufus": 3497
+  },
+  {
+    "ilno": 72,
+    "ilceno": 1345,
+    "no": 4048,
+    "il": "Batman",
+    "ilce": "Gercüş",
+    "isim": "Kayapinar",
+    "nufus": 2452
+  },
+  {
+    "ilno": 72,
+    "ilceno": 1487,
+    "no": 4043,
+    "il": "Batman",
+    "ilce": "Kozluk",
+    "isim": "Beki̇rhan",
+    "nufus": 3620
+  },
+  {
+    "ilno": 72,
+    "ilceno": 1607,
+    "no": 4045,
+    "il": "Batman",
+    "ilce": "Sason",
+    "isim": "Yücebağ",
+    "nufus": 3521
+  },
+  {
+    "ilno": 73,
+    "ilceno": 1661,
+    "no": 4068,
+    "il": "Şırnak",
+    "ilce": "Merkez",
+    "isim": "Balveren",
+    "nufus": 3871
+  },
+  {
+    "ilno": 73,
+    "ilceno": 1661,
+    "no": 4065,
+    "il": "Şırnak",
+    "ilce": "Merkez",
+    "isim": "Kasri̇k",
+    "nufus": 3391
+  },
+  {
+    "ilno": 73,
+    "ilceno": 1661,
+    "no": 4066,
+    "il": "Şırnak",
+    "ilce": "Merkez",
+    "isim": "Kumçati",
+    "nufus": 9874
+  },
+  {
+    "ilno": 73,
+    "ilceno": 1931,
+    "no": 4063,
+    "il": "Şırnak",
+    "ilce": "Güçlükonak",
+    "isim": "Findik",
+    "nufus": 2258
+  },
+  {
+    "ilno": 73,
+    "ilceno": 1403,
+    "no": 4061,
+    "il": "Şırnak",
+    "ilce": "İdil",
+    "isim": "Karalar",
+    "nufus": 4387
+  },
+  {
+    "ilno": 73,
+    "ilceno": 1403,
+    "no": 4062,
+    "il": "Şırnak",
+    "ilce": "İdil",
+    "isim": "Sirtköy",
+    "nufus": 2409
+  },
+  {
+    "ilno": 73,
+    "ilceno": 1623,
+    "no": 4058,
+    "il": "Şırnak",
+    "ilce": "Silopi",
+    "isim": "Başveri̇mli̇",
+    "nufus": 7903
+  },
+  {
+    "ilno": 73,
+    "ilceno": 1623,
+    "no": 4056,
+    "il": "Şırnak",
+    "ilce": "Silopi",
+    "isim": "Çalişkan",
+    "nufus": 5180
+  },
+  {
+    "ilno": 73,
+    "ilceno": 1623,
+    "no": 4057,
+    "il": "Şırnak",
+    "ilce": "Silopi",
+    "isim": "Görümlü",
+    "nufus": 5187
+  },
+  {
+    "ilno": 73,
+    "ilceno": 1698,
+    "no": 4059,
+    "il": "Şırnak",
+    "ilce": "Uludere",
+    "isim": "Hi̇lal",
+    "nufus": 3321
+  },
+  {
+    "ilno": 73,
+    "ilceno": 1698,
+    "no": 4060,
+    "il": "Şırnak",
+    "ilce": "Uludere",
+    "isim": "Şenoba",
+    "nufus": 7691
+  },
+  {
+    "ilno": 73,
+    "ilceno": 1698,
+    "no": 4067,
+    "il": "Şırnak",
+    "ilce": "Uludere",
+    "isim": "Uzungeçi̇t",
+    "nufus": 3312
+  },
+  {
+    "ilno": 74,
+    "ilceno": 1172,
+    "no": 4075,
+    "il": "Bartın",
+    "ilce": "Merkez",
+    "isim": "Hasankadi",
+    "nufus": 2167
+  },
+  {
+    "ilno": 74,
+    "ilceno": 1172,
+    "no": 4076,
+    "il": "Bartın",
+    "ilce": "Merkez",
+    "isim": "Kozcağiz",
+    "nufus": 7298
+  },
+  {
+    "ilno": 74,
+    "ilceno": 1701,
+    "no": 4074,
+    "il": "Bartın",
+    "ilce": "Ulus",
+    "isim": "Abdi̇paşa",
+    "nufus": 2711
+  },
+  {
+    "ilno": 74,
+    "ilceno": 1701,
+    "no": 4073,
+    "il": "Bartın",
+    "ilce": "Ulus",
+    "isim": "Kumluca",
+    "nufus": 2154
+  },
+  {
+    "ilno": 75,
+    "ilceno": 1356,
+    "no": 4085,
+    "il": "Ardahan",
+    "ilce": "Göle",
+    "isim": "Köprülü",
+    "nufus": 1928
+  },
+  {
+    "ilno": 76,
+    "ilceno": 1398,
+    "no": 4093,
+    "il": "Iğdır",
+    "ilce": "Merkez",
+    "isim": "Halfeli̇",
+    "nufus": 8240
+  },
+  {
+    "ilno": 76,
+    "ilceno": 1398,
+    "no": 4092,
+    "il": "Iğdır",
+    "ilce": "Merkez",
+    "isim": "Hoşhaber",
+    "nufus": 2827
+  },
+  {
+    "ilno": 76,
+    "ilceno": 1398,
+    "no": 4094,
+    "il": "Iğdır",
+    "ilce": "Merkez",
+    "isim": "Melekli̇",
+    "nufus": 3389
+  },
+  {
+    "ilno": 77,
+    "ilceno": 1716,
+    "no": 4109,
+    "il": "Yalova",
+    "ilce": "Merkez",
+    "isim": "Kadiköy",
+    "nufus": 9958
+  },
+  {
+    "ilno": 77,
+    "ilceno": 2019,
+    "no": 4108,
+    "il": "Yalova",
+    "ilce": "Altınova",
+    "isim": "Kaytazdere",
+    "nufus": 7123
+  },
+  {
+    "ilno": 77,
+    "ilceno": 2019,
+    "no": 4107,
+    "il": "Yalova",
+    "ilce": "Altınova",
+    "isim": "Subaşi",
+    "nufus": 8337
+  },
+  {
+    "ilno": 77,
+    "ilceno": 2019,
+    "no": 4106,
+    "il": "Yalova",
+    "ilce": "Altınova",
+    "isim": "Tavşanli",
+    "nufus": 4656
+  },
+  {
+    "ilno": 77,
+    "ilceno": 2021,
+    "no": 4105,
+    "il": "Yalova",
+    "ilce": "Çınarcık",
+    "isim": "Esenköy",
+    "nufus": 4396
+  },
+  {
+    "ilno": 77,
+    "ilceno": 2021,
+    "no": 4103,
+    "il": "Yalova",
+    "ilce": "Çınarcık",
+    "isim": "Koru",
+    "nufus": 8395
+  },
+  {
+    "ilno": 77,
+    "ilceno": 2021,
+    "no": 4101,
+    "il": "Yalova",
+    "ilce": "Çınarcık",
+    "isim": "Teşvi̇ki̇ye",
+    "nufus": 4838
+  },
+  {
+    "ilno": 77,
+    "ilceno": 2022,
+    "no": 4102,
+    "il": "Yalova",
+    "ilce": "Çiftlikköy",
+    "isim": "Taşköprü",
+    "nufus": 4642
+  },
+  {
+    "ilno": 78,
+    "ilceno": 1856,
+    "no": 4117,
+    "il": "Karabük",
+    "ilce": "Yenice",
+    "isim": "Yortan",
+    "nufus": 1703
+  },
+  {
+    "ilno": 80,
+    "ilceno": 1560,
+    "no": 4138,
+    "il": "Osmaniye",
+    "ilce": "Merkez",
+    "isim": "Cevdeti̇ye",
+    "nufus": 6139
+  },
+  {
+    "ilno": 80,
+    "ilceno": 1743,
+    "no": 4135,
+    "il": "Osmaniye",
+    "ilce": "Düziçi",
+    "isim": "Atalan",
+    "nufus": 1697
+  },
+  {
+    "ilno": 80,
+    "ilceno": 1743,
+    "no": 4134,
+    "il": "Osmaniye",
+    "ilce": "Düziçi",
+    "isim": "Böcekli̇",
+    "nufus": 2749
+  },
+  {
+    "ilno": 80,
+    "ilceno": 1743,
+    "no": 4133,
+    "il": "Osmaniye",
+    "ilce": "Düziçi",
+    "isim": "Ellek",
+    "nufus": 6619
+  },
+  {
+    "ilno": 80,
+    "ilceno": 1743,
+    "no": 4132,
+    "il": "Osmaniye",
+    "ilce": "Düziçi",
+    "isim": "Yarbaşi",
+    "nufus": 4269
+  },
+  {
+    "ilno": 80,
+    "ilceno": 2028,
+    "no": 4130,
+    "il": "Osmaniye",
+    "ilce": "Sumbas",
+    "isim": "Mehmetli̇",
+    "nufus": 2339
+  },
+  {
+    "ilno": 80,
+    "ilceno": 2029,
+    "no": 52883,
+    "il": "Osmaniye",
+    "ilce": "Toprakkale",
+    "isim": "Türkmen",
+    "nufus": 7438
+  },
+  {
+    "ilno": 81,
+    "ilceno": 1292,
+    "no": 4149,
+    "il": "Düzce",
+    "ilce": "Merkez",
+    "isim": "Beyköy",
+    "nufus": 6194
+  },
+  {
+    "ilno": 81,
+    "ilceno": 1292,
+    "no": 4147,
+    "il": "Düzce",
+    "ilce": "Merkez",
+    "isim": "Boğazi̇çi̇",
+    "nufus": 4113
+  }
+]

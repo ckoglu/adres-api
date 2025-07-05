@@ -1,0 +1,18 @@
+[
+  {
+    "baslik": "Adres API - Türkiye Adres Verileri",
+    "tanim": "Türkiye'nin il, ilçe, mahalle, köy ve belde JSON verileri",
+    "hakkinda": {
+                  "baslik": "bilgi",
+                  "kullanim": "API'yi kullanmak için yukarıdaki örnek komutları inceleyebilirsiniz.",
+                  "iletisim": "mail: ckoglu@example.com"
+                },
+    "istatistik": {
+      "il": 81,
+      "ilce": 973,
+      "mahalle": 51234,
+      "koy": 18245,
+      "son_guncelleme": "2025-07-04"
+    }
+  }
+]
