@@ -1,0 +1,2999 @@
+[
+  {
+    "no": 1,
+    "isim": "Adana",
+    "nufus": 2270298,
+    "alan": 13844,
+    "postakod": "01000",
+    "rakım": 25,
+    "alankod": [322],
+    "kıyı": true,
+    "bsehir": true,
+    "nuts": {
+      "nuts1": {
+        "kod": "TR6",
+        "isim": {
+          "en": "Mediterranean",
+          "tr": "Akdeniz"
+        }
+      },
+      "nuts2": {
+        "kod": "TR62",
+        "isim": "Adana"
+      },
+      "nuts3": "TR621"
+    },
+    "konum": {
+      "enlem": 37.001667,
+      "boylam": 35.328889
+    },
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/4yHUNdZuhcBn7rqX8",
+      "openStreetMap": "https://www.openstreetmap.org/relation/167216"
+    },
+    "bolge": {
+      "en": "Mediterranean",
+      "tr": "Akdeniz"
+    }
+  },
+  {
+    "no": 2,
+    "isim": "Adıyaman",
+    "nufus": 604978,
+    "alan": 7337,
+    "postakod": "02000",
+    "rakım": 701,
+    "alankod": [416],
+    "kıyı": false,
+    "bsehir": false,
+    "nuts": {
+      "nuts1": {
+        "kod": "TRC",
+        "isim": {
+          "en": "Southeast Anatolia",
+          "tr": "Güneydoğu Anadolu"
+        }
+      },
+      "nuts2": {
+        "kod": "TRC1",
+        "isim": "Gaziantep"
+      },
+      "nuts3": "TRC12"
+    },
+    "konum": {
+      "enlem": 37.764722,
+      "boylam": 38.278611
+    },
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/UqRzeK1ApyPjbhpp6",
+      "openStreetMap": "https://www.openstreetmap.org/relation/223141"
+    },
+    "bolge": {
+      "en": "Southeastern Anatolia",
+      "tr": "Güneydoğu Anadolu"
+    }
+  },
+  {
+    "no": 3,
+    "isim": "Afyonkarahisar",
+    "nufus": 751344,
+    "alan": 14016,
+    "postakod": "03000",
+    "rakım": 1012,
+    "alankod": [272],
+    "kıyı": false,
+    "bsehir": false,
+    "nuts": {
+      "nuts1": {
+        "kod": "TR3",
+        "isim": {
+          "en": "Aegean",
+          "tr": "Ege"
+        }
+      },
+      "nuts2": {
+        "kod": "TR33",
+        "isim": "Manisa"
+      },
+      "nuts3": "TR332"
+    },
+    "konum": {
+      "enlem": 38.750278,
+      "boylam": 30.556667
+    },
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/YeNjtvM93DdWqXZ46",
+      "openStreetMap": "https://www.openstreetmap.org/relation/223171"
+    },
+    "bolge": {
+      "en": "Aegean",
+      "tr": "Ege"
+    }
+  },
+  {
+    "no": 4,
+    "isim": "Ağrı",
+    "nufus": 511238,
+    "alan": 11099,
+    "postakod": "04000",
+    "rakım": 1630,
+    "alankod": [472],
+    "kıyı": false,
+    "bsehir": false,
+    "nuts": {
+      "nuts1": {
+        "kod": "TRA",
+        "isim": {
+          "en": "Northeast Anatolia",
+          "tr": "Kuzeydoğu Anadolu"
+        }
+      },
+      "nuts2": {
+        "kod": "TRA2",
+        "isim": "Ağrı"
+      },
+      "nuts3": "TRA21"
+    },
+    "konum": {
+      "enlem": 39.719444,
+      "boylam": 43.050556
+    },
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/XRhjXkNfniLTjCfY7",
+      "openStreetMap": "https://www.openstreetmap.org/relation/186433"
+    },
+    "bolge": {
+      "en": "Eastern Anatolia",
+      "tr": "Doğu Anadolu"
+    }
+  },
+  {
+    "no": 5,
+    "isim": "Amasya",
+    "nufus": 339529,
+    "alan": 5628,
+    "postakod": "05000",
+    "rakım": 400,
+    "alankod": [358],
+    "kıyı": false,
+    "bsehir": false,
+    "nuts": {
+      "nuts1": {
+        "kod": "TR8",
+        "isim": {
+          "en": "West Black Sea",
+          "tr": "Batı Karadeniz"
+        }
+      },
+      "nuts2": {
+        "kod": "TR83",
+        "isim": "Samsun"
+      },
+      "nuts3": "TR834"
+    },
+    "konum": {
+      "enlem": 40.649722,
+      "boylam": 35.835278
+    },
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/1wM3GEACXZW3kG219",
+      "openStreetMap": "https://www.openstreetmap.org/relation/223452"
+    },
+    "bolge": {
+      "en": "Black Sea",
+      "tr": "Karadeniz"
+    }
+  },
+  {
+    "no": 6,
+    "isim": "Ankara",
+    "nufus": 5803482,
+    "alan": 25632,
+    "postakod": "06000",
+    "rakım": 905,
+    "alankod": [312],
+    "kıyı": false,
+    "bsehir": true,
+    "nuts": {
+      "nuts1": {
+        "kod": "TR5",
+        "isim": {
+          "en": "West Anatolia",
+          "tr": "Batı Anadolu"
+        }
+      },
+      "nuts2": {
+        "kod": "TR51",
+        "isim": "Ankara"
+      },
+      "nuts3": "TR511"
+    },
+    "konum": {
+      "enlem": 39.92077,
+      "boylam": 32.85411
+    },
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/Ri3Zh3yBka5RhXdG8",
+      "openStreetMap": "https://www.openstreetmap.org/relation/223422"
+    },
+    "bolge": {
+      "en": "Central Anatolia",
+      "tr": "İç Anadolu"
+    }
+  },
+  {
+    "no": 7,
+    "isim": "Antalya",
+    "nufus": 2696249,
+    "alan": 20177,
+    "postakod": "07000",
+    "rakım": 62,
+    "alankod": [242],
+    "kıyı": true,
+    "bsehir": true,
+    "nuts": {
+      "nuts1": {
+        "kod": "TR6",
+        "isim": {
+          "en": "Mediterranean",
+          "tr": "Akdeniz"
+        }
+      },
+      "nuts2": {
+        "kod": "TR61",
+        "isim": "Antalya"
+      },
+      "nuts3": "TR611"
+    },
+    "konum": {
+      "enlem": 36.88414,
+      "boylam": 30.70563
+    },
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/bs2JWRpPJPLLfTyv5",
+      "openStreetMap": "https://www.openstreetmap.org/relation/223132"
+    },
+    "bolge": {
+      "en": "Mediterranean",
+      "tr": "Akdeniz"
+    }
+  },
+  {
+    "no": 8,
+    "isim": "Artvin",
+    "nufus": 172356,
+    "alan": 7393,
+    "postakod": "08000",
+    "rakım": 530,
+    "alankod": [466],
+    "kıyı": true,
+    "bsehir": false,
+    "nuts": {
+      "nuts1": {
+        "kod": "TR9",
+        "isim": {
+          "en": "East Black Sea",
+          "tr": "Doğu Karadeniz"
+        }
+      },
+      "nuts2": {
+        "kod": "TR90",
+        "isim": "Trabzon"
+      },
+      "nuts3": "TR905"
+    },
+    "konum": {
+      "enlem": 41.18222,
+      "boylam": 41.81889
+    },
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/BNqMFsBRd8AUX9mx8",
+      "openStreetMap": "https://www.openstreetmap.org/relation/223448"
+    },
+    "bolge": {
+      "en": "Black Sea",
+      "tr": "Karadeniz"
+    }
+  },
+  {
+    "no": 9,
+    "isim": "Aydın",
+    "nufus": 1161702,
+    "alan": 8116,
+    "postakod": "09000",
+    "rakım": 92,
+    "alankod": [256],
+    "kıyı": true,
+    "bsehir": true,
+    "nuts": {
+      "nuts1": {
+        "kod": "TR3",
+        "isim": {
+          "en": "Aegean",
+          "tr": "Ege"
+        }
+      },
+      "nuts2": {
+        "kod": "TR32",
+        "isim": "Aydın"
+      },
+      "nuts3": "TR321"
+    },
+    "konum": {
+      "enlem": 37.84444,
+      "boylam": 27.84556
+    },
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/453kMPbSgGMJPWcg7",
+      "openStreetMap": "https://www.openstreetmap.org/relation/223166"
+    },
+    "bolge": {
+      "en": "Aegean",
+      "tr": "Ege"
+    }
+  },
+  {
+    "no": 10,
+    "isim": "Balıkesir",
+    "nufus": 1273519,
+    "alan": 14583,
+    "postakod": "10000",
+    "rakım": 145,
+    "alankod": [266],
+    "kıyı": true,
+    "bsehir": true,
+    "nuts": {
+      "nuts1": {
+        "kod": "TR2",
+        "isim": {
+          "en": "West Marmara",
+          "tr": "Batı Marmara"
+        }
+      },
+      "nuts2": {
+        "kod": "TR22",
+        "isim": "Balıkesir"
+      },
+      "nuts3": "TR221"
+    },
+    "konum": {
+      "enlem": 39.64861,
+      "boylam": 27.8825
+    },
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/RJquCx4SbtBENXDu9",
+      "openStreetMap": "https://www.openstreetmap.org/relation/223464"
+    },
+    "bolge": {
+      "en": "Marmara",
+      "tr": "Marmara"
+    }
+  },
+  {
+    "no": 11,
+    "isim": "Bilecik",
+    "nufus": 228058,
+    "alan": 4179,
+    "postakod": "11000",
+    "rakım": 513,
+    "alankod": [228],
+    "kıyı": false,
+    "bsehir": false,
+    "nuts": {
+      "nuts1": {
+        "kod": "TR4",
+        "isim": {
+          "en": "East Marmara",
+          "tr": "Doğu Marmara"
+        }
+      },
+      "nuts2": {
+        "kod": "TR41",
+        "isim": "Bursa"
+      },
+      "nuts3": "TR413"
+    },
+    "konum": {
+      "enlem": 40.14556,
+      "boylam": 29.97917
+    },
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/LJDq5jVJdrcLhCHu5",
+      "openStreetMap": "https://www.openstreetmap.org/relation/223420"
+    },
+    "bolge": {
+      "en": "Marmara",
+      "tr": "Marmara"
+    }
+  },
+  {
+    "no": 12,
+    "isim": "Bingöl",
+    "nufus": 285655,
+    "alan": 8004,
+    "postakod": "12000",
+    "rakım": 1159,
+    "alankod": [426],
+    "kıyı": false,
+    "bsehir": false,
+    "nuts": {
+      "nuts1": {
+        "kod": "TRB",
+        "isim": {
+          "en": "Central East Anatolia",
+          "tr": "Ortadoğu Anadolu"
+        }
+      },
+      "nuts2": {
+        "kod": "TRB1",
+        "isim": "Malatya"
+      },
+      "nuts3": "TRB13"
+    },
+    "konum": {
+      "enlem": 38.885,
+      "boylam": 40.49861
+    },
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/4YXDvYHT4iHFCMDb7",
+      "openStreetMap": "https://www.openstreetmap.org/relation/223444"
+    },
+    "bolge": {
+      "en": "Eastern Anatolia",
+      "tr": "Doğu Anadolu"
+    }
+  },
+  {
+    "no": 13,
+    "isim": "Bitlis",
+    "nufus": 359747,
+    "alan": 8294,
+    "postakod": "13000",
+    "rakım": 1637,
+    "alankod": [434],
+    "kıyı": false,
+    "bsehir": false,
+    "nuts": {
+      "nuts1": {
+        "kod": "TRB",
+        "isim": {
+          "en": "Central East Anatolia",
+          "tr": "Ortadoğu Anadolu"
+        }
+      },
+      "nuts2": {
+        "kod": "TRB2",
+        "isim": "Van"
+      },
+      "nuts3": "TRB23"
+    },
+    "konum": {
+      "enlem": 38.39528,
+      "boylam": 42.12361
+    },
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/p3fCL2MKcfHeqXcD6",
+      "openStreetMap": "https://www.openstreetmap.org/relation/223441"
+    },
+    "bolge": {
+      "en": "Eastern Anatolia",
+      "tr": "Doğu Anadolu"
+    }
+  },
+  {
+    "no": 14,
+    "isim": "Bolu",
+    "nufus": 324789,
+    "alan": 8313,
+    "postakod": "14000",
+    "rakım": 741,
+    "alankod": [374],
+    "kıyı": false,
+    "bsehir": false,
+    "nuts": {
+      "nuts1": {
+        "kod": "TR4",
+        "isim": {
+          "en": "East Marmara",
+          "tr": "Doğu Marmara"
+        }
+      },
+      "nuts2": {
+        "kod": "TR42",
+        "isim": "Kocaeli"
+      },
+      "nuts3": "TR424"
+    },
+    "konum": {
+      "enlem": 40.73528,
+      "boylam": 31.60639
+    },
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/T8DJCNo4S8ngxcY36",
+      "openStreetMap": "https://www.openstreetmap.org/relation/223461"
+    },
+    "bolge": {
+      "en": "Black Sea",
+      "tr": "Karadeniz"
+    }
+  },
+  {
+    "no": 15,
+    "isim": "Burdur",
+    "nufus": 277452,
+    "alan": 7175,
+    "postakod": "15000",
+    "rakım": 963,
+    "alankod": [248],
+    "kıyı": false,
+    "bsehir": false,
+    "nuts": {
+      "nuts1": {
+        "kod": "TR6",
+        "isim": {
+          "en": "Mediterranean",
+          "tr": "Akdeniz"
+        }
+      },
+      "nuts2": {
+        "kod": "TR61",
+        "isim": "Antalya"
+      },
+      "nuts3": "TR613"
+    },
+    "konum": {
+      "enlem": 37.72111,
+      "boylam": 30.29056
+    },
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/BA4vZ8FHqw9TdWFt8",
+      "openStreetMap": "https://www.openstreetmap.org/relation/2319368"
+    },
+    "bolge": {
+      "en": "Mediterranean",
+      "tr": "Akdeniz"
+    }
+  },
+  {
+    "no": 16,
+    "isim": "Bursa",
+    "nufus": 3214571,
+    "alan": 10813,
+    "postakod": "16000",
+    "rakım": 238,
+    "alankod": [224],
+    "kıyı": true,
+    "bsehir": true,
+    "nuts": {
+      "nuts1": {
+        "kod": "TR4",
+        "isim": {
+          "en": "East Marmara",
+          "tr": "Doğu Marmara"
+        }
+      },
+      "nuts2": {
+        "kod": "TR41",
+        "isim": "Bursa"
+      },
+      "nuts3": "TR411"
+    },
+    "konum": {
+      "enlem": 40.18222,
+      "boylam": 29.06111
+    },
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/D4vgiGXypSUoAnb5A",
+      "openStreetMap": "https://www.openstreetmap.org/relation/223463"
+    },
+    "bolge": {
+      "en": "Marmara",
+      "tr": "Marmara"
+    }
+  },
+  {
+    "no": 17,
+    "isim": "Çanakkale",
+    "nufus": 570499,
+    "alan": 9817,
+    "postakod": "17000",
+    "rakım": 11,
+    "alankod": [286],
+    "kıyı": true,
+    "bsehir": false,
+    "nuts": {
+      "nuts1": {
+        "kod": "TR2",
+        "isim": {
+          "en": "West Marmara",
+          "tr": "Batı Marmara"
+        }
+      },
+      "nuts2": {
+        "kod": "TR22",
+        "isim": "Balıkesir"
+      },
+      "nuts3": "TR222"
+    },
+    "konum": {
+      "enlem": 40.15556,
+      "boylam": 26.41444
+    },
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/TUMVgeTAWBChTA5D9",
+      "openStreetMap": "https://www.openstreetmap.org/relation/223471"
+    },
+    "bolge": {
+      "en": "Marmara",
+      "tr": "Marmara"
+    }
+  },
+  {
+    "no": 18,
+    "isim": "Çankırı",
+    "nufus": 205501,
+    "alan": 7542,
+    "postakod": "18000",
+    "rakım": 730,
+    "alankod": [376],
+    "kıyı": false,
+    "bsehir": false,
+    "nuts": {
+      "nuts1": {
+        "kod": "TR8",
+        "isim": {
+          "en": "West Black Sea",
+          "tr": "Batı Karadeniz"
+        }
+      },
+      "nuts2": {
+        "kod": "TR82",
+        "isim": "Kastamonu"
+      },
+      "nuts3": "TR822"
+    },
+    "konum": {
+      "enlem": 40.6,
+      "boylam": 33.61667
+    },
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/6kF6GM2DkPqqCoMD8",
+      "openStreetMap": "https://www.openstreetmap.org/relation/223454"
+    },
+    "bolge": {
+      "en": "Marmara",
+      "tr": "Marmara"
+    }
+  },
+  {
+    "no": 19,
+    "isim": "Çorum",
+    "nufus": 528351,
+    "alan": 12428,
+    "postakod": "19000",
+    "rakım": 822,
+    "alankod": [364],
+    "kıyı": false,
+    "bsehir": false,
+    "nuts": {
+      "nuts1": {
+        "kod": "TR8",
+        "isim": {
+          "en": "West Black Sea",
+          "tr": "Batı Karadeniz"
+        }
+      },
+      "nuts2": {
+        "kod": "TR83",
+        "isim": "Samsun"
+      },
+      "nuts3": "TR833"
+    },
+    "konum": {
+      "enlem": 40.55056,
+      "boylam": 34.95556
+    },
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/wQa5dtRQDPCU4UNv9",
+      "openStreetMap": "https://www.openstreetmap.org/relation/223453"
+    },
+    "bolge": {
+      "en": "Black Sea",
+      "tr": "Karadeniz"
+    }
+  },
+  {
+    "no": 20,
+    "isim": "Denizli",
+    "nufus": 1059082,
+    "alan": 12134,
+    "postakod": "20000",
+    "rakım": 392,
+    "alankod": [258],
+    "kıyı": false,
+    "bsehir": true,
+    "nuts": {
+      "nuts1": {
+        "kod": "TR3",
+        "isim": {
+          "en": "Aegean",
+          "tr": "Ege"
+        }
+      },
+      "nuts2": {
+        "kod": "TR32",
+        "isim": "Aydın"
+      },
+      "nuts3": "TR322"
+    },
+    "konum": {
+      "enlem": 37.77639,
+      "boylam": 29.08611
+    },
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/aVMraLcFzdK6MbeT9",
+      "openStreetMap": "https://www.openstreetmap.org/relation/223169"
+    },
+    "bolge": {
+      "en": "Aegean",
+      "tr": "Ege"
+    }
+  },
+  {
+    "no": 21,
+    "isim": "Diyarbakır",
+    "nufus": 1818133,
+    "alan": 15168,
+    "postakod": "21000",
+    "rakım": 674,
+    "alankod": [412],
+    "kıyı": false,
+    "bsehir": true,
+    "nuts": {
+      "nuts1": {
+        "kod": "TRC",
+        "isim": {
+          "en": "Southeast Anatolia",
+          "tr": "Güneydoğu Anadolu"
+        }
+      },
+      "nuts2": {
+        "kod": "TRC2",
+        "isim": "Şanlıurfa"
+      },
+      "nuts3": "TRC22"
+    },
+    "konum": {
+      "enlem": 37.91417,
+      "boylam": 40.23056
+    },
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/qsS4gxc5GdbQeMo57",
+      "openStreetMap": "https://www.openstreetmap.org/relation/223435"
+    },
+    "bolge": {
+      "en": "Southeastern Anatolia",
+      "tr": "Güneydoğu Anadolu"
+    }
+  },
+  {
+    "no": 22,
+    "isim": "Edirne",
+    "nufus": 419913,
+    "alan": 6145,
+    "postakod": "22000",
+    "rakım": 50,
+    "alankod": [284],
+    "kıyı": true,
+    "bsehir": false,
+    "nuts": {
+      "nuts1": {
+        "kod": "TR2",
+        "isim": {
+          "en": "West Marmara",
+          "tr": "Batı Marmara"
+        }
+      },
+      "nuts2": {
+        "kod": "TR21",
+        "isim": "Tekirdağ"
+      },
+      "nuts3": "TR212"
+    },
+    "konum": {
+      "enlem": 41.67083,
+      "boylam": 26.55556
+    },
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/xBHKDxVHbWD2RrHs6",
+      "openStreetMap": "https://www.openstreetmap.org/relation/223465"
+    },
+    "bolge": {
+      "en": "Marmara",
+      "tr": "Marmara"
+    }
+  },
+  {
+    "no": 23,
+    "isim": "Elazığ",
+    "nufus": 604411,
+    "alan": 9383,
+    "postakod": "23000",
+    "rakım": 1041,
+    "alankod": [424],
+    "kıyı": false,
+    "bsehir": false,
+    "nuts": {
+      "nuts1": {
+        "kod": "TRB",
+        "isim": {
+          "en": "Central East Anatolia",
+          "tr": "Ortadoğu Anadolu"
+        }
+      },
+      "nuts2": {
+        "kod": "TRB1",
+        "isim": "Malatya"
+      },
+      "nuts3": "TRB12"
+    },
+    "konum": {
+      "enlem": 38.68056,
+      "boylam": 39.22639
+    },
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/aALifwxa3ZNacgtn6",
+      "openStreetMap": "https://www.openstreetmap.org/relation/223443"
+    },
+    "bolge": {
+      "en": "Eastern Anatolia",
+      "tr": "Doğu Anadolu"
+    }
+  },
+  {
+    "no": 24,
+    "isim": "Erzincan",
+    "nufus": 243399,
+    "alan": 11815,
+    "postakod": "24000",
+    "rakım": 1216,
+    "alankod": [446],
+    "kıyı": false,
+    "bsehir": false,
+    "nuts": {
+      "nuts1": {
+        "kod": "TRA",
+        "isim": {
+          "en": "Northeast Anatolia",
+          "tr": "Kuzeydoğu Anadolu"
+        }
+      },
+      "nuts2": {
+        "kod": "TRA1",
+        "isim": "Erzurum"
+      },
+      "nuts3": "TRA12"
+    },
+    "konum": {
+      "enlem": 39.75,
+      "boylam": 39.5
+    },
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/9ypr7KJcnAEakUqY6",
+      "openStreetMap": "https://www.openstreetmap.org/relation/223445"
+    },
+    "bolge": {
+      "en": "Eastern Anatolia",
+      "tr": "Doğu Anadolu"
+    }
+  },
+  {
+    "no": 25,
+    "isim": "Erzurum",
+    "nufus": 749993,
+    "alan": 25006,
+    "postakod": "25000",
+    "rakım": 1923,
+    "alankod": [442],
+    "kıyı": false,
+    "bsehir": true,
+    "nuts": {
+      "nuts1": {
+        "kod": "TRA",
+        "isim": {
+          "en": "Northeast Anatolia",
+          "tr": "Kuzeydoğu Anadolu"
+        }
+      },
+      "nuts2": {
+        "kod": "TRA1",
+        "isim": "Erzurum"
+      },
+      "nuts3": "TRA11"
+    },
+    "konum": {
+      "enlem": 39.90861,
+      "boylam": 41.27694
+    },
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/ssmkHABXNprF5JFC9",
+      "openStreetMap": "https://www.openstreetmap.org/relation/186432"
+    },
+    "bolge": {
+      "en": "Eastern Anatolia",
+      "tr": "Doğu Anadolu"
+    }
+  },
+  {
+    "no": 26,
+    "isim": "Eskişehir",
+    "nufus": 915418,
+    "alan": 13960,
+    "postakod": "26000",
+    "rakım": 796,
+    "alankod": [222],
+    "kıyı": false,
+    "bsehir": true,
+    "nuts": {
+      "nuts1": {
+        "kod": "TR4",
+        "isim": {
+          "en": "East Marmara",
+          "tr": "Doğu Marmara"
+        }
+      },
+      "nuts2": {
+        "kod": "TR41",
+        "isim": "Bursa"
+      },
+      "nuts3": "TR412"
+    },
+    "konum": {
+      "enlem": 39.77639,
+      "boylam": 30.52056
+    },
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/rRM16qjwATHfezhF8",
+      "openStreetMap": "https://www.openstreetmap.org/relation/223421"
+    },
+    "bolge": {
+      "en": "Central Anatolia",
+      "tr": "İç Anadolu"
+    }
+  },
+  {
+    "no": 27,
+    "isim": "Gaziantep",
+    "nufus": 2164134,
+    "alan": 6803,
+    "postakod": "27000",
+    "rakım": 838,
+    "alankod": [342],
+    "kıyı": false,
+    "bsehir": true,
+    "nuts": {
+      "nuts1": {
+        "kod": "TRC",
+        "isim": {
+          "en": "Southeast Anatolia",
+          "tr": "Güneydoğu Anadolu"
+        }
+      },
+      "nuts2": {
+        "kod": "TRC1",
+        "isim": "Gaziantep"
+      },
+      "nuts3": "TRC11"
+    },
+    "konum": {
+      "enlem": 37.06667,
+      "boylam": 37.38333
+    },
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/ySMoHHviNjRyBriG7",
+      "openStreetMap": "https://www.openstreetmap.org/relation/223139"
+    },
+    "bolge": {
+      "en": "Southeastern Anatolia",
+      "tr": "Güneydoğu Anadolu"
+    }
+  },
+  {
+    "no": 28,
+    "isim": "Giresun",
+    "nufus": 461712,
+    "alan": 7025,
+    "postakod": "28000",
+    "rakım": 14,
+    "alankod": [454],
+    "kıyı": true,
+    "bsehir": false,
+    "nuts": {
+      "nuts1": {
+        "kod": "TR9",
+        "isim": {
+          "en": "East Black Sea",
+          "tr": "Doğu Karadeniz"
+        }
+      },
+      "nuts2": {
+        "kod": "TR90",
+        "isim": "Trabzon"
+      },
+      "nuts3": "TR903"
+    },
+    "konum": {
+      "enlem": 40.91667,
+      "boylam": 38.4
+    },
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/xsmiZVAeBZrndZYE8",
+      "openStreetMap": "https://www.openstreetmap.org/relation/223449"
+    },
+    "bolge": {
+      "en": "Black Sea",
+      "tr": "Karadeniz"
+    }
+  },
+  {
+    "no": 29,
+    "isim": "Gümüşhane",
+    "nufus": 148539,
+    "alan": 6668,
+    "postakod": "29000",
+    "rakım": 1174,
+    "alankod": [456],
+    "kıyı": false,
+    "bsehir": false,
+    "nuts": {
+      "nuts1": {
+        "kod": "TR9",
+        "isim": {
+          "en": "East Black Sea",
+          "tr": "Doğu Karadeniz"
+        }
+      },
+      "nuts2": {
+        "kod": "TR90",
+        "isim": "Trabzon"
+      },
+      "nuts3": "TR906"
+    },
+    "konum": {
+      "enlem": 40.45,
+      "boylam": 39.48333
+    },
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/5nGQ1c66NJLJT2QL9",
+      "openStreetMap": "https://www.openstreetmap.org/relation/223541"
+    },
+    "bolge": {
+      "en": "Black Sea",
+      "tr": "Karadeniz"
+    }
+  },
+  {
+    "no": 30,
+    "isim": "Hakkari",
+    "nufus": 287625,
+    "alan": 7095,
+    "postakod": "30000",
+    "rakım": 1756,
+    "alankod": [438],
+    "kıyı": false,
+    "bsehir": false,
+    "nuts": {
+      "nuts1": {
+        "kod": "TRB",
+        "isim": {
+          "en": "Central East Anatolia",
+          "tr": "Ortadoğu Anadolu"
+        }
+      },
+      "nuts2": {
+        "kod": "TRB2",
+        "isim": "Van"
+      },
+      "nuts3": "TRB24"
+    },
+    "konum": {
+      "enlem": 37.58333,
+      "boylam": 43.73333
+    },
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/Pa4EUb6rz91uW66q9",
+      "openStreetMap": "https://www.openstreetmap.org/relation/174742"
+    },
+    "bolge": {
+      "en": "Southeastern Anatolia",
+      "tr": "Güneydoğu Anadolu"
+    }
+  },
+  {
+    "no": 31,
+    "isim": "Hatay",
+    "nufus": 1544640,
+    "alan": 5524,
+    "postakod": "31000",
+    "rakım": 89,
+    "alankod": [326],
+    "kıyı": true,
+    "bsehir": true,
+    "nuts": {
+      "nuts1": {
+        "kod": "TR6",
+        "isim": {
+          "en": "Mediterranean",
+          "tr": "Akdeniz"
+        }
+      },
+      "nuts2": {
+        "kod": "TR63",
+        "isim": "Hatay"
+      },
+      "nuts3": "TR631"
+    },
+    "konum": {
+      "enlem": 36.2,
+      "boylam": 36.16667
+    },
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/2VkFg1AM9B4Xv9W89",
+      "openStreetMap": "https://www.openstreetmap.org/relation/223122"
+    },
+    "bolge": {
+      "en": "Mediterranean",
+      "tr": "Akdeniz"
+    }
+  },
+  {
+    "no": 32,
+    "isim": "Isparta",
+    "nufus": 449777,
+    "alan": 8946,
+    "postakod": "32000",
+    "rakım": 1058,
+    "alankod": [246],
+    "kıyı": false,
+    "bsehir": false,
+    "nuts": {
+      "nuts1": {
+        "kod": "TR6",
+        "isim": {
+          "en": "Mediterranean",
+          "tr": "Akdeniz"
+        }
+      },
+      "nuts2": {
+        "kod": "TR61",
+        "isim": "Antalya"
+      },
+      "nuts3": "TR612"
+    },
+    "konum": {
+      "enlem": 37.76667,
+      "boylam": 30.55
+    },
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/v8tcHjuuCKyNMn687",
+      "openStreetMap": "https://www.openstreetmap.org/relation/223134"
+    },
+    "bolge": {
+      "en": "Mediterranean",
+      "tr": "Akdeniz"
+    }
+  },
+  {
+    "no": 33,
+    "isim": "Mersin",
+    "nufus": 1938389,
+    "alan": 16010,
+    "postakod": "33000",
+    "rakım": 18,
+    "alankod": [324],
+    "kıyı": true,
+    "bsehir": true,
+    "nuts": {
+      "nuts1": {
+        "kod": "TR6",
+        "isim": {
+          "en": "Mediterranean",
+          "tr": "Akdeniz"
+        }
+      },
+      "nuts2": {
+        "kod": "TR62",
+        "isim": "Adana"
+      },
+      "nuts3": "TR622"
+    },
+    "konum": {
+      "enlem": 36.8,
+      "boylam": 34.63333
+    },
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/jVPgxP2wEF1BcUV66",
+      "openStreetMap": "https://www.openstreetmap.org/relation/223131"
+    },
+    "bolge": {
+      "en": "Mediterranean",
+      "tr": "Akdeniz"
+    }
+  },
+  {
+    "no": 34,
+    "isim": "İstanbul",
+    "nufus": 15655924,
+    "alan": 5461,
+    "postakod": "34000",
+    "rakım": 25,
+    "alankod": [212, 216],
+    "kıyı": true,
+    "bsehir": true,
+    "nuts": {
+      "nuts1": {
+        "kod": "TR1",
+        "isim": {
+          "en": "İstanbul",
+          "tr": "İstanbul"
+        }
+      },
+      "nuts2": {
+        "kod": "TR10",
+        "isim": "İstanbul"
+      },
+      "nuts3": "TR100"
+    },
+    "konum": {
+      "enlem": 41.01384,
+      "boylam": 28.94966
+    },
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/wKdwRFM4NW8Wm6ZZ8",
+      "openStreetMap": "https://www.openstreetmap.org/relation/223474"
+    },
+    "bolge": {
+      "en": "Marmara",
+      "tr": "Marmara"
+    }
+  },
+  {
+    "no": 35,
+    "isim": "İzmir",
+    "nufus": 4479525,
+    "alan": 11891,
+    "postakod": "35000",
+    "rakım": 9,
+    "alankod": [232],
+    "kıyı": true,
+    "bsehir": true,
+    "nuts": {
+      "nuts1": {
+        "kod": "TR3",
+        "isim": {
+          "en": "Aegean",
+          "tr": "Ege"
+        }
+      },
+      "nuts2": {
+        "kod": "TR31",
+        "isim": "İzmir"
+      },
+      "nuts3": "TR310"
+    },
+    "konum": {
+      "enlem": 38.41885,
+      "boylam": 27.12872
+    },
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/nukYGi69xLMX7SNR6",
+      "openStreetMap": "https://www.openstreetmap.org/relation/223167"
+    },
+    "bolge": {
+      "en": "Aegean",
+      "tr": "Ege"
+    }
+  },
+  {
+    "no": 36,
+    "isim": "Kars",
+    "nufus": 278335,
+    "alan": 10193,
+    "postakod": "36000",
+    "rakım": 1756,
+    "alankod": [474],
+    "kıyı": false,
+    "bsehir": false,
+    "nuts": {
+      "nuts1": {
+        "kod": "TRA",
+        "isim": {
+          "en": "Northeast Anatolia",
+          "tr": "Kuzeydoğu Anadolu"
+        }
+      },
+      "nuts2": {
+        "kod": "TRA2",
+        "isim": "Ağrı"
+      },
+      "nuts3": "TRA22"
+    },
+    "konum": {
+      "enlem": 40.60833,
+      "boylam": 43.08333
+    },
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/worCQtM2sdTAy6t8A",
+      "openStreetMap": "https://www.openstreetmap.org/relation/186431"
+    },
+    "bolge": {
+      "en": "Eastern Anatolia",
+      "tr": "Doğu Anadolu"
+    }
+  },
+  {
+    "no": 37,
+    "isim": "Kastamonu",
+    "nufus": 388990,
+    "alan": 13064,
+    "postakod": "37000",
+    "rakım": 814,
+    "alankod": [366],
+    "kıyı": true,
+    "bsehir": false,
+    "nuts": {
+      "nuts1": {
+        "kod": "TR8",
+        "isim": {
+          "en": "West Black Sea",
+          "tr": "Batı Karadeniz"
+        }
+      },
+      "nuts2": {
+        "kod": "TR82",
+        "isim": "Kastamonu"
+      },
+      "nuts3": "TR821"
+    },
+    "konum": {
+      "enlem": 41.38889,
+      "boylam": 33.78222
+    },
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/SSFqej5quZyQ6uZn7",
+      "openStreetMap": "https://www.openstreetmap.org/relation/186431"
+    },
+    "bolge": {
+      "en": "Black Sea",
+      "tr": "Karadeniz"
+    }
+  },
+  {
+    "no": 38,
+    "isim": "Kayseri",
+    "nufus": 1445683,
+    "alan": 16970,
+    "postakod": "38000",
+    "rakım": 1060,
+    "alankod": [352],
+    "kıyı": false,
+    "bsehir": false,
+    "nuts": {
+      "nuts1": {
+        "kod": "TR7",
+        "isim": {
+          "en": "Central Anatolia",
+          "tr": "Orta Anadolu"
+        }
+      },
+      "nuts2": {
+        "kod": "TR72",
+        "isim": "Kayseri"
+      },
+      "nuts3": "TR721"
+    },
+    "konum": {
+      "enlem": 38.73111,
+      "boylam": 35.47889
+    },
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/A27qXKh2FCWEzTzr8",
+      "openStreetMap": "https://www.openstreetmap.org/relation/154451"
+    },
+    "bolge": {
+      "en": "Central Anatolia",
+      "tr": "İç Anadolu"
+    }
+  },
+  {
+    "no": 39,
+    "isim": "Kırklareli",
+    "nufus": 377156,
+    "alan": 6459,
+    "postakod": "39000",
+    "rakım": 231,
+    "alankod": [288],
+    "kıyı": true,
+    "bsehir": false,
+    "nuts": {
+      "nuts1": {
+        "kod": "TR2",
+        "isim": {
+          "en": "West Marmara",
+          "tr": "Batı Marmara"
+        }
+      },
+      "nuts2": {
+        "kod": "TR21",
+        "isim": "Tekirdağ"
+      },
+      "nuts3": "TR213"
+    },
+    "konum": {
+      "enlem": 41.73333,
+      "boylam": 27.21667
+    },
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/v6PRExTopMCA2uhb6",
+      "openStreetMap": "https://www.openstreetmap.org/relation/223469"
+    },
+    "bolge": {
+      "en": "Marmara",
+      "tr": "Marmara"
+    }
+  },
+  {
+    "no": 40,
+    "isim": "Kırşehir",
+    "nufus": 247179,
+    "alan": 6584,
+    "postakod": "40000",
+    "rakım": 991,
+    "alankod": [386],
+    "kıyı": false,
+    "bsehir": false,
+    "nuts": {
+      "nuts1": {
+        "kod": "TR7",
+        "isim": {
+          "en": "Central Anatolia",
+          "tr": "Orta Anadolu"
+        }
+      },
+      "nuts2": {
+        "kod": "TR71",
+        "isim": "Kırıkkale"
+      },
+      "nuts3": "TR715"
+    },
+    "konum": {
+      "enlem": 39.14222,
+      "boylam": 34.17056
+    },
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/C7rn2oVtZDqz54HA7",
+      "openStreetMap": "https://www.openstreetmap.org/relation/154452#map=9/39.3111/34.0556"
+    },
+    "bolge": {
+      "en": "Central Anatolia",
+      "tr": "İç Anadolu"
+    }
+  },
+  {
+    "no": 41,
+    "isim": "Kocaeli",
+    "nufus": 2102907,
+    "alan": 3397,
+    "postakod": "41000",
+    "rakım": 4,
+    "alankod": [262],
+    "kıyı": true,
+    "bsehir": true,
+    "nuts": {
+      "nuts1": {
+        "kod": "TR4",
+        "isim": {
+          "en": "East Marmara",
+          "tr": "Doğu Marmara"
+        }
+      },
+      "nuts2": {
+        "kod": "TR42",
+        "isim": "Kocaeli"
+      },
+      "nuts3": "TR421"
+    },
+    "konum": {
+      "enlem": 40.76667,
+      "boylam": 29.91667
+    },
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/PSVVkZbPKuEUrim67",
+      "openStreetMap": "https://www.openstreetmap.org/relation/223473"
+    },
+    "bolge": {
+      "en": "Marmara",
+      "tr": "Marmara"
+    }
+  },
+  {
+    "no": 42,
+    "isim": "Konya",
+    "nufus": 2320241,
+    "alan": 40838,
+    "postakod": "42000",
+    "rakım": 1023,
+    "alankod": [332],
+    "kıyı": false,
+    "bsehir": true,
+    "nuts": {
+      "nuts1": {
+        "kod": "TR5",
+        "isim": {
+          "en": "West Anatolia",
+          "tr": "Batı Anadolu"
+        }
+      },
+      "nuts2": {
+        "kod": "TR52",
+        "isim": "Konya"
+      },
+      "nuts3": "TR521"
+    },
+    "konum": {
+      "enlem": 37.86667,
+      "boylam": 32.48333
+    },
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/EMCU5es81LqioNid7",
+      "openStreetMap": "https://www.openstreetmap.org/relation/223133"
+    },
+    "bolge": {
+      "en": "Central Anatolia",
+      "tr": "İç Anadolu"
+    }
+  },
+  {
+    "no": 43,
+    "isim": "Kütahya",
+    "nufus": 575674,
+    "alan": 11634,
+    "postakod": "43000",
+    "rakım": 958,
+    "alankod": [274],
+    "kıyı": false,
+    "bsehir": false,
+    "nuts": {
+      "nuts1": {
+        "kod": "TR3",
+        "isim": {
+          "en": "Aegean",
+          "tr": "Ege"
+        }
+      },
+      "nuts2": {
+        "kod": "TR33",
+        "isim": "Manisa"
+      },
+      "nuts3": "TR333"
+    },
+    "konum": {
+      "enlem": 39.41667,
+      "boylam": 29.98333
+    },
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/DsRnEr82a7fsJ1Xf8",
+      "openStreetMap": "https://www.openstreetmap.org/relation/223172"
+    },
+    "bolge": {
+      "en": "Aegean",
+      "tr": "Ege"
+    }
+  },
+  {
+    "no": 44,
+    "isim": "Malatya",
+    "nufus": 742725,
+    "alan": 12259,
+    "postakod": "44000",
+    "rakım": 970,
+    "alankod": [422],
+    "kıyı": false,
+    "bsehir": true,
+    "nuts": {
+      "nuts1": {
+        "kod": "TRB",
+        "isim": {
+          "en": "Central East Anatolia",
+          "tr": "Ortadoğu Anadolu"
+        }
+      },
+      "nuts2": {
+        "kod": "TRB1",
+        "isim": "Malatya"
+      },
+      "nuts3": "TBB11"
+    },
+    "konum": {
+      "enlem": 38.355,
+      "boylam": 38.305
+    },
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/HkMktwFVCqoCt14g7",
+      "openStreetMap": "https://www.openstreetmap.org/relation/223426"
+    },
+    "bolge": {
+      "en": "Eastern Anatolia",
+      "tr": "Doğu Anadolu"
+    }
+  },
+  {
+    "no": 45,
+    "isim": "Manisa",
+    "nufus": 1475716,
+    "alan": 13339,
+    "postakod": "45000",
+    "rakım": 79,
+    "alankod": [236],
+    "kıyı": false,
+    "bsehir": true,
+    "nuts": {
+      "nuts1": {
+        "kod": "TR3",
+        "isim": {
+          "en": "Aegean",
+          "tr": "Ege"
+        }
+      },
+      "nuts2": {
+        "kod": "TR33",
+        "isim": "Manisa"
+      },
+      "nuts3": "TR331"
+    },
+    "konum": {
+      "enlem": 38.61361,
+      "boylam": 27.42694
+    },
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/E9DzgTLFvBV3rstE7",
+      "openStreetMap": "https://www.openstreetmap.org/relation/223168"
+    },
+    "bolge": {
+      "en": "Aegean",
+      "tr": "Ege"
+    }
+  },
+  {
+    "no": 46,
+    "isim": "Kahramanmaraş",
+    "nufus": 1116618,
+    "alan": 14520,
+    "postakod": "46000",
+    "rakım": 562,
+    "alankod": [344],
+    "kıyı": false,
+    "bsehir": true,
+    "nuts": {
+      "nuts1": {
+        "kod": "TR6",
+        "isim": {
+          "en": "Mediterranean",
+          "tr": "Akdeniz"
+        }
+      },
+      "nuts2": {
+        "kod": "TR63",
+        "isim": "Hatay"
+      },
+      "nuts3": "TR632"
+    },
+    "konum": {
+      "enlem": 37.58333,
+      "boylam": 36.93333
+    },
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/s3dakhk52nvps97L9",
+      "openStreetMap": "https://www.openstreetmap.org/relation/223138"
+    },
+    "bolge": {
+      "en": "Mediterranean",
+      "tr": "Akdeniz"
+    }
+  },
+  {
+    "no": 47,
+    "isim": "Mardin",
+    "nufus": 888874,
+    "alan": 8780,
+    "postakod": "47000",
+    "rakım": 938,
+    "alankod": [482],
+    "kıyı": false,
+    "bsehir": true,
+    "nuts": {
+      "nuts1": {
+        "kod": "TRC",
+        "isim": {
+          "en": "Southeast Anatolia",
+          "tr": "Güneydoğu Anadolu"
+        }
+      },
+      "nuts2": {
+        "kod": "TRC3",
+        "isim": "Mardin"
+      },
+      "nuts3": "TRC31"
+    },
+    "konum": {
+      "enlem": 37.31111,
+      "boylam": 40.74361
+    },
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/WidjMsfgeZwTdGqC9",
+      "openStreetMap": "https://www.openstreetmap.org/relation/223436"
+    },
+    "bolge": {
+      "en": "Southeastern Anatolia",
+      "tr": "Güneydoğu Anadolu"
+    }
+  },
+  {
+    "no": 48,
+    "isim": "Muğla",
+    "nufus": 1066736,
+    "alan": 12654,
+    "postakod": "48000",
+    "rakım": 659,
+    "alankod": [252],
+    "kıyı": true,
+    "bsehir": true,
+    "nuts": {
+      "nuts1": {
+        "kod": "TR3",
+        "isim": {
+          "en": "Aegean",
+          "tr": "Ege"
+        }
+      },
+      "nuts2": {
+        "kod": "TR32",
+        "isim": "Aydın"
+      },
+      "nuts3": "TR323"
+    },
+    "konum": {
+      "enlem": 37.21667,
+      "boylam": 28.36667
+    },
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/4YiaJwzP6U5Z2irW7",
+      "openStreetMap": "https://www.openstreetmap.org/relation/223136"
+    },
+    "bolge": {
+      "en": "Aegean",
+      "tr": "Ege"
+    }
+  },
+  {
+    "no": 49,
+    "isim": "Muş",
+    "nufus": 399879,
+    "alan": 8650,
+    "postakod": "49000",
+    "rakım": 1334,
+    "alankod": [436],
+    "kıyı": false,
+    "bsehir": false,
+    "nuts": {
+      "nuts1": {
+        "kod": "TRB",
+        "isim": {
+          "en": "Central East Anatolia",
+          "tr": "Ortadoğu Anadolu"
+        }
+      },
+      "nuts2": {
+        "kod": "TRB2",
+        "isim": "Van"
+      },
+      "nuts3": "TRB22"
+    },
+    "konum": {
+      "enlem": 38.74444,
+      "boylam": 41.49611
+    },
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/7oitkLxS2gPPAHEF7",
+      "openStreetMap": "https://www.openstreetmap.org/relation/223440"
+    },
+    "bolge": {
+      "en": "Eastern Anatolia",
+      "tr": "Doğu Anadolu"
+    }
+  },
+  {
+    "no": 50,
+    "isim": "Nevşehir",
+    "nufus": 315994,
+    "alan": 5485,
+    "postakod": "50000",
+    "rakım": 1197,
+    "alankod": [384],
+    "kıyı": false,
+    "bsehir": false,
+    "nuts": {
+      "nuts1": {
+        "kod": "TR7",
+        "isim": {
+          "en": "Central Anatolia",
+          "tr": "Orta Anadolu"
+        }
+      },
+      "nuts2": {
+        "kod": "TR71",
+        "isim": "Kırıkkale"
+      },
+      "nuts3": "TR714"
+    },
+    "konum": {
+      "enlem": 38.62444,
+      "boylam": 34.72306
+    },
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/MUa2UDqfpWXXfiod9",
+      "openStreetMap": "https://www.openstreetmap.org/relation/154449"
+    },
+    "bolge": {
+      "en": "Central Anatolia",
+      "tr": "İç Anadolu"
+    }
+  },
+  {
+    "no": 51,
+    "isim": "Niğde",
+    "nufus": 377080,
+    "alan": 7234,
+    "postakod": "51000",
+    "rakım": 1239,
+    "alankod": [388],
+    "kıyı": false,
+    "bsehir": false,
+    "nuts": {
+      "nuts1": {
+        "kod": "TR7",
+        "isim": {
+          "en": "Central Anatolia",
+          "tr": "Orta Anadolu"
+        }
+      },
+      "nuts2": {
+        "kod": "TR71",
+        "isim": "Kırıkkale"
+      },
+      "nuts3": "TR713"
+    },
+    "konum": {
+      "enlem": 37.96667,
+      "boylam": 34.68333
+    },
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/PpKh8rj8wEsN1raW9",
+      "openStreetMap": "https://www.openstreetmap.org/relation/154456"
+    },
+    "bolge": {
+      "en": "Central Anatolia",
+      "tr": "İç Anadolu"
+    }
+  },
+  {
+    "no": 52,
+    "isim": "Ordu",
+    "nufus": 775800,
+    "alan": 5861,
+    "postakod": "52000",
+    "rakım": 25,
+    "alankod": [452],
+    "kıyı": true,
+    "bsehir": true,
+    "nuts": {
+      "nuts1": {
+        "kod": "TR9",
+        "isim": {
+          "en": "East Black Sea",
+          "tr": "Doğu Karadeniz"
+        }
+      },
+      "nuts2": {
+        "kod": "TR90",
+        "isim": "Trabzon"
+      },
+      "nuts3": "TR902"
+    },
+    "konum": {
+      "enlem": 40.98333,
+      "boylam": 37.88333
+    },
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/MUUAwLbot3PKiM4z9",
+      "openStreetMap": "https://www.openstreetmap.org/relation/223450"
+    },
+    "bolge": {
+      "en": "Black Sea",
+      "tr": "Karadeniz"
+    }
+  },
+  {
+    "no": 53,
+    "isim": "Rize",
+    "nufus": 350506,
+    "alan": 3835,
+    "postakod": "53000",
+    "rakım": 11,
+    "alankod": [464],
+    "kıyı": true,
+    "bsehir": false,
+    "nuts": {
+      "nuts1": {
+        "kod": "TR9",
+        "isim": {
+          "en": "East Black Sea",
+          "tr": "Doğu Karadeniz"
+        }
+      },
+      "nuts2": {
+        "kod": "TR90",
+        "isim": "Trabzon"
+      },
+      "nuts3": "TR904"
+    },
+    "konum": {
+      "enlem": 41.02083,
+      "boylam": 40.52361
+    },
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/zyNExe1TH4ca4TEp7",
+      "openStreetMap": "https://www.openstreetmap.org/relation/223542"
+    },
+    "bolge": {
+      "en": "Black Sea",
+      "tr": "Karadeniz"
+    }
+  },
+  {
+    "no": 54,
+    "isim": "Sakarya",
+    "nufus": 1098115,
+    "alan": 4824,
+    "postakod": "54000",
+    "rakım": 41,
+    "alankod": [264],
+    "kıyı": true,
+    "bsehir": true,
+    "nuts": {
+      "nuts1": {
+        "kod": "TR4",
+        "isim": {
+          "en": "East Marmara",
+          "tr": "Doğu Marmara"
+        }
+      },
+      "nuts2": {
+        "kod": "TR42",
+        "isim": "Kocaeli"
+      },
+      "nuts3": "TR422"
+    },
+    "konum": {
+      "enlem": 40.76667,
+      "boylam": 30.41667
+    },
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/E14vjUfh6vtYgxNE6",
+      "openStreetMap": "https://www.openstreetmap.org/relation/223462"
+    },
+    "bolge": {
+      "en": "Marmara",
+      "tr": "Marmara"
+    }
+  },
+  {
+    "no": 55,
+    "isim": "Samsun",
+    "nufus": 1377546,
+    "alan": 9725,
+    "postakod": "55000",
+    "rakım": 10,
+    "alankod": [362],
+    "kıyı": true,
+    "bsehir": true,
+    "nuts": {
+      "nuts1": {
+        "kod": "TR8",
+        "isim": {
+          "en": "West Black Sea",
+          "tr": "Batı Karadeniz"
+        }
+      },
+      "nuts2": {
+        "kod": "TR83",
+        "isim": "Samsun"
+      },
+      "nuts3": "TR831"
+    },
+    "konum": {
+      "enlem": 41.28639,
+      "boylam": 36.33139
+    },
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/dfCJKSAcZh8fcHht5",
+      "openStreetMap": "https://www.openstreetmap.org/relation/223451"
+    },
+    "bolge": {
+      "en": "Black Sea",
+      "tr": "Karadeniz"
+    }
+  },
+  {
+    "no": 56,
+    "isim": "Siirt",
+    "nufus": 347412,
+    "alan": 5717,
+    "postakod": "56000",
+    "rakım": 887,
+    "alankod": [484],
+    "kıyı": false,
+    "bsehir": false,
+    "nuts": {
+      "nuts1": {
+        "kod": "TRC",
+        "isim": {
+          "en": "Southeast Anatolia",
+          "tr": "Güneydoğu Anadolu"
+        }
+      },
+      "nuts2": {
+        "kod": "TRC3",
+        "isim": "Mardin"
+      },
+      "nuts3": "TRC34"
+    },
+    "konum": {
+      "enlem": 37.94444,
+      "boylam": 41.93333
+    },
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/A9RziYU4nmT5JRXTA",
+      "openStreetMap": "https://www.openstreetmap.org/relation/223543"
+    },
+    "bolge": {
+      "en": "Southeastern Anatolia",
+      "tr": "Güneydoğu Anadolu"
+    }
+  },
+  {
+    "no": 57,
+    "isim": "Sinop",
+    "nufus": 229716,
+    "alan": 5717,
+    "postakod": "57000",
+    "rakım": 27,
+    "alankod": [368],
+    "kıyı": true,
+    "bsehir": false,
+    "nuts": {
+      "nuts1": {
+        "kod": "TR8",
+        "isim": {
+          "en": "West Black Sea",
+          "tr": "Batı Karadeniz"
+        }
+      },
+      "nuts2": {
+        "kod": "TR82",
+        "isim": "Kastamonu"
+      },
+      "nuts3": "TR823"
+    },
+    "konum": {
+      "enlem": 42.02361,
+      "boylam": 35.15306
+    },
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/dDFGTRBWxMVtV4sT6",
+      "openStreetMap": "https://www.openstreetmap.org/relation/223457"
+    },
+    "bolge": {
+      "en": "Black Sea",
+      "tr": "Karadeniz"
+    }
+  },
+  {
+    "no": 58,
+    "isim": "Sivas",
+    "nufus": 650401,
+    "alan": 28164,
+    "postakod": "58000",
+    "rakım": 1313,
+    "alankod": [346],
+    "kıyı": false,
+    "bsehir": false,
+    "nuts": {
+      "nuts1": {
+        "kod": "TR7",
+        "isim": {
+          "en": "Central Anatolia",
+          "tr": "Orta Anadolu"
+        }
+      },
+      "nuts2": {
+        "kod": "TR72",
+        "isim": "Kayseri"
+      },
+      "nuts3": "TR722"
+    },
+    "konum": {
+      "enlem": 39.74722,
+      "boylam": 37.0175
+    },
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/1EnUytV861FmLWjZ8",
+      "openStreetMap": "https://www.openstreetmap.org/relation/223425"
+    },
+    "bolge": {
+      "en": "Central Anatolia",
+      "tr": "İç Anadolu"
+    }
+  },
+  {
+    "no": 59,
+    "isim": "Tekirdağ",
+    "nufus": 1167059,
+    "alan": 6190,
+    "postakod": "59000",
+    "rakım": 28,
+    "alankod": [282],
+    "kıyı": true,
+    "bsehir": true,
+    "nuts": {
+      "nuts1": {
+        "kod": "TR2",
+        "isim": {
+          "en": "West Marmara",
+          "tr": "Batı Marmara"
+        }
+      },
+      "nuts2": {
+        "kod": "TR21",
+        "isim": "Tekirdağ"
+      },
+      "nuts3": "TR221"
+    },
+    "konum": {
+      "enlem": 40.98333,
+      "boylam": 27.51667
+    },
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/njUunD1SpA8zXX2r9",
+      "openStreetMap": "https://www.openstreetmap.org/relation/223470"
+    },
+    "bolge": {
+      "en": "Marmara",
+      "tr": "Marmara"
+    }
+  },
+  {
+    "no": 60,
+    "isim": "Tokat",
+    "nufus": 606934,
+    "alan": 10042,
+    "postakod": "60000",
+    "rakım": 630,
+    "alankod": [356],
+    "kıyı": false,
+    "bsehir": false,
+    "nuts": {
+      "nuts1": {
+        "kod": "TR8",
+        "isim": {
+          "en": "West Black Sea",
+          "tr": "Batı Karadeniz"
+        }
+      },
+      "nuts2": {
+        "kod": "TR83",
+        "isim": "Samsun"
+      },
+      "nuts3": "TR832"
+    },
+    "konum": {
+      "enlem": 40.31667,
+      "boylam": 36.55
+    },
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/NZdDAFbedQgwFHgV8",
+      "openStreetMap": "https://www.openstreetmap.org/relation/223424"
+    },
+    "bolge": {
+      "en": "Black Sea",
+      "tr": "Karadeniz"
+    }
+  },
+  {
+    "no": 61,
+    "isim": "Trabzon",
+    "nufus": 824352,
+    "alan": 4628,
+    "postakod": "61000",
+    "rakım": 36,
+    "alankod": [462],
+    "kıyı": true,
+    "bsehir": true,
+    "nuts": {
+      "nuts1": {
+        "kod": "TR9",
+        "isim": {
+          "en": "East Black Sea",
+          "tr": "Doğu Karadeniz"
+        }
+      },
+      "nuts2": {
+        "kod": "TR90",
+        "isim": "Trabzon"
+      },
+      "nuts3": "TR901"
+    },
+    "konum": {
+      "enlem": 41,
+      "boylam": 39.73333
+    },
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/3MNVGU2vaK4K4pUT6",
+      "openStreetMap": "https://www.openstreetmap.org/relation/223447"
+    },
+    "bolge": {
+      "en": "Black Sea",
+      "tr": "Karadeniz"
+    }
+  },
+  {
+    "no": 62,
+    "isim": "Tunceli",
+    "nufus": 89317,
+    "alan": 7582,
+    "postakod": "62000",
+    "rakım": 922,
+    "alankod": [428],
+    "kıyı": false,
+    "bsehir": false,
+    "nuts": {
+      "nuts1": {
+        "kod": "TRB",
+        "isim": {
+          "en": "Central East Anatolia",
+          "tr": "Ortadoğu Anadolu"
+        }
+      },
+      "nuts2": {
+        "kod": "TRB1",
+        "isim": "Malatya"
+      },
+      "nuts3": "TRB14"
+    },
+    "konum": {
+      "enlem": 39.11667,
+      "boylam": 39.53333
+    },
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/4xdfVHREhnbcexoQA",
+      "openStreetMap": "https://www.openstreetmap.org/relation/223537"
+    },
+    "bolge": {
+      "en": "Eastern Anatolia",
+      "tr": "Doğu Anadolu"
+    }
+  },
+  {
+    "no": 63,
+    "isim": "Şanlıurfa",
+    "nufus": 2213964,
+    "alan": 19242,
+    "postakod": "63000",
+    "rakım": 527,
+    "alankod": [414],
+    "kıyı": false,
+    "bsehir": true,
+    "nuts": {
+      "nuts1": {
+        "kod": "TRC",
+        "isim": {
+          "en": "Southeast Anatolia",
+          "tr": "Güneydoğu Anadolu"
+        }
+      },
+      "nuts2": {
+        "kod": "TRC2",
+        "isim": "Şanlıurfa"
+      },
+      "nuts3": "TRC21"
+    },
+    "konum": {
+      "enlem": 37.15,
+      "boylam": 38.8
+    },
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/HomBJUkX9PrtNk2L6",
+      "openStreetMap": "https://www.openstreetmap.org/relation/223434"
+    },
+    "bolge": {
+      "en": "Southeastern Anatolia",
+      "tr": "Güneydoğu Anadolu"
+    }
+  },
+  {
+    "no": 64,
+    "isim": "Uşak",
+    "nufus": 377001,
+    "alan": 5555,
+    "postakod": "64000",
+    "rakım": 915,
+    "alankod": [276],
+    "kıyı": false,
+    "bsehir": false,
+    "nuts": {
+      "nuts1": {
+        "kod": "TR3",
+        "isim": {
+          "en": "Aegean",
+          "tr": "Ege"
+        }
+      },
+      "nuts2": {
+        "kod": "TR33",
+        "isim": "Manisa"
+      },
+      "nuts3": "TR334"
+    },
+    "konum": {
+      "enlem": 38.68333,
+      "boylam": 29.41667
+    },
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/fAhNfzHxWuguCfib7",
+      "openStreetMap": "https://www.openstreetmap.org/relation/223170"
+    },
+    "bolge": {
+      "en": "Aegean",
+      "tr": "Ege"
+    }
+  },
+  {
+    "no": 65,
+    "isim": "Van",
+    "nufus": 1127612,
+    "alan": 20921,
+    "postakod": "65000",
+    "rakım": 1728,
+    "alankod": [432],
+    "kıyı": false,
+    "bsehir": true,
+    "nuts": {
+      "nuts1": {
+        "kod": "TRB",
+        "isim": {
+          "en": "Central East Anatolia",
+          "tr": "Ortadoğu Anadolu"
+        }
+      },
+      "nuts2": {
+        "kod": "TRB2",
+        "isim": "Van"
+      },
+      "nuts3": "TRB21"
+    },
+    "konum": {
+      "enlem": 38.5,
+      "boylam": 43.4
+    },
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/HSTpUR2egRhG39M29",
+      "openStreetMap": "https://www.openstreetmap.org/relation/223442"
+    },
+    "bolge": {
+      "en": "Eastern Anatolia",
+      "tr": "Doğu Anadolu"
+    }
+  },
+  {
+    "no": 66,
+    "isim": "Yozgat",
+    "nufus": 420699,
+    "alan": 13690,
+    "postakod": "66000",
+    "rakım": 1317,
+    "alankod": [354],
+    "kıyı": false,
+    "bsehir": false,
+    "nuts": {
+      "nuts1": {
+        "kod": "TR7",
+        "isim": {
+          "en": "Central Anatolia",
+          "tr": "Orta Anadolu"
+        }
+      },
+      "nuts2": {
+        "kod": "TR72",
+        "isim": "Kayseri"
+      },
+      "nuts3": "TR723"
+    },
+    "konum": {
+      "enlem": 39.81667,
+      "boylam": 34.81667
+    },
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/FJbXiqUud8M9tpGp9",
+      "openStreetMap": "https://www.openstreetmap.org/relation/154450"
+    },
+    "bolge": {
+      "en": "Central Anatolia",
+      "tr": "İç Anadolu"
+    }
+  },
+  {
+    "no": 67,
+    "isim": "Zonguldak",
+    "nufus": 591492,
+    "alan": 3342,
+    "postakod": "67000",
+    "rakım": 10,
+    "alankod": [372],
+    "kıyı": true,
+    "bsehir": false,
+    "nuts": {
+      "nuts1": {
+        "kod": "TR8",
+        "isim": {
+          "en": "West Black Sea",
+          "tr": "Batı Karadeniz"
+        }
+      },
+      "nuts2": {
+        "kod": "TR81",
+        "isim": "Zonguldak"
+      },
+      "nuts3": "TR811"
+    },
+    "konum": {
+      "enlem": 41.45,
+      "boylam": 31.8
+    },
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/uLQrR9gNqGMRJ4t7A",
+      "openStreetMap": "https://www.openstreetmap.org/relation/223459"
+    },
+    "bolge": {
+      "en": "Black Sea",
+      "tr": "Karadeniz"
+    }
+  },
+  {
+    "no": 68,
+    "isim": "Aksaray",
+    "nufus": 438504,
+    "alan": 7659,
+    "postakod": "68000",
+    "rakım": 1228,
+    "alankod": [382],
+    "kıyı": false,
+    "bsehir": false,
+    "nuts": {
+      "nuts1": {
+        "kod": "TR7",
+        "isim": {
+          "en": "Central Anatolia",
+          "tr": "Orta Anadolu"
+        }
+      },
+      "nuts2": {
+        "kod": "TR71",
+        "isim": "Kırıkkale"
+      },
+      "nuts3": "TR712"
+    },
+    "konum": {
+      "enlem": 38.36667,
+      "boylam": 34.03333
+    },
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/xsGaB46hYrkMkwd8A",
+      "openStreetMap": "https://www.openstreetmap.org/relation/154454"
+    },
+    "bolge": {
+      "en": "Central Anatolia",
+      "tr": "İç Anadolu"
+    }
+  },
+  {
+    "no": 69,
+    "isim": "Bayburt",
+    "nufus": 86047,
+    "alan": 3746,
+    "postakod": "69000",
+    "rakım": 1555,
+    "alankod": [458],
+    "kıyı": false,
+    "bsehir": false,
+    "nuts": {
+      "nuts1": {
+        "kod": "TRA",
+        "isim": {
+          "en": "Northeast Anatolia",
+          "tr": "Kuzeydoğu Anadolu"
+        }
+      },
+      "nuts2": {
+        "kod": "TRA1",
+        "isim": "Erzurum"
+      },
+      "nuts3": "TRA13"
+    },
+    "konum": {
+      "enlem": 40.25,
+      "boylam": 40.21667
+    },
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/mGqWgVfqQneCzwj36",
+      "openStreetMap": "https://www.openstreetmap.org/relation/223446"
+    },
+    "bolge": {
+      "en": "Black Sea",
+      "tr": "Karadeniz"
+    }
+  },
+  {
+    "no": 70,
+    "isim": "Karaman",
+    "nufus": 263960,
+    "alan": 8678,
+    "postakod": "70000",
+    "rakım": 1063,
+    "alankod": [338],
+    "kıyı": false,
+    "bsehir": false,
+    "nuts": {
+      "nuts1": {
+        "kod": "TR5",
+        "isim": {
+          "en": "West Anatolia",
+          "tr": "Batı Anadolu"
+        }
+      },
+      "nuts2": {
+        "kod": "TR52",
+        "isim": "Konya"
+      },
+      "nuts3": "TR522"
+    },
+    "konum": {
+      "enlem": 37.18333,
+      "boylam": 33.21667
+    },
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/FWnvmkmDTmfnt3FN7",
+      "openStreetMap": "https://www.openstreetmap.org/relation/223446"
+    },
+    "bolge": {
+      "en": "Central Anatolia",
+      "tr": "İç Anadolu"
+    }
+  },
+  {
+    "no": 71,
+    "isim": "Kırıkkale",
+    "nufus": 285744,
+    "alan": 4791,
+    "postakod": "71000",
+    "rakım": 746,
+    "alankod": [318],
+    "kıyı": false,
+    "bsehir": false,
+    "nuts": {
+      "nuts1": {
+        "kod": "TR7",
+        "isim": {
+          "en": "Central Anatolia",
+          "tr": "Orta Anadolu"
+        }
+      },
+      "nuts2": {
+        "kod": "TR71",
+        "isim": "Kırıkkale"
+      },
+      "nuts3": "TR711"
+    },
+    "konum": {
+      "enlem": 39.85,
+      "boylam": 33.51667
+    },
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/wrhgZ7eMU9LwfiL46",
+      "openStreetMap": "https://www.openstreetmap.org/relation/223423"
+    },
+    "bolge": {
+      "en": "Central Anatolia",
+      "tr": "İç Anadolu"
+    }
+  },
+  {
+    "no": 72,
+    "isim": "Batman",
+    "nufus": 647205,
+    "alan": 4477,
+    "postakod": "72000",
+    "rakım": 570,
+    "alankod": [488],
+    "kıyı": false,
+    "bsehir": false,
+    "nuts": {
+      "nuts1": {
+        "kod": "TRC",
+        "isim": {
+          "en": "Southeast Anatolia",
+          "tr": "Güneydoğu Anadolu"
+        }
+      },
+      "nuts2": {
+        "kod": "TRC3",
+        "isim": "Mardin"
+      },
+      "nuts3": "TRC32"
+    },
+    "konum": {
+      "enlem": 37.88333,
+      "boylam": 41.13333
+    },
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/DiyqUr2MEoPWmWjV8",
+      "openStreetMap": "https://www.openstreetmap.org/relation/223437"
+    },
+    "bolge": {
+      "en": "Southeastern Anatolia",
+      "tr": "Güneydoğu Anadolu"
+    }
+  },
+  {
+    "no": 73,
+    "isim": "Şırnak",
+    "nufus": 570745,
+    "alan": 7078,
+    "postakod": "73000",
+    "rakım": 1343,
+    "alankod": [486],
+    "kıyı": false,
+    "bsehir": false,
+    "nuts": {
+      "nuts1": {
+        "kod": "TRC",
+        "isim": {
+          "en": "Southeast Anatolia",
+          "tr": "Güneydoğu Anadolu"
+        }
+      },
+      "nuts2": {
+        "kod": "TRC3",
+        "isim": "Mardin"
+      },
+      "nuts3": "TRC33"
+    },
+    "konum": {
+      "enlem": 37.51667,
+      "boylam": 42.46667
+    },
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/tDwsK4Y4kJZDpp55A",
+      "openStreetMap": "https://www.openstreetmap.org/relation/1751843"
+    },
+    "bolge": {
+      "en": "Southeastern Anatolia",
+      "tr": "Güneydoğu Anadolu"
+    }
+  },
+  {
+    "no": 74,
+    "isim": "Bartın",
+    "nufus": 207238,
+    "alan": 2330,
+    "postakod": "74000",
+    "rakım": 12,
+    "alankod": [378],
+    "kıyı": true,
+    "bsehir": false,
+    "nuts": {
+      "nuts1": {
+        "kod": "TR8",
+        "isim": {
+          "en": "West Black Sea",
+          "tr": "Batı Karadeniz"
+        }
+      },
+      "nuts2": {
+        "kod": "TR81",
+        "isim": "Zonguldak"
+      },
+      "nuts3": "TR813"
+    },
+    "konum": {
+      "enlem": 41.63333,
+      "boylam": 32.33333
+    },
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/kEA1uaXRs5h4Ys497",
+      "openStreetMap": "https://www.openstreetmap.org/relation/223458"
+    },
+    "bolge": {
+      "en": "North Sea",
+      "tr": "Karadeniz"
+    }
+  },
+  {
+    "no": 75,
+    "isim": "Ardahan",
+    "nufus": 92819,
+    "alan": 4934,
+    "postakod": "75000",
+    "rakım": 1799,
+    "alankod": [478],
+    "kıyı": false,
+    "bsehir": false,
+    "nuts": {
+      "nuts1": {
+        "kod": "TRA",
+        "isim": {
+          "en": "Northeast Anatolia",
+          "tr": "Kuzeydoğu Anadolu"
+        }
+      },
+      "nuts2": {
+        "kod": "TRA2",
+        "isim": "Ağrı"
+      },
+      "nuts3": "TRA24"
+    },
+    "konum": {
+      "enlem": 41.10833,
+      "boylam": 42.7
+    },
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/czPjzpGKZMS5hUgm9",
+      "openStreetMap": "https://www.openstreetmap.org/relation/1251450"
+    },
+    "bolge": {
+      "en": "Eastern Anatolia",
+      "tr": "Doğu Anadolu"
+    }
+  },
+  {
+    "no": 76,
+    "isim": "Iğdır",
+    "nufus": 209738,
+    "alan": 3664,
+    "postakod": "76000",
+    "rakım": 860,
+    "alankod": [476],
+    "kıyı": false,
+    "bsehir": false,
+    "nuts": {
+      "nuts1": {
+        "kod": "TRA",
+        "isim": {
+          "en": "Northeast Anatolia",
+          "tr": "Kuzeydoğu Anadolu"
+        }
+      },
+      "nuts2": {
+        "kod": "TRA2",
+        "isim": "Ağrı"
+      },
+      "nuts3": "TRA23"
+    },
+    "konum": {
+      "enlem": 39.91667,
+      "boylam": 44.03333
+    },
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/4sTLXpYBHttBGPsdA",
+      "openStreetMap": "https://www.openstreetmap.org/relation/186434"
+    },
+    "bolge": {
+      "en": "Eastern Anatolia",
+      "tr": "Doğu Anadolu"
+    }
+  },
+  {
+    "no": 77,
+    "isim": "Yalova",
+    "nufus": 304780,
+    "alan": 798,
+    "postakod": "77000",
+    "rakım": 8,
+    "alankod": [226],
+    "kıyı": true,
+    "bsehir": false,
+    "nuts": {
+      "nuts1": {
+        "kod": "TR4",
+        "isim": {
+          "en": "East Marmara",
+          "tr": "Doğu Marmara"
+        }
+      },
+      "nuts2": {
+        "kod": "TR42",
+        "isim": "Kocaeli"
+      },
+      "nuts3": "TR425"
+    },
+    "konum": {
+      "enlem": 40.65,
+      "boylam": 29.26667
+    },
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/RtzU9F1fuhPVMFsm9",
+      "openStreetMap": "https://www.openstreetmap.org/relation/223472"
+    },
+    "bolge": {
+      "en": "Marmara",
+      "tr": "Marmara"
+    }
+  },
+  {
+    "no": 78,
+    "isim": "Karabük",
+    "nufus": 255242,
+    "alan": 4142,
+    "postakod": "78000",
+    "rakım": 264,
+    "alankod": [370],
+    "kıyı": false,
+    "bsehir": false,
+    "nuts": {
+      "nuts1": {
+        "kod": "TR8",
+        "isim": {
+          "en": "West Black Sea",
+          "tr": "Batı Karadeniz"
+        }
+      },
+      "nuts2": {
+        "kod": "TR81",
+        "isim": "Zonguldak"
+      },
+      "nuts3": "TR812"
+    },
+    "konum": {
+      "enlem": 41.2,
+      "boylam": 32.63333
+    },
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/QMVjbUBH7Q7XHKcK9",
+      "openStreetMap": "https://www.openstreetmap.org/relation/223455"
+    },
+    "bolge": {
+      "en": "Black Sea",
+      "tr": "Karadeniz"
+    }
+  },
+  {
+    "no": 79,
+    "isim": "Kilis",
+    "nufus": 155179,
+    "alan": 1412,
+    "postakod": "79000",
+    "rakım": 660,
+    "alankod": [348],
+    "kıyı": false,
+    "bsehir": false,
+    "nuts": {
+      "nuts1": {
+        "kod": "TRC",
+        "isim": {
+          "en": "Southeast Anatolia",
+          "tr": "Güneydoğu Anadolu"
+        }
+      },
+      "nuts2": {
+        "kod": "TRC1",
+        "isim": "Gaziantep"
+      },
+      "nuts3": "TRC13"
+    },
+    "konum": {
+      "enlem": 36.71667,
+      "boylam": 37.11667
+    },
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/4qRGCoNwMNn9BJ8G8",
+      "openStreetMap": "https://www.openstreetmap.org/relation/223140"
+    },
+    "bolge": {
+      "en": "Southeastern Anatolia",
+      "tr": "Güneydoğu Anadolu"
+    }
+  },
+  {
+    "no": 80,
+    "isim": "Osmaniye",
+    "nufus": 557666,
+    "alan": 3320,
+    "postakod": "80000",
+    "rakım": 121,
+    "alankod": [328],
+    "kıyı": false,
+    "bsehir": false,
+    "nuts": {
+      "nuts1": {
+        "kod": "TR6",
+        "isim": {
+          "en": "Mediterranean",
+          "tr": "Akdeniz"
+        }
+      },
+      "nuts2": {
+        "kod": "TR63",
+        "isim": "Hatay"
+      },
+      "nuts3": "TR633"
+    },
+    "konum": {
+      "enlem": 37.06667,
+      "boylam": 36.25
+    },
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/UVsA8GVQDsxjUysN9",
+      "openStreetMap": "https://www.openstreetmap.org/relation/167232"
+    },
+    "bolge": {
+      "en": "Mediterranean",
+      "tr": "Akdeniz"
+    }
+  },
+  {
+    "no": 81,
+    "isim": "Düzce",
+    "nufus": 409865,
+    "alan": 2492,
+    "postakod": "81000",
+    "rakım": 149,
+    "alankod": [380],
+    "kıyı": true,
+    "bsehir": false,
+    "nuts": {
+      "nuts1": {
+        "kod": "TR4",
+        "isim": {
+          "en": "East Marmara",
+          "tr": "Doğu Marmara"
+        }
+      },
+      "nuts2": {
+        "kod": "TR42",
+        "isim": "Kocaeli"
+      },
+      "nuts3": "TR423"
+    },
+    "konum": {
+      "enlem": 40.83333,
+      "boylam": 31.16667
+    },
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/ypKm6p456SRRkSCd8",
+      "openStreetMap": "https://www.openstreetmap.org/relation/223460"
+    },
+    "bolge": {
+      "en": "Black Sea",
+      "tr": "Karadeniz"
+    }
+  }
+]
